@@ -71,9 +71,7 @@ internal class Program
 
         }
 
-        
-        
-        
+
 
         public void Start()
         {   
@@ -178,40 +176,17 @@ internal class Program
                     Console.WriteLine("Invalid operation");
                 }
 
-               
-
 
             }
-         
 
-
-      
         }   
-
-
-    
-
-        
+       
     }
     private static void Main(string[] args)
     {
         
-
-
-
-
-
-
-
-
-
-
-
         Calculator myCalc = new Calculator();
         myCalc.Start();
 
-
-        
-        
     }
 }
