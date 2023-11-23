@@ -3,44 +3,29 @@
 
     public class Calculator
     {
-        public int Add(int a, int b)
+        public double Add(double a, double b) => a + b;
+        public double Substract(double a, double b) => a - b;
+        public double Multiply(double a, double b) => a * b;        
+        public double Divide(double a, double b) => a / b;        
+
+        public double Exponent(double a, double b) => (double)Math.Pow(a, b);
+
+        public long Factorial(long a) => a == 0 ? 1 : a * Factorial(a - 1);
+
+
+    
+
+        public void PrintResult(double result)
         {
-            return a + b;
+            Console.WriteLine(result);
         }
 
-        public int Substract(int a, int b)
-        {
-            return a - b;
-        }
 
-        public int Multiply(int a, int b)
-        {
-            return a * b;
-        }
-
-        public int Divide(int a, int b)
-        {
-            return a / b;
-
-        }
-
-        public int Exponent(int a, int b)
-        {
-            return a ^ b;
-        }
-
-        public long Factorial(int a)
-        {
-            long result = 1;
-            for (int i = 1; i <= a; i++)
-            {
-                result *= i;
-            }
-            return result;
-        }
+        
     }
     private static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Calculator myCalc = new Calculator();
+        Console.WriteLine(myCalc.Add(4, 4));
     }
 }
