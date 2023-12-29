@@ -14,31 +14,31 @@ internal class Program
     public abstract class Vehicle
     {
 
-        private int id { get; set; }
-        private string brand { get; set; }
+        private int _id { get; set; }
+        private string _brand { get; set; }
 
-        private string model { get; set; }
-        private int yearOfProduction { get; set; }
-        private string color { get; set; }
-        private double price { get; set; }
-        private string registrationNumber { get; set; }
-        private int mileage { get; set; }
-        private int inService { get; set; }
-        private int comfortClass { get; set; }
-        private double modelCoefficient { get; set; }
+        private string _model { get; set; }
+        private int _yearOfProduction { get; set; }
+        private string _color { get; set; }
+        private double _price { get; set; }
+        private string _registrationNumber { get; set; }
+        private int _mileage { get; set; }
+        private int _inService { get; set; }
+        private int _comfortClass { get; set; }
+        private double _modelCoefficient { get; set; }
 
 
-        public int Id { get => id; set => id = value; }
-        public string Brand { get => brand; set => brand = value; }
-        public string Model { get => model; set => model = value; }
-        public int YearOfProduction{ get => yearOfProduction; set => yearOfProduction = value;}
-        public string Color { get => color; set => color = value; }
-        public double Price { get => price; set => price = value; }
-        public string RegistrationNumber { get => registrationNumber; set => registrationNumber = value; }
-        public int Mileage { get => mileage; set => mileage = value; }
-        public int InService { get => inService; set => inService = value; }
-        public int ComfortClass { get => comfortClass; set => comfortClass = value; }
-        public double ModelCoefficient { get => modelCoefficient; set => modelCoefficient = value; }
+        public int Id { get => _id; set => _id = value; }
+        public string Brand { get => _brand; set => _brand = value; }
+        public string Model { get => _model; set => _model = value; }
+        public int YearOfProduction{ get => _yearOfProduction; set => _yearOfProduction = value;}
+        public string Color { get => _color; set => _color = value; }
+        public double Price { get => _price; set => _price = value; }
+        public string RegistrationNumber { get => _registrationNumber; set => _registrationNumber = value; }
+        public int Mileage { get => _mileage; set => _mileage = value; }
+        public int InService { get => _inService; set => _inService = value; }
+        public int ComfortClass { get => _comfortClass; set => _comfortClass = value; }
+        public double ModelCoefficient { get => _modelCoefficient; set => _modelCoefficient = value; }
 
 
 
@@ -95,7 +95,7 @@ internal class Program
         {
             return $"Id: {Id}, Brand: {Brand}, Model: {Model}, Year: {YearOfProduction}, " +
                    $"Color: {Color}, Price: {Price}, Registration Number: {RegistrationNumber}, " +
-                   $"Mileage: {Mileage}, In service: {inService}, " +
+                   $"Mileage: {Mileage}, In service: {_inService}, " +
                    $"Comfort Class: {ComfortClass}, Model Coefficient: {ModelCoefficient}";
         }
 
@@ -217,8 +217,8 @@ internal class Program
     public class PassengerVehicle : Vehicle
     {
 
-        private double lesseesRating { get; set; }
-        public double LesseesRating { get => lesseesRating; set => lesseesRating = value; }
+        private double _lesseesRating { get; set; }
+        public double LesseesRating { get => _lesseesRating; set => _lesseesRating = value; }
 
         public override double CalculateRentalCost(double durationOfTheTrip, double travelDistance)
         {
@@ -232,7 +232,7 @@ internal class Program
 
         public override string ToString()
         {
-            return base.ToString() + $", Lessees Rating: {lesseesRating}" + "\n";
+            return base.ToString() + $", Lessees Rating: {_lesseesRating}" + "\n";
         }
 
         public override double CalculateMilageToMaintenance() => 5000 - (Mileage % 5000);
@@ -241,9 +241,9 @@ internal class Program
 
     public class CargoVehicle : Vehicle
     {
-        private double cargoWeight { get; set; }
+        private double _cargoWeight { get; set; }
 
-        public double CargoWeight { get => cargoWeight; set => cargoWeight = value; }
+        public double CargoWeight { get => _cargoWeight; set => _cargoWeight = value; }
 
         public override double CalculateRentalCost(double durationOfTheTrip, double travelDistance)
         {
@@ -260,7 +260,7 @@ internal class Program
 
         public override string ToString()
         {
-            return base.ToString() + $", Cargo Weight: {cargoWeight}" + "\n";
+            return base.ToString() + $", Cargo Weight: {_cargoWeight}" + "\n";
         }
 
     }

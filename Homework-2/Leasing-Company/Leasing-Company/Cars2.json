@@ -1,0 +1,110 @@
+[
+    {
+        "Id": 1,
+        "brand": "Ford",
+        "model": "Mustang",
+        "yearOfProduction": "2023",
+        "color": "Red",
+        "price": 50000,
+        "registrationNumber": "ABC-123",
+        "leeseesRating": 4,
+        "comfortClass": "Luxury"
+    },
+    {
+        "Id": 2,
+        "brand": "Toyota",
+        "model": "Corolla",
+        "yearOfProduction": "2022",
+        "color": "Blue",
+        "price": 30000,
+        "registrationNumber": "DEF-456",
+        "leeseesRating": 5,
+        "comfortClass": "Economy"
+    },
+    {
+        "Id": 3,
+        "brand": "Volvo",
+        "model": "XC90",
+        "yearOfProduction": "2021",
+        "color": "Black",
+        "price": 100000,
+        "registrationNumber": "GHI-789",
+        "leeseesRating": 3,
+        "comfortClass": "Premium"
+    },
+    {
+        "Id": 4,
+        "brand": "Mercedes-Benz",
+        "model": "S-Class",
+        "yearOfProduction": "2020",
+        "color": "White",
+        "price": 200000,
+        "registrationNumber": "JKL-012",
+        "leeseesRating": 5,
+        "comfortClass": "Luxury"
+    },
+    {
+        "Id": 5,
+        "brand": "BMW",
+        "model": "7 Series",
+        "yearOfProduction": "2019",
+        "color": "Silver",
+        "price": 150000,
+        "registrationNumber": "MNO-345",
+        "leeseesRating": 4,
+        "comfortClass": "Premium"
+    },
+    {
+        "Id": 6,
+        "brand": "Tesla",
+        "model": "Model S",
+        "yearOfProduction": "2018",
+        "color": "Green",
+        "price": 100000,
+        "registrationNumber": "PQR-678",
+        "leeseesRating": 5,
+        "comfortClass": "Luxury"
+    },
+    {
+        "Id": 7,
+        "brand": "Chevrolet",
+        "model": "Camaro",
+        "yearOfProduction": "2023",
+        "color": "Yellow",
+        "price": 40000,
+        "registrationNumber": "STU-901",
+        "leeseesRating": 3,
+        "comfortClass": "Sport"
+    },
+    {
+        "Id": 8,
+        "brand": "Dodge",
+        "model": "Challenger",
+        "yearOfProduction": "2022",
+        "color": "Orange",
+        "price": 35000,
+        "registrationNumber": "VWX-234",
+        "leeseesRating": 4,
+        "comfortClass": "Sport"
+    },
+    {
+        "Id": 9,
+        "brand": "Ford",
+        "model": "F-150",
+        "yearOfProduction": "2021",
+        "color": "Black",
+        "price": 50000,
+        "registrationNumber": "YZA-567",
+        "cargoWeight": 2000
+    },
+    {
+        "Id": 10,
+        "brand": "Chevy",
+        "model": "Silverado",
+        "yearOfProduction": "2020",
+        "color": "White",
+        "price": 45000,
+        "registrationNumber": "BVC-890",
+        "cargoWeight": 1500
+    },
+]
