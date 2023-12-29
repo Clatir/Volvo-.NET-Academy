@@ -1,22 +1,22 @@
 [
     {
-        "id": 1,
-        "brand": "Audi",
-        "model": "Model A",
+        "Id": 1,
+        "brand": "Peugeot",
+        "model": "Boxer",
         "yearOfProduction": "2006",
         "color": "Black",
         "price": 25141.93,
         "registrationNumber": "XYZ4659",
         "mileage": 16714,
         "inService": 10,
-        "comfortClass": 1,
+        "comfortClass": 3,
         "modelCoefficient": 0.92,
-        "cargoWeight": 4260.22
+        "cargoWeight": 1260.22
     },
     {
-        "id": 2,
+        "Id": 2,
         "brand": "Audi",
-        "model": "Model A",
+        "model": "A2",
         "yearOfProduction": "2012",
         "color": "Gray",
         "price": 59727.46,
@@ -28,23 +28,23 @@
         "lesseesRating": 1.19
     },
     {
-        "id": 3,
+        "Id": 3,
         "brand": "Audi",
-        "model": "Model A",
+        "model": "Model A8",
         "yearOfProduction": "2021",
         "color": "Blue",
-        "price": 22725.09,
+        "price": 227250.09,
         "registrationNumber": "XYZ7577",
         "mileage": 172927,
         "inService": 1,
-        "comfortClass": 3,
+        "comfortClass": 1,
         "modelCoefficient": 0.51,
         "lesseesRating": 2.47
     },
     {
-        "id": 4,
+        "Id": 4,
         "brand": "Ford",
-        "model": "Model C",
+        "model": "KA",
         "yearOfProduction": "2016",
         "color": "Red",
         "price": 20530.81,
@@ -56,9 +56,9 @@
         "lesseesRating": 4.91
     },
     {
-        "id": 5,
+        "Id": 5,
         "brand": "Mercedes",
-        "model": "Model A",
+        "model": "Sprinter",
         "yearOfProduction": "2015",
         "color": "Black",
         "price": 62020.67,
@@ -67,43 +67,43 @@
         "inService": 8,
         "comfortClass": 2,
         "modelCoefficient": 0.57,
-        "cargoWeight": 3975.35
+        "cargoWeight": 3000.35
     },
     {
-        "id": 6,
+        "Id": 6,
         "brand": "BMW",
-        "model": "Model C",
+        "model": "E46",
         "yearOfProduction": "2022",
         "color": "White",
         "price": 36202.12,
         "registrationNumber": "XYZ4831",
         "mileage": 1000,
         "inService": 1,
-        "comfortClass": 3,
+        "comfortClass": 2,
         "modelCoefficient": 1.1,
         "lesseesRating": 3.5
     },
     {
-        "id": 7,
+        "Id": 7,
         "brand": "Mercedes",
-        "model": "Model B",
+        "model": "Sprinter",
         "yearOfProduction": "2000",
         "color": "Black",
         "price": 45000.0,
         "registrationNumber": "XYZ2007",
         "mileage": 1100000,
         "inService": 18,
-        "comfortClass": 1,
+        "comfortClass": 2,
         "modelCoefficient": 1.2,
         "cargoWeight": 2500.5
     },
     {
-        "id": 8,
+        "Id": 8,
         "brand": "Toyota",
-        "model": "Model C",
+        "model": "C-HR",
         "yearOfProduction": "2018",
         "color": "Gray",
-        "price": 22000.0,
+        "price": 120000.0,
         "registrationNumber": "XYZ3008",
         "mileage": 95000,
         "inService": 5,
@@ -112,9 +112,9 @@
         "lesseesRating": 4.2
     },
     {
-        "id": 9,
+        "Id": 9,
         "brand": "Audi",
-        "model": "Model B",
+        "model": "A4",
         "yearOfProduction": "2007",
         "color": "Red",
         "price": 55000.0,
@@ -123,15 +123,15 @@
         "inService": 8,
         "comfortClass": 2,
         "modelCoefficient": 0.9,
-        "cargoWeight": 3000.0
+        "lesseesRating": 4.1
     },
     {
-        "id": 10,
+        "Id": 10,
         "brand": "BMW",
-        "model": "Model A",
-        "yearOfProduction": "2015",
+        "model": "E36",
+        "yearOfProduction": "1990",
         "color": "Blue",
-        "price": 30000.0,
+        "price": 3000.0,
         "registrationNumber": "XYZ5010",
         "mileage": 30000,
         "inService": 8,
@@ -140,9 +140,9 @@
         "lesseesRating": 4.5
     },
     {
-        "id": 11,
-        "brand": "BMW",
-        "model": "Model B",
+        "Id": 11,
+        "brand": "Peugeot",
+        "model": "Boxer",
         "yearOfProduction": "2017",
         "color": "Black",
         "price": 75188.44,
@@ -151,12 +151,12 @@
         "inService": 6,
         "comfortClass": 1,
         "modelCoefficient": 1.07,
-        "cargoWeight": 615.55
+        "cargoWeight": 2615.55
     },
     {
-        "id": 12,
+        "Id": 12,
         "brand": "Ford",
-        "model": "Model B",
+        "model": "Cargo",
         "yearOfProduction": "2019",
         "color": "Gray",
         "price": 51143.56,
@@ -168,9 +168,9 @@
         "cargoWeight": 3841.17
     },
     {
-        "id": 13,
+        "Id": 13,
         "brand": "Audi",
-        "model": "Model C",
+        "model": "Model A5",
         "yearOfProduction": "2010",
         "color": "Black",
         "price": 60633.57,
@@ -182,9 +182,9 @@
         "lesseesRating": 3.33
     },
     {
-        "id": 14,
+        "Id": 14,
         "brand": "Mercedes",
-        "model": "Model B",
+        "model": "Sprinter",
         "yearOfProduction": "2013",
         "color": "Red",
         "price": 25657.18,
@@ -193,12 +193,12 @@
         "inService": 10,
         "comfortClass": 2,
         "modelCoefficient": 0.66,
-        "cargoWeight": 3283.65
+        "cargoWeight": 1283.65
     },
     {
-        "id": 15,
-        "brand": "BMW",
-        "model": "Model B",
+        "Id": 15,
+        "brand": "Peugeot",
+        "model": "Sprinter",
         "yearOfProduction": "2021",
         "color": "Black",
         "price": 48447.96,
@@ -207,6 +207,6 @@
         "inService": 2,
         "comfortClass": 3,
         "modelCoefficient": 0.67,
-        "cargoWeight": 4493.33
+        "cargoWeight": 2493.33
     }
 ]

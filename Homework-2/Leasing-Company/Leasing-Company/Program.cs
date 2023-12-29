@@ -5,6 +5,7 @@ using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using System.Reflection.Metadata.Ecma335;
 using System.Text;
+using System.Drawing;
 
 internal class Program
 
@@ -13,22 +14,54 @@ internal class Program
     public abstract class Vehicle
     {
 
-        public int id { get; set; }
-        public string brand { get; set; }
-        public string model { get; set; }
-        public int yearOfProduction { get; set; }
-        public string color { get; set; }
-        public double price { get; set; }
-        public string registrationNumber { get; set; }
-        public int mileage { get; set; }
-        public int inService { get; set; }
-        public int comfortClass { get; set; }
-        public double modelCoefficient { get; set; }
+        private int id { get; set; }
+        private string brand { get; set; }
+
+        private string model { get; set; }
+        private int yearOfProduction { get; set; }
+        private string color { get; set; }
+        private double price { get; set; }
+        private string registrationNumber { get; set; }
+        private int mileage { get; set; }
+        private int inService { get; set; }
+        private int comfortClass { get; set; }
+        private double modelCoefficient { get; set; }
 
 
-        public abstract double CalculateRentalCost();
+        public int Id { get => id; set => id = value; }
+        public string Brand { get => brand; set => brand = value; }
+        public string Model { get => model; set => model = value; }
+        public int YearOfProduction{ get => yearOfProduction; set => yearOfProduction = value;}
+        public string Color { get => color; set => color = value; }
+        public double Price { get => price; set => price = value; }
+        public string RegistrationNumber { get => registrationNumber; set => registrationNumber = value; }
+        public int Mileage { get => mileage; set => mileage = value; }
+        public int InService { get => inService; set => inService = value; }
+        public int ComfortClass { get => comfortClass; set => comfortClass = value; }
+        public double ModelCoefficient { get => modelCoefficient; set => modelCoefficient = value; }
+
+
+
+
+        public abstract double CalculateRentalCost(double durationOfTheTrip, double travelDistance);
         public abstract double CalculateValueOverTime();
         public abstract double CalculateMilageToMaintenance();
+
+        public double CalculateDurationOfTheTripFactor(double durationOfTheTrip)
+        {
+            if (durationOfTheTrip > 0 && durationOfTheTrip <= 10) return 1;
+            else if (durationOfTheTrip > 10 && durationOfTheTrip <= 20) return 1.05;
+            else return 1.07;
+        }
+
+
+        public double CalculateTravelDistanceFactor(double TravelDistanceFactor)
+        {
+            if (TravelDistanceFactor > 0 && TravelDistanceFactor <= 1000) return 1;
+            else if (TravelDistanceFactor > 1000 && TravelDistanceFactor <= 2000) return 1.05;
+            else return 1.07;
+        }
+
         public static List<Vehicle> GetVehicles()
         {
             List<Vehicle> vehicleList = new List<Vehicle>();
@@ -60,10 +93,10 @@ internal class Program
 
         public override string ToString()
         {
-            return $"ID: {id}, Brand: {brand}, Model: {model}, Year: {yearOfProduction}, " +
-                   $"Color: {color}, Price: {price}, Registration Number: {registrationNumber}, " +
-                   $"Mileage: {mileage}, In service: {inService}, " +
-                   $"Comfort Class: {comfortClass}, Model Coefficient: {modelCoefficient}";
+            return $"Id: {Id}, Brand: {Brand}, Model: {Model}, Year: {YearOfProduction}, " +
+                   $"Color: {Color}, Price: {Price}, Registration Number: {RegistrationNumber}, " +
+                   $"Mileage: {Mileage}, In service: {inService}, " +
+                   $"Comfort Class: {ComfortClass}, Model Coefficient: {ModelCoefficient}";
         }
 
 
@@ -74,32 +107,49 @@ internal class Program
     public class ContainerClass
 
     {
-       static  List<Vehicle> vehicleList = Vehicle.GetVehicles();
-       static StringBuilder vehicleSB = new StringBuilder();
+        static List<Vehicle> vehicleList = Vehicle.GetVehicles();
+        static StringBuilder vehicleSB = new StringBuilder();
 
 
 
-        public static String GetVehiclesByBrand(string brand)
+        public static String GetVehiclesByBrand(string Brand)
         {
             vehicleSB.Clear();
 
             var vehiclesByBrand = from vehicle in vehicleList
-                                 where vehicle.brand == brand
-                                 select vehicle;
+                                  where vehicle.Brand.Equals(Brand)
+                                  select vehicle;
 
             foreach (var vehicle in vehiclesByBrand)
             {
                 vehicleSB.Append(vehicle.ToString());
             }
             return vehicleSB.ToString();
-            
+
         }
 
-        public static String GetVehiclesExceededTenure()
+
+        public static String GetAllCars()
+        {
+            vehicleSB.Clear();
+
+            var allVehicles = from vehicle in vehicleList
+                                  
+                                  select vehicle;
+
+            foreach (var vehicle in allVehicles)
+            {
+                vehicleSB.Append(vehicle.ToString());
+            }
+            return vehicleSB.ToString();
+
+        }
+
+        public static String GetVehiclesExceededTenure(String Model)
         {
             vehicleSB.Clear();
             var vehiclesExceededTenure = from vehicle in vehicleList
-                                         where (vehicle is PassengerVehicle && vehicle.inService>5 & vehicle.mileage>100000) || (vehicle is CargoVehicle && vehicle.inService>7&vehicle.mileage>1000000)
+                                         where (vehicle.Model.Equals(Model) && vehicle is PassengerVehicle && vehicle.InService > 5 && vehicle.Mileage > 100000) || (vehicle.Model.Equals(Model) && vehicle is CargoVehicle && vehicle.InService > 7 & vehicle.Mileage > 1000000)
                                          select vehicle;
 
             foreach (var vehicle in vehiclesExceededTenure)
@@ -112,21 +162,30 @@ internal class Program
 
         public static double CalculateTotalValue()
         {
-            
+
             var vehicleSum = from vehicle in vehicleList
                              select vehicle;
 
 
-            return Math.Round(vehicleSum.Sum(vehicle => vehicle.CalculateValueOverTime()),2);
+            return Math.Round(vehicleSum.Sum(vehicle => vehicle.CalculateValueOverTime()), 2);
         }
 
-        public static string GetVehiclesComfortClassByBrandAndColor(string brand, string color)
+        public static double CalculateValueById(int selectedId, double selectedDurationOfTheTrip,double selectedTravelDistance )
+        {
+
+            var selctedVehicle = from vehicle in vehicleList
+                          where vehicle.Id.Equals(selectedId)
+                          select vehicle;
+            return Math.Round(selctedVehicle.Sum(vehicle => vehicle.CalculateRentalCost(selectedDurationOfTheTrip,selectedTravelDistance)), 2);
+        }
+
+        public static string GetVehiclesComfortClassByBrandAndColor(string Brand, string Color)
         {
             vehicleSB.Clear();
 
             var vehiclesByBrandAndColor = from vehicle in vehicleList
-                                          where vehicle.brand == brand && vehicle.color == color
-                                          orderby vehicle.comfortClass
+                                          where vehicle.Brand.Equals(Brand) && vehicle.Color.Equals(Color)
+                                          orderby vehicle.ComfortClass
                                           select vehicle;
 
             foreach (var vehicle in vehiclesByBrandAndColor)
@@ -137,7 +196,8 @@ internal class Program
         }
 
         public static string GetVehiclesForMaintenance()
-        {   vehicleSB.Clear();
+        {
+            vehicleSB.Clear();
 
             var vehiclesForMaintenance = from vehicle in vehicleList
                                          where vehicle.CalculateMilageToMaintenance() <= 1000
@@ -154,23 +214,20 @@ internal class Program
 
     }
 
-
-
-
-
     public class PassengerVehicle : Vehicle
+    {
+
+        private double lesseesRating { get; set; }
+        public double LesseesRating { get => lesseesRating; set => lesseesRating = value; }
+
+        public override double CalculateRentalCost(double durationOfTheTrip, double travelDistance)
         {
-
-            public double lesseesRating { get; set; }
-
-            public override double CalculateRentalCost()
-            {
-                return 0;
-            }
+            return Price * CalculateDurationOfTheTripFactor(durationOfTheTrip)*CalculateTravelDistanceFactor(travelDistance)*ModelCoefficient*LesseesRating*0.25;
+        }
 
         public override double CalculateValueOverTime()
         {
-            return price * Math.Pow(0.9, DateTime.Now.Year-yearOfProduction);
+            return Price * Math.Pow(0.9, DateTime.Now.Year - YearOfProduction);
         }
 
         public override string ToString()
@@ -178,25 +235,28 @@ internal class Program
             return base.ToString() + $", Lessees Rating: {lesseesRating}" + "\n";
         }
 
-        public override double CalculateMilageToMaintenance() => 5000- (mileage % 5000);
+        public override double CalculateMilageToMaintenance() => 5000 - (Mileage % 5000);
 
     }
 
     public class CargoVehicle : Vehicle
-        {
-            public double cargoWeight { get; set; }
+    {
+        private double cargoWeight { get; set; }
 
-            public override double CalculateRentalCost()
-            {
-                return 0;
-            }
+        public double CargoWeight { get => cargoWeight; set => cargoWeight = value; }
+
+        public override double CalculateRentalCost(double durationOfTheTrip, double travelDistance)
+        {
+            
+            return Price * CalculateDurationOfTheTripFactor(durationOfTheTrip) * CalculateTravelDistanceFactor(travelDistance) * ModelCoefficient * CargoWeight * 0.0025;
+        }
 
         public override double CalculateValueOverTime()
         {
-            return price * Math.Pow(0.93,DateTime.Now.Year - yearOfProduction);
+            return Price * Math.Pow(0.93, DateTime.Now.Year - YearOfProduction);
         }
 
-        public override double CalculateMilageToMaintenance() => 15000 - (mileage % 15000);
+        public override double CalculateMilageToMaintenance() => 15000 - (Mileage % 15000);
 
         public override string ToString()
         {
@@ -205,36 +265,125 @@ internal class Program
 
     }
 
-    static void Main()
+    public class leasingSystem
+    {
+        public static void DisplayInterfaceOptions()
         {
+            Console.WriteLine("Select option:\n 1.List inventory of vehicles of specified brand \n" +
+                " 2.List of vehicles of a chosen Model that have exceeded a predetermined operational tenure. \n" +
+                " 3.Calculate total value of the entire vehicle fleet owned. \n" +
+                " 4.Show vehicles with matching Brand and colour sorted by comfort class \n" +
+                " 5.Show a list of vehicles that are within 1000 km of requiring maintenance \n"+
+                " 6.Calculate rental price");
 
 
-        List <Vehicle> myVehicleList = Vehicle.GetVehicles();
-
-
-        /**
-        foreach (var vehicle in myVehicleList)
-        {
-            Console.WriteLine(vehicle);
         }
-        **/
 
-        //Console.WriteLine(containerClass.GetVehiclesByBrand("BMW"));
-        //Console.WriteLine(containerClass.GetVehiclesExceededTenure());
-        //Console.WriteLine(containerClass.CalculateTotalValue());
-        //Console.WriteLine(containerClass.GetVehiclesComfortClassByBrandAndColor("Audi", "Black"));
-//        Console.WriteLine(ContainerClass.GetVehiclesForMaintenance());
+        public static void ClearInterface()
+        {
+
+            Console.WriteLine("Press Enter to continue");
+            Console.ReadKey();
+            Console.Clear();
+
+        }
+
+        static int GetValidInt()
+        {
+            int result;
+            
+            while (!int.TryParse(Console.ReadLine(), out result))
+            {
+                Console.WriteLine("Invalid input. Please enter a valid integer \n");
+                
+            }
+
+            return result;
+        }
+
+        static double GetValidDouble()
+        {
+            double result;
+            
+            while (!double.TryParse(Console.ReadLine(), out result))
+            {
+                Console.WriteLine("Invalid input. Please enter a valid double \n");
+                
+            }
+            return result;
+        }
+
+        public static void SelectInterfaceOption()
+        {
+            while (true)
+            {
+                DisplayInterfaceOptions();
+                switch (Console.ReadLine())
+                {
+                    case "1":
+                        Console.WriteLine("Enter brand:");
+                        Console.WriteLine(ContainerClass.GetVehiclesByBrand(Console.ReadLine()));
+                        ClearInterface();
 
 
+                        break;
 
-        int myIntTime = DateTime.Now.Year;
+                    case "2":
+                        Console.WriteLine("Enter model:");
+                        Console.WriteLine(ContainerClass.GetVehiclesExceededTenure(Console.ReadLine()));
+                        ClearInterface();
+                        break;
+                    case "3":
+                        Console.WriteLine("Total value of the entire vehicle fleet: " + ContainerClass.CalculateTotalValue());
+                        ClearInterface();
+                        break;
+                    case "4":
+                        Console.WriteLine("Enter brand:");
+                        string Brand = Console.ReadLine();
+                        Console.WriteLine("Enter color:");
+                        string Color = Console.ReadLine();
+                        Console.WriteLine(ContainerClass.GetVehiclesComfortClassByBrandAndColor(Brand, Color));
+                        ClearInterface();
+                        break;
+                    case "5":
+                        Console.WriteLine(ContainerClass.GetVehiclesForMaintenance());
+                        ClearInterface();
+                        break;
+                    case "6":
+                        Console.WriteLine(ContainerClass.GetAllCars());
+                        Console.WriteLine("Enter Id:");
+                        int vehicleId = GetValidInt();
+
+                        Console.WriteLine("Enter duration of the trip:");
+                        double durationOfTheTrip = GetValidDouble();
+
+                        Console.WriteLine("Enter travel distance:");
+                        double travelDistance = GetValidDouble();
+                        Console.WriteLine("Rental price: " + ContainerClass.CalculateValueById(vehicleId, durationOfTheTrip, travelDistance));
+                        ClearInterface();
+                        break;
+                    default:
+                        Console.WriteLine("Invalid input");
+                        ClearInterface();
+                        break;
+                }
+
+            }
+
+        }
 
 
+    }
 
-
-
+    static void Main()
+    {
+     
+        leasingSystem.SelectInterfaceOption();
 
     }
 
 
 }
+
+
+
