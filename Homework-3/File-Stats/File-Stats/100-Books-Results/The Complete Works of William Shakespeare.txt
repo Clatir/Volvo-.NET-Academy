@@ -1,0 +1,661 @@
+Title: The Complete Works of William Shakespeare
+
+
+Top 10 Shortest Sentences:
+- Scene II. (Words: 2)
+- The King’s palace. (Words: 3)
+- Before the Duke’s palace. (Words: 4)
+- What old December’s bareness everywhere! (Words: 5)
+- A room in the Countess’s palace. (Words: 6)
+- So far from variation or quick change? (Words: 7)
+- Till I return of posting is no need. (Words: 8)
+- O in what sweets dost thou thy sins enclose! (Words: 9)
+- O blame me not if I no more can write! (Words: 10)
+- In delivering my son from me, I bury a second husband. (Words: 11)
+
+Top 10 Longest Words:
+- _honorificabilitudinitatibus_ (Length: 29 characters)
+- Anthropophaginian (Length: 17 characters)
+- undistinguishable (Length: 17 characters)
+- indistinguishable (Length: 17 characters)
+- _Portotartarossa (Length: 16 characters)
+- incomprehensible (Length: 16 characters)
+- _Praeclarissimus (Length: 16 characters)
+- Northamptonshire (Length: 16 characters)
+- unenforceability (Length: 16 characters)
+- _Oscorbidulchos (Length: 15 characters)
+
+Top 10 Most Common Letters:
+- e (Occurrences: 487748)
+- t (Occurrences: 356288)
+- o (Occurrences: 334271)
+- a (Occurrences: 312188)
+- i (Occurrences: 272142)
+- s (Occurrences: 269066)
+- n (Occurrences: 262450)
+- h (Occurrences: 257182)
+- r (Occurrences: 253821)
+- l (Occurrences: 181676)
+
+Top 10 Most Common Words:
+- the (Occurrences: 30526)
+- and (Occurrences: 28566)
+- i (Occurrences: 24188)
+- to (Occurrences: 20844)
+- of (Occurrences: 18882)
+- a (Occurrences: 16494)
+- you (Occurrences: 14728)
+- my (Occurrences: 13201)
+- in (Occurrences: 12585)
+- that (Occurrences: 12282)
+Top 10 Longest Sentences:
+- The one a palate hath that needs will taste,
+Though reason weep and cry, “It is thy last.”
+
+‘For further I could say, “This man’s untrue”,
+And knew the patterns of his foul beguiling;
+Heard where his plants in others’ orchards grew,
+Saw how deceits were gilded in his smiling;
+Knew vows were ever brokers to defiling;
+Thought characters and words merely but art,
+And bastards of his foul adulterate heart.
+
+‘And long upon these terms I held my city,
+Till thus he ’gan besiege me: “Gentle maid,
+Have of my suffering youth some feeling pity,
+And be not of my holy vows afraid:
+That’s to ye sworn, to none was ever said,
+For feasts of love I have been call’d unto,
+Till now did ne’er invite, nor never woo.
+
+‘“All my offences that abroad you see
+Are errors of the blood, none of the mind:
+Love made them not; with acture they may be,
+Where neither party is nor true nor kind,
+They sought their shame that so their shame did find,
+And so much less of shame in me remains,
+By how much of me their reproach contains.
+
+‘“Among the many that mine eyes have seen,
+Not one whose flame my heart so much as warmed,
+Or my affection put to th’ smallest teen,
+Or any of my leisures ever charmed:
+Harm have I done to them, but ne’er was harmed;
+Kept hearts in liveries, but mine own was free,
+And reign’d commanding in his monarchy.
+
+‘“Look here what tributes wounded fancies sent me,
+Of pallid pearls and rubies red as blood,
+Figuring that they their passions likewise lent me
+Of grief and blushes, aptly understood
+In bloodless white and the encrimson’d mood;
+Effects of terror and dear modesty,
+Encamp’d in hearts, but fighting outwardly.
+
+‘“And, lo! behold these talents of their hair,
+With twisted metal amorously empleach’d,
+I have receiv’d from many a several fair,
+Their kind acceptance weepingly beseech’d,
+With th’ annexions of fair gems enrich’d,
+And deep-brain’d sonnets that did amplify
+Each stone’s dear nature, worth and quality.
+
+‘“The diamond, why ’twas beautiful and hard,
+Whereto his invis’d properties did tend,
+The deep green emerald, in whose fresh regard
+Weak sights their sickly radiance do amend;
+The heaven-hued sapphire and the opal blend
+With objects manifold; each several stone,
+With wit well blazon’d smil’d, or made some moan.
+
+‘“Lo, all these trophies of affections hot,
+Of pensiv’d and subdued desires the tender,
+Nature hath charg’d me that I hoard them not,
+But yield them up where I myself must render,
+That is, to you, my origin and ender:
+For these of force must your oblations be,
+Since I their altar, you empatron me.
+
+‘“O then advance of yours that phraseless hand,
+Whose white weighs down the airy scale of praise;
+Take all these similes to your own command,
+Hallowed with sighs that burning lungs did raise:
+What me, your minister for you, obeys,
+Works under you; and to your audit comes
+Their distract parcels in combined sums.
+
+‘“Lo, this device was sent me from a nun,
+Or sister sanctified of holiest note,
+Which late her noble suit in court did shun,
+Whose rarest havings made the blossoms dote;
+For she was sought by spirits of richest coat,
+But kept cold distance, and did thence remove
+To spend her living in eternal love.
+
+‘“But O, my sweet, what labour is’t to leave
+The thing we have not, mast’ring what not strives,
+Planing the place which did no form receive,
+Playing patient sports in unconstrained gyves,
+She that her fame so to herself contrives,
+The scars of battle ’scapeth by the flight,
+And makes her absence valiant, not her might.
+
+‘“O pardon me, in that my boast is true,
+The accident which brought me to her eye,
+Upon the moment did her force subdue,
+And now she would the caged cloister fly:
+Religious love put out religion’s eye:
+Not to be tempted would she be immur’d,
+And now to tempt all, liberty procur’d.
+
+‘“How mighty then you are, O hear me tell! (Length: 3905 characters)
+- Anon their loud alarums he doth hear;                700
+  And now his grief may be compared well
+  To one sore sick that hears the passing bell.
+
+“Then shalt thou see the dew-bedabbled wretch
+Turn, and return, indenting with the way,            704
+Each envious briar his weary legs do scratch,
+Each shadow makes him stop, each murmur stay:
+  For misery is trodden on by many,
+  And being low never reliev’d by any.               708
+
+“Lie quietly, and hear a little more;
+Nay, do not struggle, for thou shalt not rise:
+To make thee hate the hunting of the boar,
+Unlike myself thou hear’st me moralize,              712
+  Applying this to that, and so to so,
+  For love can comment upon every woe.
+
+“Where did I leave?” “No matter where,” quoth he
+“Leave me, and then the story aptly ends:            716
+The night is spent.” “Why, what of that?” quoth she.
+“I am,” quoth he, “expected of my friends;
+  And now ’tis dark, and going I shall fall.”
+  “In night,” quoth she, “desire sees best of all.”  720
+
+But if thou fall, oh then imagine this,
+The earth, in love with thee, thy footing trips,
+And all is but to rob thee of a kiss.                723
+Rich preys make true men thieves; so do thy lips
+  Make modest Dian cloudy and forlorn,
+  Lest she should steal a kiss and die forsworn.
+
+“Now of this dark night I perceive the reason:
+Cynthia for shame obscures her silver shine          728
+Till forging nature be condemn’d of treason,
+For stealing moulds from heaven, that were divine;
+  Wherein she fram’d thee, in high heaven’s despite,
+  To shame the sun by day and her by night.          732
+
+“And therefore hath she brib’d the destinies,
+To cross the curious workmanship of nature,
+To mingle beauty with infirmities,
+And pure perfection with impure defeature,           736
+  Making it subject to the tyranny
+  Of mad mischances and much misery.
+
+“As burning fevers, agues pale and faint,
+Life-poisoning pestilence and frenzies wood,         740
+The marrow-eating sickness, whose attaint
+Disorder breeds by heating of the blood;
+  Surfeits, imposthumes, grief, and damn’d despair,
+  Swear nature’s death, for framing thee so fair.    744
+
+“And not the least of all these maladies
+But in one minute’s fight brings beauty under:
+Both favour, savour, hue and qualities,
+Whereat th’impartial gazer late did wonder,          748
+  Are on the sudden wasted, thaw’d and done,
+  As mountain snow melts with the midday sun.
+
+“Therefore despite of fruitless chastity,
+Love-lacking vestals and self-loving nuns,           752
+That on the earth would breed a scarcity
+And barren dearth of daughters and of sons,
+  Be prodigal: the lamp that burns by night
+  Dries up his oil to lend the world his light.      756
+
+“What is thy body but a swallowing grave,
+Seeming to bury that posterity,
+Which by the rights of time thou needs must have,
+If thou destroy them not in dark obscurity?          760
+  If so, the world will hold thee in disdain,
+  Sith in thy pride so fair a hope is slain.
+
+“So in thyself thyself art made away;
+A mischief worse than civil home-bred strife,        764
+Or theirs whose desperate hands themselves do slay,
+Or butcher sire that reeves his son of life. (Length: 3252 characters)
+- Title: The Complete Works of William Shakespeare
+
+
+Author: William Shakespeare
+
+Release date: January 1, 1994 [eBook #100]
+                Most recently updated: December 16, 2023
+
+Language: English
+
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE COMPLETE WORKS OF WILLIAM SHAKESPEARE ***
+
+
+
+The Complete Works of William Shakespeare
+
+by William Shakespeare
+
+
+
+
+                    Contents
+
+    THE SONNETS
+    ALL’S WELL THAT ENDS WELL
+    THE TRAGEDY OF ANTONY AND CLEOPATRA
+    AS YOU LIKE IT
+    THE COMEDY OF ERRORS
+    THE TRAGEDY OF CORIOLANUS
+    CYMBELINE
+    THE TRAGEDY OF HAMLET, PRINCE OF DENMARK
+    THE FIRST PART OF KING HENRY THE FOURTH
+    THE SECOND PART OF KING HENRY THE FOURTH
+    THE LIFE OF KING HENRY THE FIFTH
+    THE FIRST PART OF HENRY THE SIXTH
+    THE SECOND PART OF KING HENRY THE SIXTH
+    THE THIRD PART OF KING HENRY THE SIXTH
+    KING HENRY THE EIGHTH
+    THE LIFE AND DEATH OF KING JOHN
+    THE TRAGEDY OF JULIUS CAESAR
+    THE TRAGEDY OF KING LEAR
+    LOVE’S LABOUR’S LOST
+    THE TRAGEDY OF MACBETH
+    MEASURE FOR MEASURE
+    THE MERCHANT OF VENICE
+    THE MERRY WIVES OF WINDSOR
+    A MIDSUMMER NIGHT’S DREAM
+    MUCH ADO ABOUT NOTHING
+    THE TRAGEDY OF OTHELLO, THE MOOR OF VENICE
+    PERICLES, PRINCE OF TYRE
+    KING RICHARD THE SECOND
+    KING RICHARD THE THIRD
+    THE TRAGEDY OF ROMEO AND JULIET
+    THE TAMING OF THE SHREW
+    THE TEMPEST
+    THE LIFE OF TIMON OF ATHENS
+    THE TRAGEDY OF TITUS ANDRONICUS
+    TROILUS AND CRESSIDA
+    TWELFTH NIGHT; OR, WHAT YOU WILL
+    THE TWO GENTLEMEN OF VERONA
+    THE TWO NOBLE KINSMEN
+    THE WINTER’S TALE
+    A LOVER’S COMPLAINT
+    THE PASSIONATE PILGRIM
+    THE PHOENIX AND THE TURTLE
+    THE RAPE OF LUCRECE
+    VENUS AND ADONIS
+
+
+
+
+THE SONNETS
+
+                    1
+
+From fairest creatures we desire increase,
+That thereby beauty’s rose might never die,
+But as the riper should by time decease,
+His tender heir might bear his memory:
+But thou contracted to thine own bright eyes,
+Feed’st thy light’s flame with self-substantial fuel,
+Making a famine where abundance lies,
+Thyself thy foe, to thy sweet self too cruel:
+Thou that art now the world’s fresh ornament,
+And only herald to the gaudy spring,
+Within thine own bud buriest thy content,
+And, tender churl, mak’st waste in niggarding:
+  Pity the world, or else this glutton be,
+  To eat the world’s due, by the grave and thee.
+
+
+                    2
+
+When forty winters shall besiege thy brow,
+And dig deep trenches in thy beauty’s field,
+Thy youth’s proud livery so gazed on now,
+Will be a tattered weed of small worth held:
+Then being asked, where all thy beauty lies,
+Where all the treasure of thy lusty days;
+To say, within thine own deep sunken eyes,
+Were an all-eating shame, and thriftless praise. (Length: 2860 characters)
+- Within my bosom, whereon thou dost lie,
+  My boding heart pants, beats, and takes no rest,
+  But like an earthquake, shakes thee on my breast.
+
+“For where love reigns, disturbing jealousy          649
+Doth call himself affection’s sentinel;
+Gives false alarms, suggesteth mutiny,
+And in a peaceful hour doth cry “Kill, kill!”        652
+  Distemp’ring gentle love in his desire,
+  As air and water do abate the fire.
+
+“This sour informer, this bate-breeding spy,
+This canker that eats up love’s tender spring,       656
+This carry-tale, dissentious jealousy,
+That sometime true news, sometime false doth bring,
+  Knocks at my heart, and whispers in mine ear,
+  That if I love thee, I thy death should fear.      660
+
+“And more than so, presenteth to mine eye
+The picture of an angry chafing boar,
+Under whose sharp fangs on his back doth lie
+An image like thyself, all stain’d with gore;        664
+  Whose blood upon the fresh flowers being shed,
+  Doth make them droop with grief and hang the head.
+
+“What should I do, seeing thee so indeed,
+That tremble at th’imagination?                      668
+The thought of it doth make my faint heart bleed,
+And fear doth teach it divination:
+  I prophesy thy death, my living sorrow,
+  If thou encounter with the boar tomorrow.          672
+
+“But if thou needs wilt hunt, be rul’d by me;
+Uncouple at the timorous flying hare,
+Or at the fox which lives by subtilty,
+Or at the roe which no encounter dare:               676
+  Pursue these fearful creatures o’er the downs,
+  And on thy well-breath’d horse keep with thy hounds.
+
+“And when thou hast on foot the purblind hare,
+Mark the poor wretch, to overshoot his troubles      680
+How he outruns the wind, and with what care
+He cranks and crosses with a thousand doubles:
+  The many musits through the which he goes
+  Are like a labyrinth to amaze his foes.            684
+
+“Sometime he runs among a flock of sheep,
+To make the cunning hounds mistake their smell,
+And sometime where earth-delving conies keep,
+To stop the loud pursuers in their yell,             688
+  And sometime sorteth with a herd of deer;
+  Danger deviseth shifts, wit waits on fear.
+
+“For there his smell with others being mingled,      691
+The hot scent-snuffing hounds are driven to doubt,
+Ceasing their clamorous cry, till they have singled
+With much ado the cold fault cleanly out;
+  Then do they spend their mouths: echo replies,
+  As if another chase were in the skies.             696
+
+“By this, poor Wat, far off upon a hill,
+Stands on his hinder legs with list’ning ear,
+To hearken if his foes pursue him still. (Length: 2649 characters)
+- Two glasses where herself herself beheld            1129
+A thousand times, and now no more reflect;
+Their virtue lost, wherein they late excell’d,
+And every beauty robb’d of his effect.              1132
+  “Wonder of time,” quoth she, “this is my spite,
+  That thou being dead, the day should yet be light.
+
+“Since thou art dead, lo here I prophesy,
+Sorrow on love hereafter shall attend:              1136
+It shall be waited on with jealousy,
+Find sweet beginning, but unsavoury end;
+  Ne’er settled equally, but high or low,
+  That all love’s pleasure shall not match his woe.
+
+“It shall be fickle, false and full of fraud,       1141
+Bud, and be blasted in a breathing while;
+The bottom poison, and the top o’erstraw’d
+With sweets that shall the truest sight beguile.    1144
+  The strongest body shall it make most weak,
+  Strike the wise dumb, and teach the fool to speak.
+
+“It shall be sparing, and too full of riot,
+Teaching decrepit age to tread the measures;        1148
+The staring ruffian shall it keep in quiet,
+Pluck down the rich, enrich the poor with treasures;
+  It shall be raging mad, and silly mild,
+  Make the young old, the old become a child.       1152
+
+“It shall suspect where is no cause of fear,
+It shall not fear where it should most mistrust;
+It shall be merciful, and too severe,
+And most deceiving when it seems most just;         1156
+  Perverse it shall be, where it shows most toward,
+  Put fear to valour, courage to the coward.
+
+“It shall be cause of war and dire events,
+And set dissension ’twixt the son and sire;         1160
+Subject and servile to all discontents,
+As dry combustious matter is to fire,
+  Sith in his prime death doth my love destroy,
+  They that love best their love shall not enjoy.”  1164
+
+By this the boy that by her side lay kill’d
+Was melted like a vapour from her sight,
+And in his blood that on the ground lay spill’d,
+A purple flower sprung up, chequer’d with white,    1168
+  Resembling well his pale cheeks, and the blood
+  Which in round drops upon their whiteness stood. (Length: 2085 characters)
+- But when Adonis liv’d, sun and sharp air          1085
+  Lurk’d like two thieves, to rob him of his fair.
+
+“And therefore would he put his bonnet on,
+Under whose brim the gaudy sun would peep;          1088
+The wind would blow it off, and being gone,
+Play with his locks; then would Adonis weep;
+  And straight, in pity of his tender years,
+  They both would strive who first should dry his tears.
+
+“To see his face the lion walk’d along              1093
+Behind some hedge, because he would not fear him;
+To recreate himself when he hath sung,
+The tiger would be tame and gently hear him.        1096
+  If he had spoke, the wolf would leave his prey,
+  And never fright the silly lamb that day.
+
+“When he beheld his shadow in the brook,
+The fishes spread on it their golden gills;         1100
+When he was by, the birds such pleasure took,
+That some would sing, some other in their bills
+  Would bring him mulberries and ripe-red cherries,
+  He fed them with his sight, they him with berries.
+
+“But this foul, grim, and urchin-snouted boar,      1105
+Whose downward eye still looketh for a grave,
+Ne’er saw the beauteous livery that he wore;
+Witness the entertainment that he gave.             1108
+  If he did see his face, why then I know
+  He thought to kiss him, and hath kill’d him so.
+
+“’Tis true, ’tis true; thus was Adonis slain:
+He ran upon the boar with his sharp spear,          1112
+Who did not whet his teeth at him again,
+But by a kiss thought to persuade him there;
+  And nuzzling in his flank, the loving swine
+  Sheath’d unaware the tusk in his soft groin.      1116
+
+“Had I been tooth’d like him, I must confess,
+With kissing him I should have kill’d him first;
+But he is dead, and never did he bless
+My youth with his; the more am I accurst.”          1120
+  With this she falleth in the place she stood,
+  And stains her face with his congealed blood. (Length: 1915 characters)
+- Be as thy presence is gracious and kind,
+Or to thyself at least kind-hearted prove,
+  Make thee another self for love of me,
+  That beauty still may live in thine or thee.
+
+
+                    11
+
+As fast as thou shalt wane so fast thou grow’st,
+In one of thine, from that which thou departest,
+And that fresh blood which youngly thou bestow’st,
+Thou mayst call thine, when thou from youth convertest,
+Herein lives wisdom, beauty, and increase,
+Without this folly, age, and cold decay,
+If all were minded so, the times should cease,
+And threescore year would make the world away:
+Let those whom nature hath not made for store,
+Harsh, featureless, and rude, barrenly perish:
+Look whom she best endowed, she gave thee more;
+Which bounteous gift thou shouldst in bounty cherish:
+  She carved thee for her seal, and meant thereby,
+  Thou shouldst print more, not let that copy die.
+
+
+                    12
+
+When I do count the clock that tells the time,
+And see the brave day sunk in hideous night,
+When I behold the violet past prime,
+And sable curls all silvered o’er with white:
+When lofty trees I see barren of leaves,
+Which erst from heat did canopy the herd
+And summer’s green all girded up in sheaves
+Borne on the bier with white and bristly beard:
+Then of thy beauty do I question make
+That thou among the wastes of time must go,
+Since sweets and beauties do themselves forsake,
+And die as fast as they see others grow,
+  And nothing ’gainst Time’s scythe can make defence
+  Save breed to brave him, when he takes thee hence.
+
+
+                    13
+
+O that you were your self, but love you are
+No longer yours, than you yourself here live,
+Against this coming end you should prepare,
+And your sweet semblance to some other give. (Length: 1783 characters)
+- Thee have I not locked up in any chest,
+Save where thou art not, though I feel thou art,
+Within the gentle closure of my breast,
+From whence at pleasure thou mayst come and part,
+  And even thence thou wilt be stol’n I fear,
+  For truth proves thievish for a prize so dear.
+
+
+                    49
+
+Against that time (if ever that time come)
+When I shall see thee frown on my defects,
+When as thy love hath cast his utmost sum,
+Called to that audit by advised respects,
+Against that time when thou shalt strangely pass,
+And scarcely greet me with that sun thine eye,
+When love converted from the thing it was
+Shall reasons find of settled gravity;
+Against that time do I ensconce me here
+Within the knowledge of mine own desert,
+And this my hand, against my self uprear,
+To guard the lawful reasons on thy part,
+  To leave poor me, thou hast the strength of laws,
+  Since why to love, I can allege no cause.
+
+
+                    50
+
+How heavy do I journey on the way,
+When what I seek (my weary travel’s end)
+Doth teach that case and that repose to say
+’Thus far the miles are measured from thy friend.’
+The beast that bears me, tired with my woe,
+Plods dully on, to bear that weight in me,
+As if by some instinct the wretch did know
+His rider loved not speed being made from thee:
+The bloody spur cannot provoke him on,
+That sometimes anger thrusts into his hide,
+Which heavily he answers with a groan,
+More sharp to me than spurring to his side,
+  For that same groan doth put this in my mind,
+  My grief lies onward and my joy behind.
+
+
+                    51
+
+Thus can my love excuse the slow offence,
+Of my dull bearer, when from thee I speed,
+From where thou art, why should I haste me thence? (Length: 1749 characters)
+- O would thou hadst not, or I had no hearing;        428
+Thy mermaid’s voice hath done me double wrong;
+I had my load before, now press’d with bearing:
+  Melodious discord, heavenly tune, harsh-sounding,
+  Ear’s deep sweet music, and heart’s deep sore wounding.
+
+“Had I no eyes but ears, my ears would love          433
+That inward beauty and invisible;
+Or were I deaf, thy outward parts would move
+Each part in me that were but sensible:              436
+  Though neither eyes nor ears, to hear nor see,
+  Yet should I be in love by touching thee.
+
+“Say that the sense of feeling were bereft me,
+And that I could not see, nor hear, nor touch,       440
+And nothing but the very smell were left me,
+Yet would my love to thee be still as much;
+  For from the stillitory of thy face excelling
+  Comes breath perfum’d, that breedeth love by smelling.
+
+“But oh what banquet wert thou to the taste,         445
+Being nurse and feeder of the other four;
+Would they not wish the feast might ever last,
+And bid suspicion double-lock the door,
+  Lest jealousy, that sour unwelcome guest,
+  Should by his stealing in disturb the feast?”      448
+
+Once more the ruby-colour’d portal open’d,
+Which to his speech did honey passage yield,         452
+Like a red morn that ever yet betoken’d
+Wrack to the seaman, tempest to the field,
+  Sorrow to shepherds, woe unto the birds,
+  Gusts and foul flaws to herdmen and to herds.      456
+
+This ill presage advisedly she marketh:
+Even as the wind is hush’d before it raineth,
+Or as the wolf doth grin before he barketh,
+Or as the berry breaks before it staineth,           460
+  Or like the deadly bullet of a gun,
+  His meaning struck her ere his words begun. (Length: 1729 characters)
+- Love keeps his revels where there are but twain;
+Be bold to play, our sport is not in sight,          124
+  These blue-vein’d violets whereon we lean
+  Never can blab, nor know not what we mean.
+
+“The tender spring upon thy tempting lip             127
+Shows thee unripe; yet mayst thou well be tasted,
+Make use of time, let not advantage slip;
+Beauty within itself should not be wasted,
+  Fair flowers that are not gather’d in their prime
+  Rot, and consume themselves in little time.         132
+
+“Were I hard-favour’d, foul, or wrinkled old,
+Ill-nurtur’d, crooked, churlish, harsh in voice,
+O’erworn, despised, rheumatic, and cold,
+Thick-sighted, barren, lean, and lacking juice,      136
+  Then mightst thou pause, for then I were not for thee;
+  But having no defects, why dost abhor me?
+
+“Thou canst not see one wrinkle in my brow,           139
+Mine eyes are grey and bright, and quick in turning;
+My beauty as the spring doth yearly grow,
+My flesh is soft and plump, my marrow burning,
+  My smooth moist hand, were it with thy hand felt,
+  Would in thy palm dissolve, or seem to melt.       144
+
+“Bid me discourse, I will enchant thine ear,
+Or like a fairy, trip upon the green,
+Or like a nymph, with long dishevell’d hair,
+Dance on the sands, and yet no footing seen.         148
+  Love is a spirit all compact of fire,
+  Not gross to sink, but light, and will aspire.
+
+“Witness this primrose bank whereon I lie:           151
+These forceless flowers like sturdy trees support me;
+Two strengthless doves will draw me through the sky,
+From morn till night, even where I list to sport me. (Length: 1631 characters)

@@ -1,0 +1,185 @@
+Title: Romeo and Juliet
+
+
+Top 10 Shortest Sentences:
+- Scene II. (Words: 2)
+- A public place. (Words: 3)
+- Room in Capulet’s House. (Words: 4)
+- A Hall in Capulet’s House. (Words: 5)
+- An open place adjoining Capulet’s Garden. (Words: 6)
+- No, for then we should be colliers. (Words: 7)
+- PARIS, a young Nobleman, kinsman to the Prince. (Words: 8)
+- An open Gallery to Juliet’s Chamber, overlooking the Garden. (Words: 9)
+- A churchyard; in it a Monument belonging to the Capulets. (Words: 10)
+- MONTAGUE, head of a Veronese family at feud with the Capulets. (Words: 11)
+
+Top 10 Longest Words:
+- unenforceability (Length: 16 characters)
+- representations (Length: 15 characters)
+- MERCHANTABILITY (Length: 15 characters)
+- distemperature (Length: 14 characters)
+- unthankfulness (Length: 14 characters)
+- Redistribution (Length: 14 characters)
+- redistribution (Length: 14 characters)
+- Redistributing (Length: 14 characters)
+- redistributing (Length: 14 characters)
+- nonproprietary (Length: 14 characters)
+
+Top 10 Most Common Letters:
+- e (Occurrences: 14811)
+- t (Occurrences: 11316)
+- o (Occurrences: 10237)
+- a (Occurrences: 9360)
+- i (Occurrences: 8104)
+- r (Occurrences: 7749)
+- n (Occurrences: 7625)
+- s (Occurrences: 7451)
+- h (Occurrences: 7348)
+- l (Occurrences: 5527)
+
+Top 10 Most Common Words:
+- the (Occurrences: 876)
+- and (Occurrences: 806)
+- i (Occurrences: 659)
+- to (Occurrences: 626)
+- a (Occurrences: 546)
+- of (Occurrences: 517)
+- in (Occurrences: 394)
+- is (Occurrences: 372)
+- that (Occurrences: 369)
+- you (Occurrences: 368)
+Top 10 Longest Sentences:
+- And in this state she gallops night by night
+Through lovers’ brains, and then they dream of love;
+O’er courtiers’ knees, that dream on curtsies straight;
+O’er lawyers’ fingers, who straight dream on fees;
+O’er ladies’ lips, who straight on kisses dream,
+Which oft the angry Mab with blisters plagues,
+Because their breaths with sweetmeats tainted are:
+Sometime she gallops o’er a courtier’s nose,
+And then dreams he of smelling out a suit;
+And sometime comes she with a tithe-pig’s tail,
+Tickling a parson’s nose as a lies asleep,
+Then dreams he of another benefice:
+Sometime she driveth o’er a soldier’s neck,
+And then dreams he of cutting foreign throats,
+Of breaches, ambuscados, Spanish blades,
+Of healths five fathom deep; and then anon
+Drums in his ear, at which he starts and wakes;
+And, being thus frighted, swears a prayer or two,
+And sleeps again. (Length: 875 characters)
+- INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause. (Length: 685 characters)
+- She is the fairies’ midwife, and she comes
+In shape no bigger than an agate-stone
+On the fore-finger of an alderman,
+Drawn with a team of little atomies
+Over men’s noses as they lie asleep:
+Her waggon-spokes made of long spinners’ legs;
+The cover, of the wings of grasshoppers;
+Her traces, of the smallest spider’s web;
+The collars, of the moonshine’s watery beams;
+Her whip of cricket’s bone; the lash, of film;
+Her waggoner, a small grey-coated gnat,
+Not half so big as a round little worm
+Prick’d from the lazy finger of a maid:
+Her chariot is an empty hazelnut,
+Made by the joiner squirrel or old grub,
+Time out o’ mind the fairies’ coachmakers. (Length: 664 characters)
+- You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. (Length: 620 characters)
+- Or, if I live, is it not very like,
+The horrible conceit of death and night,
+Together with the terror of the place,
+As in a vault, an ancient receptacle,
+Where for this many hundred years the bones
+Of all my buried ancestors are pack’d,
+Where bloody Tybalt, yet but green in earth,
+Lies festering in his shroud; where, as they say,
+At some hours in the night spirits resort—
+Alack, alack, is it not like that I,
+So early waking, what with loathsome smells,
+And shrieks like mandrakes torn out of the earth,
+That living mortals, hearing them, run mad. (Length: 562 characters)
+- The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. (Length: 544 characters)
+- Day, night, hour, ride, time, work, play,
+Alone, in company, still my care hath been
+To have her match’d, and having now provided
+A gentleman of noble parentage,
+Of fair demesnes, youthful, and nobly allied,
+Stuff’d, as they say, with honourable parts,
+Proportion’d as one’s thought would wish a man,
+And then to have a wretched puling fool,
+A whining mammet, in her fortune’s tender,
+To answer, ‘I’ll not wed, I cannot love,
+I am too young, I pray you pardon me.’
+But, and you will not wed, I’ll pardon you. (Length: 519 characters)
+- Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. (Length: 511 characters)
+- I do remember an apothecary,—
+And hereabouts he dwells,—which late I noted
+In tatter’d weeds, with overwhelming brows,
+Culling of simples, meagre were his looks,
+Sharp misery had worn him to the bones;
+And in his needy shop a tortoise hung,
+An alligator stuff’d, and other skins
+Of ill-shaped fishes; and about his shelves
+A beggarly account of empty boxes,
+Green earthen pots, bladders, and musty seeds,
+Remnants of packthread, and old cakes of roses
+Were thinly scatter’d, to make up a show. (Length: 504 characters)
+- Stay, fellow; I can read.
+
+ [_He reads the letter._]
+
+_Signior Martino and his wife and daughters;
+County Anselmo and his beauteous sisters;
+The lady widow of Utruvio;
+Signior Placentio and his lovely nieces;
+Mercutio and his brother Valentine;
+Mine uncle Capulet, his wife, and daughters;
+My fair niece Rosaline and Livia;
+Signior Valentio and his cousin Tybalt;
+Lucio and the lively Helena. _
+
+
+A fair assembly. [_Gives back the paper_] Whither should they come? (Length: 479 characters)

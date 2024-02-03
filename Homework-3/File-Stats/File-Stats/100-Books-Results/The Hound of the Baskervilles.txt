@@ -1,0 +1,228 @@
+Title: The Hound of the Baskervilles
+
+
+Top 10 Shortest Sentences:
+- Conan Doyle. (Words: 2)
+- What does Dr. (Words: 3)
+- You know my methods. (Words: 4)
+- I came to you, Mr. (Words: 5)
+- I presume that it is Mr. (Words: 6)
+- The man is certainly a country practitioner. (Words: 7)
+- Incredible as it may appear to you, Mr. (Words: 8)
+- House-surgeon, from 1882 to 1884, at Charing Cross Hospital. (Words: 9)
+- I think that I am fairly justified in my inferences. (Words: 10)
+- For this and for your help in the details all thanks. (Words: 11)
+
+Top 10 Longest Words:
+- supernaturalists (Length: 16 characters)
+- unenforceability (Length: 16 characters)
+- dolichocephalic (Length: 15 characters)
+- anthropological (Length: 15 characters)
+- characteristics (Length: 15 characters)
+- extraordinarily (Length: 15 characters)
+- personification (Length: 15 characters)
+- representations (Length: 15 characters)
+- MERCHANTABILITY (Length: 15 characters)
+- reconstruction (Length: 14 characters)
+
+Top 10 Most Common Letters:
+- e (Occurrences: 31933)
+- t (Occurrences: 24188)
+- o (Occurrences: 20734)
+- a (Occurrences: 20713)
+- i (Occurrences: 18177)
+- n (Occurrences: 17446)
+- h (Occurrences: 17311)
+- s (Occurrences: 16106)
+- r (Occurrences: 15613)
+- d (Occurrences: 10991)
+
+Top 10 Most Common Words:
+- the (Occurrences: 3542)
+- of (Occurrences: 1728)
+- and (Occurrences: 1695)
+- i (Occurrences: 1501)
+- to (Occurrences: 1491)
+- a (Occurrences: 1368)
+- that (Occurrences: 1160)
+- it (Occurrences: 1026)
+- in (Occurrences: 972)
+- he (Occurrences: 922)
+Top 10 Longest Sentences:
+- So
+      your grave, middle-aged family practitioner vanishes into thin
+      air, my dear Watson, and there emerges a young fellow under
+      thirty, amiable, unambitious, absent-minded, and the possessor of
+      a favourite dog, which I should describe roughly as being larger
+      than a terrier and smaller than a mastiff.”
+
+      I laughed incredulously as Sherlock Holmes leaned back in his
+      settee and blew little wavering rings of smoke up to the ceiling.
+
+      “As to the latter part, I have no means of checking you,” said I,
+      “but at least it is not difficult to find out a few particulars
+      about the man’s age and professional career.” From my small
+      medical shelf I took down the Medical Directory and turned up the
+      name. (Length: 778 characters)
+- My cab is out of
+      Shipley’s Yard, near Waterloo Station.”
+
+      Sherlock Holmes made a note of it.
+
+      “Now, Clayton, tell me all about the fare who came and watched
+      this house at ten o’clock this morning and afterwards followed
+      the two gentlemen down Regent Street.”
+
+      The man looked surprised and a little embarrassed. “Why, there’s
+      no good my telling you things, for you seem to know as much as I
+      do already,” said he. “The truth is that the gentleman told me
+      that he was a detective and that I was to say nothing about him
+      to anyone.”
+
+      “My good fellow; this is a very serious business, and you may
+      find yourself in a pretty bad position if you try to hide
+      anything from me. (Length: 762 characters)
+- Barrymore looked surprised, and considered for a little time.
+
+      “No,” said he, “I was in the box-room at the time, and my wife
+      brought it up to me.”
+
+      “Did you answer it yourself?”
+
+      “No; I told my wife what to answer and she went down to write
+      it.”
+
+      In the evening he recurred to the subject of his own accord.
+
+      “I could not quite understand the object of your questions this
+      morning, Sir Henry,” said he. “I trust that they do not mean that
+      I have done anything to forfeit your confidence?”
+
+      Sir Henry had to assure him that it was not so and pacify him by
+      giving him a considerable part of his old wardrobe, the London
+      outfit having now all arrived. (Length: 739 characters)
+- The thick-iron ferrule is worn down, so
+      it is evident that he has done a great amount of walking with
+      it.”
+
+      “Perfectly sound!” said Holmes.
+
+      “And then again, there is the ‘friends of the C.C.H.’ I should
+      guess that to be the Something Hunt, the local hunt to whose
+      members he has possibly given some surgical assistance, and which
+      has made him a small presentation in return.”
+
+      “Really, Watson, you excel yourself,” said Holmes, pushing back
+      his chair and lighting a cigarette. “I am bound to say that in
+      all the accounts which you have been so good as to give of my own
+      small achievements you have habitually underrated your own
+      abilities. (Length: 727 characters)
+- The walk in the centre is about eight feet across.”
+
+      “Is there anything between the hedges and the walk?”
+
+      “Yes, there is a strip of grass about six feet broad on either
+      side.”
+
+      “I understand that the yew hedge is penetrated at one point by a
+      gate?”
+
+      “Yes, the wicket-gate which leads on to the moor.”
+
+      “Is there any other opening?”
+
+      “None.”
+
+      “So that to reach the yew alley one either has to come down it
+      from the house or else to enter it by the moor-gate?”
+
+      “There is an exit through a summer-house at the far end.”
+
+      “Had Sir Charles reached this?”
+
+      “No; he lay about fifty yards from it.”
+
+      “Now, tell me, Dr. (Length: 721 characters)
+- The sending of this
+      letter was suggested to you by Stapleton?”
+
+      “He dictated it.”
+
+      “I presume that the reason he gave was that you would receive
+      help from Sir Charles for the legal expenses connected with your
+      divorce?”
+
+      “Exactly.”
+
+      “And then after you had sent the letter he dissuaded you from
+      keeping the appointment?”
+
+      “He told me that it would hurt his self-respect that any other
+      man should find the money for such an object, and that though he
+      was a poor man himself he would devote his last penny to removing
+      the obstacles which divided us.”
+
+      “He appears to be a very consistent character. (Length: 693 characters)
+- INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause. (Length: 685 characters)
+- I’ve not heard of him since I
+      left out food for him last, and that was three days ago.”
+
+      “Did you see him then?”
+
+      “No, sir, but the food was gone when next I went that way.”
+
+      “Then he was certainly there?”
+
+      “So you would think, sir, unless it was the other man who took
+      it.”
+
+      I sat with my coffee-cup halfway to my lips and stared at
+      Barrymore.
+
+      “You know that there is another man then?”
+
+      “Yes, sir; there is another man upon the moor.”
+
+      “Have you seen him?”
+
+      “No, sir.”
+
+      “How do you know of him then?”
+
+      “Selden told me of him, sir, a week ago or more. (Length: 662 characters)
+- He had come to offer apologies for
+      his rudeness of the morning, and after a long private interview
+      with Sir Henry in his study the upshot of their conversation was
+      that the breach is quite healed, and that we are to dine at
+      Merripit House next Friday as a sign of it.
+
+      “I don’t say now that he isn’t a crazy man,” said Sir Henry; “I
+      can’t forget the look in his eyes when he ran at me this morning,
+      but I must allow that no man could make a more handsome apology
+      than he has done.”
+
+      “Did he give any explanation of his conduct?”
+
+      “His sister is everything in his life, he says. (Length: 650 characters)
+- At last in the
+            stress of her fear she did that which might have daunted
+            the bravest or most active man, for by the aid of the
+            growth of ivy which covered (and still covers) the south
+            wall she came down from under the eaves, and so homeward
+            across the moor, there being three leagues betwixt the Hall
+            and her father’s farm.
+
+            “It chanced that some little time later Hugo left his
+            guests to carry food and drink—with other worse things,
+            perchance—to his captive, and so found the cage empty and
+            the bird escaped. (Length: 640 characters)

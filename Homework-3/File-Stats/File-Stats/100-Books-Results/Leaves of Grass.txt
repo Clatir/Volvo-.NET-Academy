@@ -1,0 +1,927 @@
+Title: Leaves of Grass
+
+
+Top 10 Shortest Sentences:
+- Libertad! masses! (Words: 2)
+- Foremost! century marches! (Words: 3)
+- What Place Is Besieged? (Words: 4)
+- These ostensible realities, politics, points? (Words: 5)
+- For you a programme of chants. (Words: 6)
+- Underfoot the divine soil, overhead the sun. (Words: 7)
+- And why should I not speak to you? (Words: 8)
+- Thou seething principle! thou well-kept, latent germ! thou centre! (Words: 9)
+- Daughter of the lands did you wait for your poet? (Words: 10)
+- What place is besieged, and vainly tries to raise the siege? (Words: 11)
+
+Top 10 Longest Words:
+- constructiveness (Length: 16 characters)
+- indiscriminately (Length: 16 characters)
+- incomprehensible (Length: 16 characters)
+- inextinguishable (Length: 16 characters)
+- circumnavigation (Length: 16 characters)
+- unenforceability (Length: 16 characters)
+- compassionating (Length: 15 characters)
+- inseparableness (Length: 15 characters)
+- excrementitious (Length: 15 characters)
+- untransmissible (Length: 15 characters)
+
+Top 10 Most Common Letters:
+- e (Occurrences: 68472)
+- t (Occurrences: 49368)
+- o (Occurrences: 43940)
+- a (Occurrences: 43144)
+- n (Occurrences: 39666)
+- s (Occurrences: 39364)
+- i (Occurrences: 36831)
+- r (Occurrences: 34546)
+- h (Occurrences: 32918)
+- l (Occurrences: 25102)
+
+Top 10 Most Common Words:
+- the (Occurrences: 10303)
+- and (Occurrences: 5402)
+- of (Occurrences: 4391)
+- i (Occurrences: 2934)
+- to (Occurrences: 2326)
+- in (Occurrences: 1935)
+- you (Occurrences: 1612)
+- d (Occurrences: 1580)
+- a (Occurrences: 1351)
+- with (Occurrences: 1297)
+Top 10 Longest Sentences:
+- Always Florida’s green peninsula--always the priceless delta of
+      Louisiana--always the cotton-fields of Alabama and Texas,
+  Always California’s golden hills and hollows, and the silver
+      mountains of New Mexico--always soft-breath’d Cuba,
+  Always the vast slope drain’d by the Southern sea, inseparable with
+      the slopes drain’d by the Eastern and Western seas,
+  The area the eighty-third year of these States, the three and a half
+      millions of square miles,
+  The eighteen thousand miles of sea-coast and bay-coast on the main,
+      the thirty thousand miles of river navigation,
+  The seven millions of distinct families and the same number of dwellings--
+      always these, and more, branching forth into numberless branches,
+  Always the free range and diversity--always the continent of Democracy;
+  Always the prairies, pastures, forests, vast cities, travelers,
+      Kanada, the snows;
+  Always these compact lands tied at the hips with the belt stringing
+      the huge oval lakes;
+  Always the West with strong native persons, the increasing density there,
+      the habitans, friendly, threatening, ironical, scorning invaders;
+  All sights, South, North, East--all deeds, promiscuously done at all times,
+  All characters, movements, growths, a few noticed, myriads unnoticed,
+  Through Mannahatta’s streets I walking, these things gathering,
+  On interior rivers by night in the glare of pine knots, steamboats
+      wooding up,
+  Sunlight by day on the valley of the Susquehanna, and on the valleys
+      of the Potomac and Rappahannock, and the valleys of the Roanoke
+      and Delaware,
+  In their northerly wilds beasts of prey haunting the Adirondacks the
+      hills, or lapping the Saginaw waters to drink,
+  In a lonesome inlet a sheldrake lost from the flock, sitting on the
+      water rocking silently,
+  In farmers’ barns oxen in the stable, their harvest labor done, they
+      rest standing, they are too tired,
+  Afar on arctic ice the she-walrus lying drowsily while her cubs play around,
+  The hawk sailing where men have not yet sail’d, the farthest polar
+      sea, ripply, crystalline, open, beyond the floes,
+  White drift spooning ahead where the ship in the tempest dashes,
+  On solid land what is done in cities as the bells strike midnight together,
+  In primitive woods the sounds there also sounding, the howl of the
+      wolf, the scream of the panther, and the hoarse bellow of the elk,
+  In winter beneath the hard blue ice of Moosehead lake, in summer
+      visible through the clear waters, the great trout swimming,
+  In lower latitudes in warmer air in the Carolinas the large black
+      buzzard floating slowly high beyond the tree tops,
+  Below, the red cedar festoon’d with tylandria, the pines and
+      cypresses growing out of the white sand that spreads far and flat,
+  Rude boats descending the big Pedee, climbing plants, parasites with
+      color’d flowers and berries enveloping huge trees,
+  The waving drapery on the live-oak trailing long and low,
+      noiselessly waved by the wind,
+  The camp of Georgia wagoners just after dark, the supper-fires and
+      the cooking and eating by whites and negroes,
+  Thirty or forty great wagons, the mules, cattle, horses, feeding
+      from troughs,
+  The shadows, gleams, up under the leaves of the old sycamore-trees,
+      the flames with the black smoke from the pitch-pine curling and rising;
+  Southern fishermen fishing, the sounds and inlets of North
+      Carolina’s coast, the shad-fishery and the herring-fishery, the
+      large sweep-seines, the windlasses on shore work’d by horses, the
+      clearing, curing, and packing-houses;
+  Deep in the forest in piney woods turpentine dropping from the
+      incisions in the trees, there are the turpentine works,
+  There are the negroes at work in good health, the ground in all
+      directions is cover’d with pine straw;
+  In Tennessee and Kentucky slaves busy in the coalings, at the forge,
+      by the furnace-blaze, or at the corn-shucking,
+  In Virginia, the planter’s son returning after a long absence,
+      joyfully welcom’d and kiss’d by the aged mulatto nurse,
+  On rivers boatmen safely moor’d at nightfall in their boats under
+      shelter of high banks,
+  Some of the younger men dance to the sound of the banjo or fiddle,
+      others sit on the gunwale smoking and talking;
+  Late in the afternoon the mocking-bird, the American mimic, singing
+      in the Great Dismal Swamp,
+  There are the greenish waters, the resinous odor, the plenteous
+      moss, the cypress-tree, and the juniper-tree;
+  Northward, young men of Mannahatta, the target company from an
+      excursion returning home at evening, the musket-muzzles all
+      bear bunches of flowers presented by women;
+  Children at play, or on his father’s lap a young boy fallen asleep,
+      (how his lips move! how he smiles in his sleep!)
+  The scout riding on horseback over the plains west of the
+      Mississippi, he ascends a knoll and sweeps his eyes around;
+  California life, the miner, bearded, dress’d in his rude costume,
+      the stanch California friendship, the sweet air, the graves one
+      in passing meets solitary just aside the horse-path;
+  Down in Texas the cotton-field, the negro-cabins, drivers driving
+      mules or oxen before rude carts, cotton bales piled on banks
+      and wharves;
+  Encircling all, vast-darting up and wide, the American Soul, with
+      equal hemispheres, one Love, one Dilation or Pride;
+  In arriere the peace-talk with the Iroquois the aborigines, the
+      calumet, the pipe of good-will, arbitration, and indorsement,
+  The sachem blowing the smoke first toward the sun and then toward
+      the earth,
+  The drama of the scalp-dance enacted with painted faces and guttural
+      exclamations,
+  The setting out of the war-party, the long and stealthy march,
+  The single file, the swinging hatchets, the surprise and slaughter
+      of enemies;
+  All the acts, scenes, ways, persons, attitudes of these States,
+      reminiscences, institutions,
+  All these States compact, every square mile of these States without
+      excepting a particle;
+  Me pleas’d, rambling in lanes and country fields, Paumanok’s fields,
+  Observing the spiral flight of two little yellow butterflies
+      shuffling between each other, ascending high in the air,
+  The darting swallow, the destroyer of insects, the fall traveler
+      southward but returning northward early in the spring,
+  The country boy at the close of the day driving the herd of cows and
+      shouting to them as they loiter to browse by the roadside,
+  The city wharf, Boston, Philadelphia, Baltimore, Charleston, New
+      Orleans, San Francisco,
+  The departing ships when the sailors heave at the capstan;
+  Evening--me in my room--the setting sun,
+  The setting summer sun shining in my open window, showing the
+      swarm of flies, suspended, balancing in the air in the centre
+      of the room, darting athwart, up and down, casting swift
+      shadows in specks on the opposite wall where the shine is;
+  The athletic American matron speaking in public to crowds of listeners,
+  Males, females, immigrants, combinations, the copiousness, the
+      individuality of the States, each for itself--the moneymakers,
+  Factories, machinery, the mechanical forces, the windlass, lever,
+      pulley, all certainties,
+  The certainty of space, increase, freedom, futurity,
+  In space the sporades, the scatter’d islands, the stars--on the firm
+      earth, the lands, my lands,
+  O lands! all so dear to me--what you are, (whatever it is,) I putting it
+      at random in these songs, become a part of that, whatever it is,
+  Southward there, I screaming, with wings slow flapping, with the
+      myriads of gulls wintering along the coasts of Florida,
+  Otherways there atwixt the banks of the Arkansaw, the Rio Grande,
+      the Nueces, the Brazos, the Tombigbee, the Red River, the
+      Saskatchawan or the Osage, I with the spring waters laughing
+      and skipping and running,
+  Northward, on the sands, on some shallow bay of Paumanok, I with
+      parties of snowy herons wading in the wet to seek worms and
+      aquatic plants,
+  Retreating, triumphantly twittering, the king-bird, from piercing
+      the crow with its bill, for amusement--and I triumphantly twittering,
+  The migrating flock of wild geese alighting in autumn to refresh
+      themselves, the body of the flock feed, the sentinels outside
+      move around with erect heads watching, and are from time to time
+      reliev’d by other sentinels--and I feeding and taking turns
+      with the rest,
+  In Kanadian forests the moose, large as an ox, corner’d by hunters,
+      rising desperately on his hind-feet, and plunging with his
+      fore-feet, the hoofs as sharp as knives--and I, plunging at the
+      hunters, corner’d and desperate,
+  In the Mannahatta, streets, piers, shipping, store-houses, and the
+      countless workmen working in the shops,
+  And I too of the Mannahatta, singing thereof--and no less in myself
+      than the whole of the Mannahatta in itself,
+  Singing the song of These, my ever-united lands--my body no more
+      inevitably united, part to part, and made out of a thousand
+      diverse contributions one identity, any more than my lands
+      are inevitably united and made ONE IDENTITY;
+  Nativities, climates, the grass of the great pastoral Plains,
+  Cities, labors, death, animals, products, war, good and evil--these me,
+  These affording, in all their particulars, the old feuillage to me
+      and to America, how can I do less than pass the clew of the union
+      of them, to afford the like to you? (Length: 9870 characters)
+- By the city’s quadrangular houses--in log huts, camping with lumber-men,
+  Along the ruts of the turnpike, along the dry gulch and rivulet bed,
+  Weeding my onion-patch or hosing rows of carrots and parsnips,
+      crossing savannas, trailing in forests,
+  Prospecting, gold-digging, girdling the trees of a new purchase,
+  Scorch’d ankle-deep by the hot sand, hauling my boat down the
+      shallow river,
+  Where the panther walks to and fro on a limb overhead, where the
+      buck turns furiously at the hunter,
+  Where the rattlesnake suns his flabby length on a rock, where the
+      otter is feeding on fish,
+  Where the alligator in his tough pimples sleeps by the bayou,
+  Where the black bear is searching for roots or honey, where the
+      beaver pats the mud with his paddle-shaped tall;
+  Over the growing sugar, over the yellow-flower’d cotton plant, over
+      the rice in its low moist field,
+  Over the sharp-peak’d farm house, with its scallop’d scum and
+      slender shoots from the gutters,
+  Over the western persimmon, over the long-leav’d corn, over the
+      delicate blue-flower flax,
+  Over the white and brown buckwheat, a hummer and buzzer there with
+      the rest,
+  Over the dusky green of the rye as it ripples and shades in the breeze;
+  Scaling mountains, pulling myself cautiously up, holding on by low
+      scragged limbs,
+  Walking the path worn in the grass and beat through the leaves of the brush,
+  Where the quail is whistling betwixt the woods and the wheat-lot,
+  Where the bat flies in the Seventh-month eve, where the great
+      goldbug drops through the dark,
+  Where the brook puts out of the roots of the old tree and flows to
+      the meadow,
+  Where cattle stand and shake away flies with the tremulous
+      shuddering of their hides,
+  Where the cheese-cloth hangs in the kitchen, where andirons straddle
+      the hearth-slab, where cobwebs fall in festoons from the rafters;
+  Where trip-hammers crash, where the press is whirling its cylinders,
+  Wherever the human heart beats with terrible throes under its ribs,
+  Where the pear-shaped balloon is floating aloft, (floating in it
+      myself and looking composedly down,)
+  Where the life-car is drawn on the slip-noose, where the heat
+      hatches pale-green eggs in the dented sand,
+  Where the she-whale swims with her calf and never forsakes it,
+  Where the steam-ship trails hind-ways its long pennant of smoke,
+  Where the fin of the shark cuts like a black chip out of the water,
+  Where the half-burn’d brig is riding on unknown currents,
+  Where shells grow to her slimy deck, where the dead are corrupting below;
+  Where the dense-starr’d flag is borne at the head of the regiments,
+  Approaching Manhattan up by the long-stretching island,
+  Under Niagara, the cataract falling like a veil over my countenance,
+  Upon a door-step, upon the horse-block of hard wood outside,
+  Upon the race-course, or enjoying picnics or jigs or a good game of
+      base-ball,
+  At he-festivals, with blackguard gibes, ironical license,
+      bull-dances, drinking, laughter,
+  At the cider-mill tasting the sweets of the brown mash, sucking the
+      juice through a straw,
+  At apple-peelings wanting kisses for all the red fruit I find,
+  At musters, beach-parties, friendly bees, huskings, house-raisings;
+  Where the mocking-bird sounds his delicious gurgles, cackles,
+      screams, weeps,
+  Where the hay-rick stands in the barn-yard, where the dry-stalks are
+      scatter’d, where the brood-cow waits in the hovel,
+  Where the bull advances to do his masculine work, where the stud to
+      the mare, where the cock is treading the hen,
+  Where the heifers browse, where geese nip their food with short jerks,
+  Where sun-down shadows lengthen over the limitless and lonesome prairie,
+  Where herds of buffalo make a crawling spread of the square miles
+      far and near,
+  Where the humming-bird shimmers, where the neck of the long-lived
+      swan is curving and winding,
+  Where the laughing-gull scoots by the shore, where she laughs her
+      near-human laugh,
+  Where bee-hives range on a gray bench in the garden half hid by the
+      high weeds,
+  Where band-neck’d partridges roost in a ring on the ground with
+      their heads out,
+  Where burial coaches enter the arch’d gates of a cemetery,
+  Where winter wolves bark amid wastes of snow and icicled trees,
+  Where the yellow-crown’d heron comes to the edge of the marsh at
+      night and feeds upon small crabs,
+  Where the splash of swimmers and divers cools the warm noon,
+  Where the katy-did works her chromatic reed on the walnut-tree over
+      the well,
+  Through patches of citrons and cucumbers with silver-wired leaves,
+  Through the salt-lick or orange glade, or under conical firs,
+  Through the gymnasium, through the curtain’d saloon, through the
+      office or public hall;
+  Pleas’d with the native and pleas’d with the foreign, pleas’d with
+      the new and old,
+  Pleas’d with the homely woman as well as the handsome,
+  Pleas’d with the quakeress as she puts off her bonnet and talks melodiously,
+  Pleas’d with the tune of the choir of the whitewash’d church,
+  Pleas’d with the earnest words of the sweating Methodist preacher,
+      impress’d seriously at the camp-meeting;
+  Looking in at the shop-windows of Broadway the whole forenoon,
+      flatting the flesh of my nose on the thick plate glass,
+  Wandering the same afternoon with my face turn’d up to the clouds,
+      or down a lane or along the beach,
+  My right and left arms round the sides of two friends, and I in the middle;
+  Coming home with the silent and dark-cheek’d bush-boy, (behind me
+      he rides at the drape of the day,)
+  Far from the settlements studying the print of animals’ feet, or the
+      moccasin print,
+  By the cot in the hospital reaching lemonade to a feverish patient,
+  Nigh the coffin’d corpse when all is still, examining with a candle;
+  Voyaging to every port to dicker and adventure,
+  Hurrying with the modern crowd as eager and fickle as any,
+  Hot toward one I hate, ready in my madness to knife him,
+  Solitary at midnight in my back yard, my thoughts gone from me a long while,
+  Walking the old hills of Judaea with the beautiful gentle God by my side,
+  Speeding through space, speeding through heaven and the stars,
+  Speeding amid the seven satellites and the broad ring, and the
+      diameter of eighty thousand miles,
+  Speeding with tail’d meteors, throwing fire-balls like the rest,
+  Carrying the crescent child that carries its own full mother in its belly,
+  Storming, enjoying, planning, loving, cautioning,
+  Backing and filling, appearing and disappearing,
+  I tread day and night such roads. (Length: 6837 characters)
+- Long varied train of an emblem, dabs of music,
+  Fingers of the organist skipping staccato over the keys of the great organ.
+
+       2
+  Welcome are all earth’s lands, each for its kind,
+  Welcome are lands of pine and oak,
+  Welcome are lands of the lemon and fig,
+  Welcome are lands of gold,
+  Welcome are lands of wheat and maize, welcome those of the grape,
+  Welcome are lands of sugar and rice,
+  Welcome the cotton-lands, welcome those of the white potato and
+      sweet potato,
+  Welcome are mountains, flats, sands, forests, prairies,
+  Welcome the rich borders of rivers, table-lands, openings,
+  Welcome the measureless grazing-lands, welcome the teeming soil of
+      orchards, flax, honey, hemp;
+  Welcome just as much the other more hard-faced lands,
+  Lands rich as lands of gold or wheat and fruit lands,
+  Lands of mines, lands of the manly and rugged ores,
+  Lands of coal, copper, lead, tin, zinc,
+  Lands of iron--lands of the make of the axe.
+
+       3
+  The log at the wood-pile, the axe supported by it,
+  The sylvan hut, the vine over the doorway, the space clear’d for garden,
+  The irregular tapping of rain down on the leaves after the storm is lull’d,
+  The walling and moaning at intervals, the thought of the sea,
+  The thought of ships struck in the storm and put on their beam ends,
+      and the cutting away of masts,
+  The sentiment of the huge timbers of old-fashion’d houses and barns,
+  The remember’d print or narrative, the voyage at a venture of men,
+      families, goods,
+  The disembarkation, the founding of a new city,
+  The voyage of those who sought a New England and found it, the outset
+      anywhere,
+  The settlements of the Arkansas, Colorado, Ottawa, Willamette,
+  The slow progress, the scant fare, the axe, rifle, saddle-bags;
+  The beauty of all adventurous and daring persons,
+  The beauty of wood-boys and wood-men with their clear untrimm’d faces,
+  The beauty of independence, departure, actions that rely on themselves,
+  The American contempt for statutes and ceremonies, the boundless
+      impatience of restraint,
+  The loose drift of character, the inkling through random types, the
+      solidification;
+  The butcher in the slaughter-house, the hands aboard schooners and
+      sloops, the raftsman, the pioneer,
+  Lumbermen in their winter camp, daybreak in the woods, stripes of
+      snow on the limbs of trees, the occasional snapping,
+  The glad clear sound of one’s own voice, the merry song, the natural
+      life of the woods, the strong day’s work,
+  The blazing fire at night, the sweet taste of supper, the talk, the
+      bed of hemlock-boughs and the bear-skin;
+  The house-builder at work in cities or anywhere,
+  The preparatory jointing, squaring, sawing, mortising,
+  The hoist-up of beams, the push of them in their places, laying them
+      regular,
+  Setting the studs by their tenons in the mortises according as they
+      were prepared,
+  The blows of mallets and hammers, the attitudes of the men, their
+      curv’d limbs,
+  Bending, standing, astride the beams, driving in pins, holding on by
+      posts and braces,
+  The hook’d arm over the plate, the other arm wielding the axe,
+  The floor-men forcing the planks close to be nail’d,
+  Their postures bringing their weapons downward on the bearers,
+  The echoes resounding through the vacant building:
+  The huge storehouse carried up in the city well under way,
+  The six framing-men, two in the middle and two at each end, carefully
+      bearing on their shoulders a heavy stick for a cross-beam,
+  The crowded line of masons with trowels in their right hands rapidly
+      laying the long side-wall, two hundred feet from front to rear,
+  The flexible rise and fall of backs, the continual click of the
+      trowels striking the bricks,
+  The bricks one after another each laid so workmanlike in its place,
+      and set with a knock of the trowel-handle,
+  The piles of materials, the mortar on the mortar-boards, and the
+      steady replenishing by the hod-men;
+  Spar-makers in the spar-yard, the swarming row of well-grown apprentices,
+  The swing of their axes on the square-hew’d log shaping it toward
+      the shape of a mast,
+  The brisk short crackle of the steel driven slantingly into the pine,
+  The butter-color’d chips flying off in great flakes and slivers,
+  The limber motion of brawny young arms and hips in easy costumes,
+  The constructor of wharves, bridges, piers, bulk-heads, floats,
+      stays against the sea;
+  The city fireman, the fire that suddenly bursts forth in the
+      close-pack’d square,
+  The arriving engines, the hoarse shouts, the nimble stepping and daring,
+  The strong command through the fire-trumpets, the falling in line,
+      the rise and fall of the arms forcing the water,
+  The slender, spasmic, blue-white jets, the bringing to bear of the
+      hooks and ladders and their execution,
+  The crash and cut away of connecting wood-work, or through floors
+      if the fire smoulders under them,
+  The crowd with their lit faces watching, the glare and dense shadows;
+  The forger at his forge-furnace and the user of iron after him,
+  The maker of the axe large and small, and the welder and temperer,
+  The chooser breathing his breath on the cold steel and trying the
+      edge with his thumb,
+  The one who clean-shapes the handle and sets it firmly in the socket;
+  The shadowy processions of the portraits of the past users also,
+  The primal patient mechanics, the architects and engineers,
+  The far-off Assyrian edifice and Mizra edifice,
+  The Roman lictors preceding the consuls,
+  The antique European warrior with his axe in combat,
+  The uplifted arm, the clatter of blows on the helmeted head,
+  The death-howl, the limpsy tumbling body, the rush of friend and foe
+      thither,
+  The siege of revolted lieges determin’d for liberty,
+  The summons to surrender, the battering at castle gates, the truce
+      and parley,
+  The sack of an old city in its time,
+  The bursting in of mercenaries and bigots tumultuously and disorderly,
+  Roar, flames, blood, drunkenness, madness,
+  Goods freely rifled from houses and temples, screams of women in the
+      gripe of brigands,
+  Craft and thievery of camp-followers, men running, old persons despairing,
+  The hell of war, the cruelties of creeds,
+  The list of all executive deeds and words just or unjust,
+  The power of personality just or unjust.
+
+       4
+  Muscle and pluck forever! (Length: 6584 characters)
+- Of them standing among them, one lifts to the light a west-bred face,
+  To him the hereditary countenance bequeath’d both mother’s and father’s,
+  His first parts substances, earth, water, animals, trees,
+  Built of the common stock, having room for far and near,
+  Used to dispense with other lands, incarnating this land,
+  Attracting it body and soul to himself, hanging on its neck with
+      incomparable love,
+  Plunging his seminal muscle into its merits and demerits,
+  Making its cities, beginnings, events, diversities, wars, vocal in him,
+  Making its rivers, lakes, bays, embouchure in him,
+  Mississippi with yearly freshets and changing chutes, Columbia,
+      Niagara, Hudson, spending themselves lovingly in him,
+  If the Atlantic coast stretch or the Pacific coast stretch, he
+      stretching with them North or South,
+  Spanning between them East and West, and touching whatever is between them,
+  Growths growing from him to offset the growths of pine, cedar, hemlock,
+      live-oak, locust, chestnut, hickory, cottonwood, orange, magnolia,
+  Tangles as tangled in him as any canebrake or swamp,
+  He likening sides and peaks of mountains, forests coated with
+      northern transparent ice,
+  Off him pasturage sweet and natural as savanna, upland, prairie,
+  Through him flights, whirls, screams, answering those of the
+      fish-hawk, mocking-bird, night-heron, and eagle,
+  His spirit surrounding his country’s spirit, unclosed to good and evil,
+  Surrounding the essences of real things, old times and present times,
+  Surrounding just found shores, islands, tribes of red aborigines,
+  Weather-beaten vessels, landings, settlements, embryo stature and muscle,
+  The haughty defiance of the Year One, war, peace, the formation of
+      the Constitution,
+  The separate States, the simple elastic scheme, the immigrants,
+  The Union always swarming with blatherers and always sure and impregnable,
+  The unsurvey’d interior, log-houses, clearings, wild animals,
+      hunters, trappers,
+  Surrounding the multiform agriculture, mines, temperature, the
+      gestation of new States,
+  Congress convening every Twelfth-month, the members duly coming
+      up from the uttermost parts,
+  Surrounding the noble character of mechanics and farmers, especially
+      the young men,
+  Responding their manners, speech, dress, friendships, the gait they
+      have of persons who never knew how it felt to stand in the
+      presence of superiors,
+  The freshness and candor of their physiognomy, the copiousness and
+      decision of their phrenology,
+  The picturesque looseness of their carriage, their fierceness when wrong’d,
+  The fluency of their speech, their delight in music, their curiosity,
+      good temper and open-handedness, the whole composite make,
+  The prevailing ardor and enterprise, the large amativeness,
+  The perfect equality of the female with the male, the fluid movement
+      of the population,
+  The superior marine, free commerce, fisheries, whaling, gold-digging,
+  Wharf-hemm’d cities, railroad and steamboat lines intersecting all points,
+  Factories, mercantile life, labor-saving machinery, the Northeast,
+      Northwest, Southwest,
+  Manhattan firemen, the Yankee swap, southern plantation life,
+  Slavery--the murderous, treacherous conspiracy to raise it upon the
+      ruins of all the rest,
+  On and on to the grapple with it--Assassin! then your life or ours
+      be the stake, and respite no more.
+
+       7
+  (Lo, high toward heaven, this day,
+  Libertad, from the conqueress’ field return’d,
+  I mark the new aureola around your head,
+  No more of soft astral, but dazzling and fierce,
+  With war’s flames and the lambent lightnings playing,
+  And your port immovable where you stand,
+  With still the inextinguishable glance and the clinch’d and lifted fist,
+  And your foot on the neck of the menacing one, the scorner utterly
+      crush’d beneath you,
+  The menacing arrogant one that strode and advanced with his
+      senseless scorn, bearing the murderous knife,
+  The wide-swelling one, the braggart that would yesterday do so much,
+  To-day a carrion dead and damn’d, the despised of all the earth,
+  An offal rank, to the dunghill maggots spurn’d.)
+
+       8
+  Others take finish, but the Republic is ever constructive and ever
+      keeps vista,
+  Others adorn the past, but you O days of the present, I adorn you,
+  O days of the future I believe in you--I isolate myself for your sake,
+  O America because you build for mankind I build for you,
+  O well-beloved stone-cutters, I lead them who plan with decision
+      and science,
+  Lead the present with friendly hand toward the future.
+  (Bravas to all impulses sending sane children to the next age! (Length: 4817 characters)
+- Spontaneous Me
+
+  Spontaneous me, Nature,
+  The loving day, the mounting sun, the friend I am happy with,
+  The arm of my friend hanging idly over my shoulder,
+  The hillside whiten’d with blossoms of the mountain ash,
+  The same late in autumn, the hues of red, yellow, drab, purple, and
+      light and dark green,
+  The rich coverlet of the grass, animals and birds, the private
+      untrimm’d bank, the primitive apples, the pebble-stones,
+  Beautiful dripping fragments, the negligent list of one after
+      another as I happen to call them to me or think of them,
+  The real poems, (what we call poems being merely pictures,)
+  The poems of the privacy of the night, and of men like me,
+  This poem drooping shy and unseen that I always carry, and that all
+      men carry,
+  (Know once for all, avow’d on purpose, wherever are men like me, are
+      our lusty lurking masculine poems,)
+  Love-thoughts, love-juice, love-odor, love-yielding, love-climbers,
+      and the climbing sap,
+  Arms and hands of love, lips of love, phallic thumb of love, breasts
+      of love, bellies press’d and glued together with love,
+  Earth of chaste love, life that is only life after love,
+  The body of my love, the body of the woman I love, the body of the
+      man, the body of the earth,
+  Soft forenoon airs that blow from the south-west,
+  The hairy wild-bee that murmurs and hankers up and down, that gripes the
+      full-grown lady-flower, curves upon her with amorous firm legs, takes
+      his will of her, and holds himself tremulous and tight till he is
+      satisfied;
+  The wet of woods through the early hours,
+  Two sleepers at night lying close together as they sleep, one with
+      an arm slanting down across and below the waist of the other,
+  The smell of apples, aromas from crush’d sage-plant, mint, birch-bark,
+  The boy’s longings, the glow and pressure as he confides to me what
+      he was dreaming,
+  The dead leaf whirling its spiral whirl and falling still and
+      content to the ground,
+  The no-form’d stings that sights, people, objects, sting me with,
+  The hubb’d sting of myself, stinging me as much as it ever can any
+      one,
+  The sensitive, orbic, underlapp’d brothers, that only privileged
+      feelers may be intimate where they are,
+  The curious roamer the hand roaming all over the body, the bashful
+      withdrawing of flesh where the fingers soothingly pause and
+      edge themselves,
+  The limpid liquid within the young man,
+  The vex’d corrosion so pensive and so painful,
+  The torment, the irritable tide that will not be at rest,
+  The like of the same I feel, the like of the same in others,
+  The young man that flushes and flushes, and the young woman that
+      flushes and flushes,
+  The young man that wakes deep at night, the hot hand seeking to
+      repress what would master him,
+  The mystic amorous night, the strange half-welcome pangs, visions, sweats,
+  The pulse pounding through palms and trembling encircling fingers,
+      the young man all color’d, red, ashamed, angry;
+  The souse upon me of my lover the sea, as I lie willing and naked,
+  The merriment of the twin babes that crawl over the grass in the
+      sun, the mother never turning her vigilant eyes from them,
+  The walnut-trunk, the walnut-husks, and the ripening or ripen’d
+      long-round walnuts,
+  The continence of vegetables, birds, animals,
+  The consequent meanness of me should I skulk or find myself indecent,
+      while birds and animals never once skulk or find themselves indecent,
+  The great chastity of paternity, to match the great chastity of maternity,
+  The oath of procreation I have sworn, my Adamic and fresh daughters,
+  The greed that eats me day and night with hungry gnaw, till I saturate
+      what shall produce boys to fill my place when I am through,
+  The wholesome relief, repose, content,
+  And this bunch pluck’d at random from myself,
+  It has done its work--I toss it carelessly to fall where it may. (Length: 4051 characters)
+- What is commonest, cheapest, nearest, easiest, is Me,
+  Me going in for my chances, spending for vast returns,
+  Adorning myself to bestow myself on the first that will take me,
+  Not asking the sky to come down to my good will,
+  Scattering it freely forever.
+
+       15
+  The pure contralto sings in the organ loft,
+  The carpenter dresses his plank, the tongue of his foreplane
+      whistles its wild ascending lisp,
+  The married and unmarried children ride home to their Thanksgiving dinner,
+  The pilot seizes the king-pin, he heaves down with a strong arm,
+  The mate stands braced in the whale-boat, lance and harpoon are ready,
+  The duck-shooter walks by silent and cautious stretches,
+  The deacons are ordain’d with cross’d hands at the altar,
+  The spinning-girl retreats and advances to the hum of the big wheel,
+  The farmer stops by the bars as he walks on a First-day loafe and
+      looks at the oats and rye,
+  The lunatic is carried at last to the asylum a confirm’d case,
+  (He will never sleep any more as he did in the cot in his mother’s
+      bed-room;)
+  The jour printer with gray head and gaunt jaws works at his case,
+  He turns his quid of tobacco while his eyes blurr with the manuscript;
+  The malform’d limbs are tied to the surgeon’s table,
+  What is removed drops horribly in a pail;
+  The quadroon girl is sold at the auction-stand, the drunkard nods by
+      the bar-room stove,
+  The machinist rolls up his sleeves, the policeman travels his beat,
+      the gate-keeper marks who pass,
+  The young fellow drives the express-wagon, (I love him, though I do
+      not know him;)
+  The half-breed straps on his light boots to compete in the race,
+  The western turkey-shooting draws old and young, some lean on their
+      rifles, some sit on logs,
+  Out from the crowd steps the marksman, takes his position, levels his piece;
+  The groups of newly-come immigrants cover the wharf or levee,
+  As the woolly-pates hoe in the sugar-field, the overseer views them
+      from his saddle,
+  The bugle calls in the ball-room, the gentlemen run for their
+      partners, the dancers bow to each other,
+  The youth lies awake in the cedar-roof’d garret and harks to the
+      musical rain,
+  The Wolverine sets traps on the creek that helps fill the Huron,
+  The squaw wrapt in her yellow-hemm’d cloth is offering moccasins and
+      bead-bags for sale,
+  The connoisseur peers along the exhibition-gallery with half-shut
+      eyes bent sideways,
+  As the deck-hands make fast the steamboat the plank is thrown for
+      the shore-going passengers,
+  The young sister holds out the skein while the elder sister winds it
+      off in a ball, and stops now and then for the knots,
+  The one-year wife is recovering and happy having a week ago borne
+      her first child,
+  The clean-hair’d Yankee girl works with her sewing-machine or in the
+      factory or mill,
+  The paving-man leans on his two-handed rammer, the reporter’s lead
+      flies swiftly over the note-book, the sign-painter is lettering
+      with blue and gold,
+  The canal boy trots on the tow-path, the book-keeper counts at his
+      desk, the shoemaker waxes his thread,
+  The conductor beats time for the band and all the performers follow him,
+  The child is baptized, the convert is making his first professions,
+  The regatta is spread on the bay, the race is begun, (how the white
+      sails sparkle!)
+  The drover watching his drove sings out to them that would stray,
+  The pedler sweats with his pack on his back, (the purchaser higgling
+      about the odd cent;)
+  The bride unrumples her white dress, the minute-hand of the clock
+      moves slowly,
+  The opium-eater reclines with rigid head and just-open’d lips,
+  The prostitute draggles her shawl, her bonnet bobs on her tipsy and
+      pimpled neck,
+  The crowd laugh at her blackguard oaths, the men jeer and wink to
+      each other,
+  (Miserable! (Length: 3991 characters)
+- I do not laugh at your oaths nor jeer you;)
+  The President holding a cabinet council is surrounded by the great
+      Secretaries,
+  On the piazza walk three matrons stately and friendly with twined arms,
+  The crew of the fish-smack pack repeated layers of halibut in the hold,
+  The Missourian crosses the plains toting his wares and his cattle,
+  As the fare-collector goes through the train he gives notice by the
+      jingling of loose change,
+  The floor-men are laying the floor, the tinners are tinning the
+      roof, the masons are calling for mortar,
+  In single file each shouldering his hod pass onward the laborers;
+  Seasons pursuing each other the indescribable crowd is gather’d, it
+      is the fourth of Seventh-month, (what salutes of cannon and small arms!)
+  Seasons pursuing each other the plougher ploughs, the mower mows,
+      and the winter-grain falls in the ground;
+  Off on the lakes the pike-fisher watches and waits by the hole in
+      the frozen surface,
+  The stumps stand thick round the clearing, the squatter strikes deep
+      with his axe,
+  Flatboatmen make fast towards dusk near the cotton-wood or pecan-trees,
+  Coon-seekers go through the regions of the Red river or through
+      those drain’d by the Tennessee, or through those of the Arkansas,
+  Torches shine in the dark that hangs on the Chattahooche or Altamahaw,
+  Patriarchs sit at supper with sons and grandsons and great-grandsons
+      around them,
+  In walls of adobie, in canvas tents, rest hunters and trappers after
+      their day’s sport,
+  The city sleeps and the country sleeps,
+  The living sleep for their time, the dead sleep for their time,
+  The old husband sleeps by his wife and the young husband sleeps by his wife;
+  And these tend inward to me, and I tend outward to them,
+  And such as it is to be of these more or less I am,
+  And of these one and all I weave the song of myself.
+
+       16
+  I am of old and young, of the foolish as much as the wise,
+  Regardless of others, ever regardful of others,
+  Maternal as well as paternal, a child as well as a man,
+  Stuff’d with the stuff that is coarse and stuff’d with the stuff
+      that is fine,
+  One of the Nation of many nations, the smallest the same and the
+      largest the same,
+  A Southerner soon as a Northerner, a planter nonchalant and
+      hospitable down by the Oconee I live,
+  A Yankee bound my own way ready for trade, my joints the limberest
+      joints on earth and the sternest joints on earth,
+  A Kentuckian walking the vale of the Elkhorn in my deer-skin
+      leggings, a Louisianian or Georgian,
+  A boatman over lakes or bays or along coasts, a Hoosier, Badger, Buckeye;
+  At home on Kanadian snow-shoes or up in the bush, or with fishermen
+      off Newfoundland,
+  At home in the fleet of ice-boats, sailing with the rest and tacking,
+  At home on the hills of Vermont or in the woods of Maine, or the
+      Texan ranch,
+  Comrade of Californians, comrade of free North-Westerners, (loving
+      their big proportions,)
+  Comrade of raftsmen and coalmen, comrade of all who shake hands
+      and welcome to drink and meat,
+  A learner with the simplest, a teacher of the thoughtfullest,
+  A novice beginning yet experient of myriads of seasons,
+  Of every hue and caste am I, of every rank and religion,
+  A farmer, mechanic, artist, gentleman, sailor, quaker,
+  Prisoner, fancy-man, rowdy, lawyer, physician, priest. (Length: 3489 characters)
+- Thoughts
+
+       1
+  Of these years I sing,
+  How they pass and have pass’d through convuls’d pains, as through
+      parturitions,
+  How America illustrates birth, muscular youth, the promise, the sure
+      fulfilment, the absolute success, despite of people--illustrates
+      evil as well as good,
+  The vehement struggle so fierce for unity in one’s-self,
+  How many hold despairingly yet to the models departed, caste, myths,
+      obedience, compulsion, and to infidelity,
+  How few see the arrived models, the athletes, the Western States, or
+      see freedom or spirituality, or hold any faith in results,
+  (But I see the athletes, and I see the results of the war glorious
+      and inevitable, and they again leading to other results.)
+
+  How the great cities appear--how the Democratic masses, turbulent,
+      willful, as I love them,
+  How the whirl, the contest, the wrestle of evil with good, the
+      sounding and resounding, keep on and on,
+  How society waits unform’d, and is for a while between things ended
+      and things begun,
+  How America is the continent of glories, and of the triumph of
+      freedom and of the Democracies, and of the fruits of society, and
+      of all that is begun,
+  And how the States are complete in themselves--and how all triumphs
+      and glories are complete in themselves, to lead onward,
+  And how these of mine and of the States will in their turn be
+      convuls’d, and serve other parturitions and transitions,
+  And how all people, sights, combinations, the democratic masses too,
+      serve--and how every fact, and war itself, with all its horrors,
+      serves,
+  And how now or at any time each serves the exquisite transition of death.
+
+       2
+  Of seeds dropping into the ground, of births,
+  Of the steady concentration of America, inland, upward, to
+      impregnable and swarming places,
+  Of what Indiana, Kentucky, Arkansas, and the rest, are to be,
+  Of what a few years will show there in Nebraska, Colorado, Nevada,
+      and the rest,
+  (Or afar, mounting the Northern Pacific to Sitka or Aliaska,)
+  Of what the feuillage of America is the preparation for--and of what
+      all sights, North, South, East and West, are,
+  Of this Union welded in blood, of the solemn price paid, of the
+      unnamed lost ever present in my mind;
+  Of the temporary use of materials for identity’s sake,
+  Of the present, passing, departing--of the growth of completer men
+      than any yet,
+  Of all sloping down there where the fresh free giver the mother, the
+      Mississippi flows,
+  Of mighty inland cities yet unsurvey’d and unsuspected,
+  Of the new and good names, of the modern developments, of
+      inalienable homesteads,
+  Of a free and original life there, of simple diet and clean and
+      sweet blood,
+  Of litheness, majestic faces, clear eyes, and perfect physique there,
+  Of immense spiritual results future years far West, each side of the
+      Anahuacs,
+  Of these songs, well understood there, (being made for that area,)
+  Of the native scorn of grossness and gain there,
+  (O it lurks in me night and day--what is gain after all to savageness
+      and freedom?)
+
+
+
+
+Song at Sunset
+
+  Splendor of ended day floating and filling me,
+  Hour prophetic, hour resuming the past,
+  Inflating my throat, you divine average,
+  You earth and life till the last ray gleams I sing. (Length: 3446 characters)
+- House-building, measuring, sawing the boards,
+  Blacksmithing, glass-blowing, nail-making, coopering, tin-roofing,
+      shingle-dressing,
+  Ship-joining, dock-building, fish-curing, flagging of sidewalks by flaggers,
+  The pump, the pile-driver, the great derrick, the coal-kiln and brickkiln,
+  Coal-mines and all that is down there, the lamps in the darkness,
+      echoes, songs, what meditations, what vast native thoughts
+      looking through smutch’d faces,
+  Iron-works, forge-fires in the mountains or by river-banks, men
+      around feeling the melt with huge crowbars, lumps of ore, the
+      due combining of ore, limestone, coal,
+  The blast-furnace and the puddling-furnace, the loup-lump at the
+      bottom of the melt at last, the rolling-mill, the stumpy bars
+      of pig-iron, the strong clean-shaped Trail for railroads,
+  Oil-works, silk-works, white-lead-works, the sugar-house,
+      steam-saws, the great mills and factories,
+  Stone-cutting, shapely trimmings for facades or window or door-lintels,
+      the mallet, the tooth-chisel, the jib to protect the thumb,
+  The calking-iron, the kettle of boiling vault-cement, and the fire
+      under the kettle,
+  The cotton-bale, the stevedore’s hook, the saw and buck of the
+      sawyer, the mould of the moulder, the working-knife of the
+      butcher, the ice-saw, and all the work with ice,
+  The work and tools of the rigger, grappler, sail-maker, block-maker,
+  Goods of gutta-percha, papier-mache, colors, brushes, brush-making,
+      glazier’s implements,
+  The veneer and glue-pot, the confectioner’s ornaments, the decanter
+      and glasses, the shears and flat-iron,
+  The awl and knee-strap, the pint measure and quart measure, the
+      counter and stool, the writing-pen of quill or metal, the making
+      of all sorts of edged tools,
+  The brewery, brewing, the malt, the vats, every thing that is done
+      by brewers, wine-makers, vinegar-makers,
+  Leather-dressing, coach-making, boiler-making, rope-twisting,
+      distilling, sign-painting, lime-burning, cotton-picking,
+      electroplating, electrotyping, stereotyping,
+  Stave-machines, planing-machines, reaping-machines,
+      ploughing-machines, thrashing-machines, steam wagons,
+  The cart of the carman, the omnibus, the ponderous dray,
+  Pyrotechny, letting off color’d fireworks at night, fancy figures and jets;
+  Beef on the butcher’s stall, the slaughter-house of the butcher, the
+      butcher in his killing-clothes,
+  The pens of live pork, the killing-hammer, the hog-hook, the
+      scalder’s tub, gutting, the cutter’s cleaver, the packer’s maul,
+      and the plenteous winterwork of pork-packing,
+  Flour-works, grinding of wheat, rye, maize, rice, the barrels and
+      the half and quarter barrels, the loaded barges, the high piles
+      on wharves and levees,
+  The men and the work of the men on ferries, railroads, coasters,
+      fish-boats, canals;
+  The hourly routine of your own or any man’s life, the shop, yard,
+      store, or factory,
+  These shows all near you by day and night--workman! whoever you
+      are, your daily life! (Length: 3166 characters)
+- I dare not desert the likes of you in other men and
+      women, nor the likes of the parts of you,
+  I believe the likes of you are to stand or fall with the likes of
+      the soul, (and that they are the soul,)
+  I believe the likes of you shall stand or fall with my poems, and
+      that they are my poems,
+  Man’s, woman’s, child, youth’s, wife’s, husband’s, mother’s,
+      father’s, young man’s, young woman’s poems,
+  Head, neck, hair, ears, drop and tympan of the ears,
+  Eyes, eye-fringes, iris of the eye, eyebrows, and the waking or
+      sleeping of the lids,
+  Mouth, tongue, lips, teeth, roof of the mouth, jaws, and the jaw-hinges,
+  Nose, nostrils of the nose, and the partition,
+  Cheeks, temples, forehead, chin, throat, back of the neck, neck-slue,
+  Strong shoulders, manly beard, scapula, hind-shoulders, and the
+      ample side-round of the chest,
+  Upper-arm, armpit, elbow-socket, lower-arm, arm-sinews, arm-bones,
+  Wrist and wrist-joints, hand, palm, knuckles, thumb, forefinger,
+      finger-joints, finger-nails,
+  Broad breast-front, curling hair of the breast, breast-bone, breast-side,
+  Ribs, belly, backbone, joints of the backbone,
+  Hips, hip-sockets, hip-strength, inward and outward round,
+      man-balls, man-root,
+  Strong set of thighs, well carrying the trunk above,
+  Leg-fibres, knee, knee-pan, upper-leg, under-leg,
+  Ankles, instep, foot-ball, toes, toe-joints, the heel;
+  All attitudes, all the shapeliness, all the belongings of my or your
+      body or of any one’s body, male or female,
+  The lung-sponges, the stomach-sac, the bowels sweet and clean,
+  The brain in its folds inside the skull-frame,
+  Sympathies, heart-valves, palate-valves, sexuality, maternity,
+  Womanhood, and all that is a woman, and the man that comes from woman,
+  The womb, the teats, nipples, breast-milk, tears, laughter, weeping,
+      love-looks, love-perturbations and risings,
+  The voice, articulation, language, whispering, shouting aloud,
+  Food, drink, pulse, digestion, sweat, sleep, walking, swimming,
+  Poise on the hips, leaping, reclining, embracing, arm-curving and tightening,
+  The continual changes of the flex of the mouth, and around the eyes,
+  The skin, the sunburnt shade, freckles, hair,
+  The curious sympathy one feels when feeling with the hand the naked
+      meat of the body,
+  The circling rivers the breath, and breathing it in and out,
+  The beauty of the waist, and thence of the hips, and thence downward
+      toward the knees,
+  The thin red jellies within you or within me, the bones and the
+      marrow in the bones,
+  The exquisite realization of health;
+  O I say these are not the parts and poems of the body only, but of the soul,
+  O I say now these are the soul! (Length: 2788 characters)

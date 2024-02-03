@@ -1,0 +1,303 @@
+Title: The Wonderful Wizard of Oz
+
+
+Top 10 Shortest Sentences:
+- But, alas! (Words: 2)
+- Uncle Henry never laughed. (Words: 4)
+- Then a strange thing happened. (Words: 5)
+- Today, however, they were not playing. (Words: 6)
+- So I tried to walk after them. (Words: 7)
+- But the little woman was doubtless much older. (Words: 8)
+- The country of the Quadlings seemed rich and happy. (Words: 9)
+- Aunt Em dropped her work and came to the door. (Words: 10)
+- Dorothy caught Toto at last and started to follow her aunt. (Words: 11)
+- Three were men and one a woman, and all were oddly dressed. (Words: 12)
+
+Top 10 Longest Words:
+- unenforceability (Length: 16 characters)
+- discouragements (Length: 15 characters)
+- representations (Length: 15 characters)
+- MERCHANTABILITY (Length: 15 characters)
+- confidentially (Length: 14 characters)
+- disappointment (Length: 14 characters)
+- Redistribution (Length: 14 characters)
+- redistribution (Length: 14 characters)
+- Redistributing (Length: 14 characters)
+- redistributing (Length: 14 characters)
+
+Top 10 Most Common Letters:
+- e (Occurrences: 22261)
+- t (Occurrences: 16378)
+- o (Occurrences: 14240)
+- a (Occurrences: 13887)
+- h (Occurrences: 11977)
+- n (Occurrences: 10752)
+- r (Occurrences: 10534)
+- i (Occurrences: 10350)
+- s (Occurrences: 9689)
+- d (Occurrences: 8888)
+
+Top 10 Most Common Words:
+- the (Occurrences: 3196)
+- and (Occurrences: 1737)
+- to (Occurrences: 1200)
+- of (Occurrences: 973)
+- a (Occurrences: 865)
+- i (Occurrences: 649)
+- you (Occurrences: 570)
+- in (Occurrences: 543)
+- was (Occurrences: 506)
+- he (Occurrences: 460)
+Top 10 Longest Sentences:
+- He was glad
+to find his friends waiting for him, and told them of his terrible
+interview with the Wizard.
+
+“What shall we do now?” asked Dorothy sadly.
+
+“There is only one thing we can do,” returned the Lion, “and that is to
+go to the land of the Winkies, seek out the Wicked Witch, and destroy
+her.”
+
+“But suppose we cannot?” said the girl.
+
+“Then I shall never have courage,” declared the Lion.
+
+“And I shall never have brains,” added the Scarecrow.
+
+“And I shall never have a heart,” spoke the Tin Woodman.
+
+“And I shall never see Aunt Em and Uncle Henry,” said Dorothy,
+beginning to cry.
+
+“Be careful!” cried the green girl. “The tears will fall on your green
+silk gown and spot it.”
+
+So Dorothy dried her eyes and said, “I suppose we must try it; but I am
+sure I do not want to kill anybody, even to see Aunt Em again.”
+
+“I will go with you; but I’m too much of a coward to kill the Witch,”
+said the Lion.
+
+“I will go too,” declared the Scarecrow; “but I shall not be of much
+help to you, I am such a fool.”
+
+“I haven’t the heart to harm even a Witch,” remarked the Tin Woodman;
+“but if you go I certainly shall go with you.”
+
+Therefore it was decided to start upon their journey the next morning,
+and the Woodman sharpened his axe on a green grindstone and had all his
+joints properly oiled. (Length: 1335 characters)
+- So they sat down upon the bank and gazed wistfully at the Scarecrow
+until a Stork flew by, who, upon seeing them, stopped to rest at the
+water’s edge.
+
+“Who are you and where are you going?” asked the Stork.
+
+“I am Dorothy,” answered the girl, “and these are my friends, the Tin
+Woodman and the Cowardly Lion; and we are going to the Emerald City.”
+
+“This isn’t the road,” said the Stork, as she twisted her long neck and
+looked sharply at the queer party.
+
+“I know it,” returned Dorothy, “but we have lost the Scarecrow, and are
+wondering how we shall get him again.”
+
+“Where is he?” asked the Stork.
+
+“Over there in the river,” answered the little girl.
+
+“If he wasn’t so big and heavy I would get him for you,” remarked the
+Stork.
+
+“He isn’t heavy a bit,” said Dorothy eagerly, “for he is stuffed with
+straw; and if you will bring him back to us, we shall thank you ever
+and ever so much.”
+
+“Well, I’ll try,” said the Stork, “but if I find he is too heavy to
+carry I shall have to drop him in the river again.”
+
+So the big bird flew into the air and over the water till she came to
+where the Scarecrow was perched upon his pole. (Length: 1161 characters)
+- Dorothy told the Witch all her story: how the cyclone had brought her
+to the Land of Oz, how she had found her companions, and of the
+wonderful adventures they had met with.
+
+“My greatest wish now,” she added, “is to get back to Kansas, for Aunt
+Em will surely think something dreadful has happened to me, and that
+will make her put on mourning; and unless the crops are better this
+year than they were last, I am sure Uncle Henry cannot afford it.”
+
+Glinda leaned forward and kissed the sweet, upturned face of the loving
+little girl.
+
+“Bless your dear heart,” she said, “I am sure I can tell you of a way
+to get back to Kansas.” Then she added, “But, if I do, you must give me
+the Golden Cap.”
+
+“Willingly!” exclaimed Dorothy; “indeed, it is of no use to me now, and
+when you have it you can command the Winged Monkeys three times.”
+
+“And I think I shall need their service just those three times,”
+answered Glinda, smiling. (Length: 946 characters)
+- Indeed he was obliged to call to her to help him up
+again.
+
+“Why didn’t you walk around the hole?” asked the Tin Woodman.
+
+“I don’t know enough,” replied the Scarecrow cheerfully. “My head is
+stuffed with straw, you know, and that is why I am going to Oz to ask
+him for some brains.”
+
+“Oh, I see,” said the Tin Woodman. “But, after all, brains are not the
+best things in the world.”
+
+“Have you any?” inquired the Scarecrow.
+
+“No, my head is quite empty,” answered the Woodman. “But once I had
+brains, and a heart also; so, having tried them both, I should much
+rather have a heart.”
+
+“And why is that?” asked the Scarecrow.
+
+“I will tell you my story, and then you will know.”
+
+So, while they were walking through the forest, the Tin Woodman told
+the following story:
+
+“I was born the son of a woodman who chopped down trees in the forest
+and sold the wood for a living. (Length: 896 characters)
+- But who the real Oz is,
+when he is in his own form, no living person can tell.”
+
+“That is very strange,” said Dorothy, “but we must try, in some way, to
+see him, or we shall have made our journey for nothing.”
+
+“Why do you wish to see the terrible Oz?” asked the man.
+
+“I want him to give me some brains,” said the Scarecrow eagerly.
+
+“Oh, Oz could do that easily enough,” declared the man. “He has more
+brains than he needs.”
+
+“And I want him to give me a heart,” said the Tin Woodman.
+
+“That will not trouble him,” continued the man, “for Oz has a large
+collection of hearts, of all sizes and shapes.”
+
+“And I want him to give me courage,” said the Cowardly Lion.
+
+“Oz keeps a great pot of courage in his Throne Room,” said the man,
+“which he has covered with a golden plate, to keep it from running
+over. (Length: 829 characters)
+- If you will please take away
+the pole I shall be greatly obliged to you.”
+
+Dorothy reached up both arms and lifted the figure off the pole, for,
+being stuffed with straw, it was quite light.
+
+“Thank you very much,” said the Scarecrow, when he had been set down on
+the ground. “I feel like a new man.”
+
+Dorothy was puzzled at this, for it sounded queer to hear a stuffed man
+speak, and to see him bow and walk along beside her.
+
+“Who are you?” asked the Scarecrow when he had stretched himself and
+yawned. “And where are you going?”
+
+“My name is Dorothy,” said the girl, “and I am going to the Emerald
+City, to ask the Great Oz to send me back to Kansas.”
+
+“Where is the Emerald City?” he inquired. “And who is Oz?”
+
+“Why, don’t you know?” she returned, in surprise.
+
+“No, indeed. (Length: 801 characters)
+- The Tin Woodman, raising his axe, rushed toward the little man and
+cried out, “Who are you?”
+
+“I am Oz, the Great and Terrible,” said the little man, in a trembling
+voice. “But don’t strike me—please don’t—and I’ll do anything you want
+me to.”
+
+Our friends looked at him in surprise and dismay.
+
+“I thought Oz was a great Head,” said Dorothy.
+
+“And I thought Oz was a lovely Lady,” said the Scarecrow.
+
+“And I thought Oz was a terrible Beast,” said the Tin Woodman.
+
+“And I thought Oz was a Ball of Fire,” exclaimed the Lion.
+
+“No, you are all wrong,” said the little man meekly. “I have been
+making believe.”
+
+“Making believe!” cried Dorothy. “Are you not a Great Wizard?”
+
+“Hush, my dear,” he said. “Don’t speak so loud, or you will be
+overheard—and I should be ruined. (Length: 794 characters)
+- If he does, I will go back to the Munchkin maiden and marry her.”
+
+Both Dorothy and the Scarecrow had been greatly interested in the story
+of the Tin Woodman, and now they knew why he was so anxious to get a
+new heart.
+
+“All the same,” said the Scarecrow, “I shall ask for brains instead of
+a heart; for a fool would not know what to do with a heart if he had
+one.”
+
+“I shall take the heart,” returned the Tin Woodman; “for brains do not
+make one happy, and happiness is the best thing in the world.”
+
+Dorothy did not say anything, for she was puzzled to know which of her
+two friends was right, and she decided if she could only get back to
+Kansas and Aunt Em, it did not matter so much whether the Woodman had
+no brains and the Scarecrow no heart, or each got what he wanted. (Length: 793 characters)
+- I will now seat myself upon my throne, that you
+may converse with me.” Indeed, the Voice seemed just then to come
+straight from the throne itself; so they walked toward it and stood in
+a row while Dorothy said:
+
+“We have come to claim our promise, O Oz.”
+
+“What promise?” asked Oz.
+
+“You promised to send me back to Kansas when the Wicked Witch was
+destroyed,” said the girl.
+
+“And you promised to give me brains,” said the Scarecrow.
+
+“And you promised to give me a heart,” said the Tin Woodman.
+
+“And you promised to give me courage,” said the Cowardly Lion.
+
+“Is the Wicked Witch really destroyed?” asked the Voice, and Dorothy
+thought it trembled a little.
+
+“Yes,” she answered, “I melted her with a bucket of water.”
+
+“Dear me,” said the Voice, “how sudden! (Length: 785 characters)
+- I’ve never looked to see,” replied the Lion.
+
+“I am going to the Great Oz to ask him to give me some,” remarked the
+Scarecrow, “for my head is stuffed with straw.”
+
+“And I am going to ask him to give me a heart,” said the Woodman.
+
+“And I am going to ask him to send Toto and me back to Kansas,” added
+Dorothy.
+
+“Do you think Oz could give me courage?” asked the Cowardly Lion.
+
+“Just as easily as he could give me brains,” said the Scarecrow.
+
+“Or give me a heart,” said the Tin Woodman.
+
+“Or send me back to Kansas,” said Dorothy.
+
+“Then, if you don’t mind, I’ll go with you,” said the Lion, “for my
+life is simply unbearable without a bit of courage.”
+
+“You will be very welcome,” answered Dorothy, “for you will help to
+keep away the other wild beasts. (Length: 778 characters)

@@ -1,0 +1,190 @@
+Title: The Problems of Philosophy
+
+
+Top 10 Shortest Sentences:
+- CHAPTER II. (Words: 2)
+- Moore and J. (Words: 3)
+- To return to the table. (Words: 5)
+- This difficulty is no light one. (Words: 6)
+- The same thing applies to the texture. (Words: 7)
+- The shape of the table is no better. (Words: 8)
+- The collection of all physical objects is called 'matter'. (Words: 9)
+- I have derived valuable assistance from unpublished writings of G. (Words: 10)
+- All this, which is psychological, we are not calling in question. (Words: 11)
+- The real table, if it exists, we will call a 'physical object'. (Words: 12)
+
+Top 10 Longest Words:
+- misunderstanding (Length: 16 characters)
+- _correspondence_ (Length: 16 characters)
+- unenforceability (Length: 16 characters)
+- straightforward (Length: 15 characters)
+- characteristics (Length: 15 characters)
+- _corresponding_ (Length: 15 characters)
+- _introspection_ (Length: 15 characters)
+- demonstratively (Length: 15 characters)
+- generalizations (Length: 15 characters)
+- _triangularity_ (Length: 15 characters)
+
+Top 10 Most Common Letters:
+- e (Occurrences: 27489)
+- t (Occurrences: 20777)
+- i (Occurrences: 16171)
+- o (Occurrences: 15899)
+- a (Occurrences: 15705)
+- n (Occurrences: 14927)
+- s (Occurrences: 14639)
+- h (Occurrences: 11728)
+- r (Occurrences: 11469)
+- l (Occurrences: 8022)
+
+Top 10 Most Common Words:
+- the (Occurrences: 2729)
+- of (Occurrences: 1883)
+- is (Occurrences: 1325)
+- to (Occurrences: 1269)
+- and (Occurrences: 1037)
+- that (Occurrences: 969)
+- in (Occurrences: 965)
+- we (Occurrences: 959)
+- a (Occurrences: 846)
+- it (Occurrences: 705)
+Top 10 Longest Sentences:
+- The principle we are examining may be called the _principle of
+induction_, and its two parts may be stated as follows:
+
+(a) When a thing of a certain sort A has been found to be associated
+with a thing of a certain other sort B, and has never been found
+dissociated from a thing of the sort B, the greater the number of cases
+in which A and B have been associated, the greater is the probability
+that they will be associated in a fresh case in which one of them is
+known to be present;
+
+(b) Under the same circumstances, a sufficient number of cases of
+association will make the probability of a fresh association nearly a
+certainty, and will make it approach certainty without limit. (Length: 696 characters)
+- INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause. (Length: 685 characters)
+- Title: The Problems of Philosophy
+
+
+Author: Bertrand Russell
+
+Release date: June 1, 2004 [eBook #5827]
+                Most recently updated: December 5, 2019
+
+Language: English
+
+Credits: Produced by Gordon Keener, and David Widger
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK THE PROBLEMS OF PHILOSOPHY ***
+
+
+
+Produced by Gordon Keener
+
+
+
+
+
+
+
+
+THE PROBLEMS OF PHILOSOPHY
+
+
+By Bertrand Russell
+
+
+
+
+PREFACE
+
+In the following pages I have confined myself in the main to those
+problems of philosophy in regard to which I thought it possible to say
+something positive and constructive, since merely negative criticism
+seemed out of place. (Length: 671 characters)
+- Thus, to sum up our discussion of the value of philosophy; Philosophy
+is to be studied, not for the sake of any definite answers to its
+questions, since no definite answers can, as a rule, be known to be
+true, but rather for the sake of the questions themselves; because
+these questions enlarge our conception of what is possible, enrich
+our intellectual imagination and diminish the dogmatic assurance which
+closes the mind against speculation; but above all because, through the
+greatness of the universe which philosophy contemplates, the mind also
+is rendered great, and becomes capable of that union with the universe
+which constitutes its highest good. (Length: 667 characters)
+- You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. (Length: 620 characters)
+- This is
+evident as soon as it is understood, but it is not so evident as that a
+particular rose which we see cannot be both red and not red. (It is of
+course possible that parts of the rose may be red and parts not red, or
+that the rose may be of a shade of pink which we hardly know whether to
+call red or not; but in the former case it is plain that the rose as a
+whole is not red, while in the latter case the answer is theoretically
+definite as soon as we have decided on a precise definition of 'red'.)
+It is usually through particular instances that we come to be able to
+see the general principle. (Length: 613 characters)
+- We may
+therefore repeat the two parts of our principle as regards the general
+law, thus:
+
+(a) The greater the number of cases in which a thing of the sort A has
+been found associated with a thing of the sort B, the more probable it
+is (if no cases of failure of association are known) that A is always
+associated with B;
+
+b) Under the same circumstances, a sufficient number of cases of the
+association of A with B will make it nearly certain that A is always
+associated with B, and will make this general law approach certainty
+without limit. (Length: 555 characters)
+- We may say, metaphorically, that it puts its
+objects in a certain _order_, which we may indicate by means of the
+order of the words in the sentence. (In an inflected language, the same
+thing will be indicated by inflections, e.g. by the difference between
+nominative and accusative.) Othello's judgement that Cassio loves
+Desdemona differs from his judgement that Desdemona loves Cassio, in
+spite of the fact that it consists of the same constituents, because the
+relation of judging places the constituents in a different order in the
+two cases. (Length: 554 characters)
+- The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. (Length: 544 characters)
+- The answer of the pure empiricists, that our mathematical
+knowledge is derived by induction from particular instances, we have
+already seen to be inadequate, for two reasons: first, that the validity
+of the inductive principle itself cannot be proved by induction;
+secondly, that the general propositions of mathematics, such as 'two
+and two always make four', can obviously be known with certainty by
+consideration of a single instance, and gain nothing by enumeration of
+other cases in which they have been found to be true. (Length: 533 characters)

@@ -1,0 +1,299 @@
+Title: Anna Karenina
+
+
+Top 10 Shortest Sentences:
+- That’s bad! (Words: 2)
+- To be sure! (Words: 3)
+- He read the letters. (Words: 4)
+- Maybe God will aid you. (Words: 5)
+- Stepan Arkadyevitch was silent a minute. (Words: 6)
+- She is up,” answered the girl. (Words: 7)
+- Everything was in confusion in the Oblonskys’ house. (Words: 8)
+- Clutching at his arm, she nodded smiling to Levin. (Words: 9)
+- Anything I can do, I am ready to do anything! (Words: 10)
+- He did not understand how his pity for her exasperated her. (Words: 11)
+
+Top 10 Longest Words:
+- straightforwardness (Length: 19 characters)
+- contradistinction (Length: 17 characters)
+- misunderstandings (Length: 17 characters)
+- misinterpretation (Length: 17 characters)
+- conscientiousness (Length: 17 characters)
+- indestructibility (Length: 17 characters)
+- misunderstanding (Length: 16 characters)
+- incomprehensible (Length: 16 characters)
+- misappropriation (Length: 16 characters)
+- incomprehensibly (Length: 16 characters)
+
+Top 10 Most Common Letters:
+- e (Occurrences: 187051)
+- t (Occurrences: 141996)
+- a (Occurrences: 125108)
+- o (Occurrences: 115203)
+- n (Occurrences: 111324)
+- i (Occurrences: 110211)
+- h (Occurrences: 106971)
+- s (Occurrences: 98626)
+- r (Occurrences: 80798)
+- d (Occurrences: 68986)
+
+Top 10 Most Common Words:
+- the (Occurrences: 17743)
+- and (Occurrences: 12972)
+- to (Occurrences: 10236)
+- of (Occurrences: 8740)
+- he (Occurrences: 7827)
+- a (Occurrences: 6220)
+- in (Occurrences: 6080)
+- that (Occurrences: 5560)
+- was (Occurrences: 5310)
+- his (Occurrences: 5238)
+Top 10 Longest Sentences:
+- And going once again over the conditions inseparable from a
+duel, a divorce, a separation, and once again rejecting them, Alexey
+Alexandrovitch felt convinced that there was only one solution,—to keep
+her with him, concealing what had happened from the world, and using
+every measure in his power to break off the intrigue, and still
+more—though this he did not admit to himself—to punish her. “I must
+inform her of my conclusion, that thinking over the terrible position
+in which she has placed her family, all other solutions will be worse
+for both sides than an external _status quo_, and that such I agree to
+retain, on the strict condition of obedience on her part to my wishes,
+that is to say, cessation of all intercourse with her lover.” When this
+decision had been finally adopted, another weighty consideration
+occurred to Alexey Alexandrovitch in support of it. “By such a course
+only shall I be acting in accordance with the dictates of religion,” he
+told himself. “In adopting this course, I am not casting off a guilty
+wife, but giving her a chance of amendment; and, indeed, difficult as
+the task will be to me, I shall devote part of my energies to her
+reformation and salvation.”
+
+Though Alexey Alexandrovitch was perfectly aware that he could not
+exert any moral influence over his wife, that such an attempt at
+reformation could lead to nothing but falsity; though in passing
+through these difficult moments he had not once thought of seeking
+guidance in religion, yet now, when his conclusion corresponded, as it
+seemed to him, with the requirements of religion, this religious
+sanction to his decision gave him complete satisfaction, and to some
+extent restored his peace of mind. (Length: 1727 characters)
+- The princess, conscious that
+Agafea Mihalovna’s wrath must be chiefly directed against her, as the
+person responsible for the raspberry jam-making, tried to appear to be
+absorbed in other things and not interested in the jam, talked of other
+matters, but cast stealthy glances in the direction of the stove.
+
+“I always buy my maids’ dresses myself, of some cheap material,” the
+princess said, continuing the previous conversation. “Isn’t it time to
+skim it, my dear?” she added, addressing Agafea Mihalovna. “There’s not
+the slightest need for you to do it, and it’s hot for you,” she said,
+stopping Kitty.
+
+“I’ll do it,” said Dolly, and getting up, she carefully passed the
+spoon over the frothing sugar, and from time to time shook off the
+clinging jam from the spoon by knocking it on a plate that was covered
+with yellow-red scum and blood-colored syrup. “How they’ll enjoy this
+at tea-time!” she thought of her children, remembering how she herself
+as a child had wondered how it was the grown-up people did not eat what
+was best of all—the scum of the jam.
+
+“Stiva says it’s much better to give money.” Dolly took up meanwhile
+the weighty subject under discussion, what presents should be made to
+servants. “But....”
+
+“Money’s out of the question!” the princess and Kitty exclaimed with
+one voice. “They appreciate a present....”
+
+“Well, last year, for instance, I bought our Matrona Semyenovna, not a
+poplin, but something of that sort,” said the princess.
+
+“I remember she was wearing it on your nameday.”
+
+“A charming pattern—so simple and refined,—I should have liked it
+myself, if she hadn’t had it. (Length: 1643 characters)
+- It seemed to him that
+in a normal development of wealth in a state all these phenomena would
+arise only when a considerable amount of labor had been put into
+agriculture, when it had come under regular, or at least definite,
+conditions; that the wealth of a country ought to increase
+proportionally, and especially in such a way that other sources of
+wealth should not outstrip agriculture; that in harmony with a certain
+stage of agriculture there should be means of communication
+corresponding to it, and that in our unsettled condition of the land,
+railways, called into being by political and not by economic needs,
+were premature, and instead of promoting agriculture, as was expected
+of them, they were competing with agriculture and promoting the
+development of manufactures and credit, and so arresting its progress;
+and that just as the one-sided and premature development of one organ
+in an animal would hinder its general development, so in the general
+development of wealth in Russia, credit, facilities of communication,
+manufacturing activity, indubitably necessary in Europe, where they had
+arisen in their proper time, had with us only done harm, by throwing
+into the background the chief question calling for settlement—the
+question of the organization of agriculture. (Length: 1304 characters)
+- What sort
+of views can anyone have on such a subject?”
+
+“Turkish views, in general,” Veslovsky said, turning to Anna with a
+smile.
+
+“I can’t defend his opinions,” Darya Alexandrovna said, firing up; “but
+I can say that he’s a highly cultivated man, and if he were here he
+would know very well how to answer you, though I am not capable of
+doing so.”
+
+“I like him extremely, and we are great friends,” Sviazhsky said,
+smiling good-naturedly. “_Mais pardon, il est un petit peu toqué;_ he
+maintains, for instance, that district councils and arbitration boards
+are all of no use, and he is unwilling to take part in anything.”
+
+“It’s our Russian apathy,” said Vronsky, pouring water from an iced
+decanter into a delicate glass on a high stem; “we’ve no sense of the
+duties our privileges impose upon us, and so we refuse to recognize
+these duties.”
+
+“I know no man more strict in the performance of his duties,” said
+Darya Alexandrovna, irritated by Vronsky’s tone of superiority.
+
+“For my part,” pursued Vronsky, who was evidently for some reason or
+other keenly affected by this conversation, “such as I am, I am, on the
+contrary, extremely grateful for the honor they have done me, thanks to
+Nikolay Ivanitch” (he indicated Sviazhsky), “in electing me a justice
+of the peace. (Length: 1303 characters)
+- It was coming back from
+there that I met your _beau-frère_ in the train, or your _beau-frère’s_
+brother-in-law,” he said with a smile. “It was an amusing meeting.”
+
+And he began telling with droll good-humor how, after not sleeping all
+night, he had, wearing an old fur-lined, full-skirted coat, got into
+Alexey Alexandrovitch’s compartment.
+
+“The conductor, forgetting the proverb, would have chucked me out on
+account of my attire; but thereupon I began expressing my feelings in
+elevated language, and ... you, too,” he said, addressing Karenin and
+forgetting his name, “at first would have ejected me on the ground of
+the old coat, but afterwards you took my part, for which I am extremely
+grateful.”
+
+“The rights of passengers generally to choose their seats are too
+ill-defined,” said Alexey Alexandrovitch, rubbing the tips of his
+fingers on his handkerchief.
+
+“I saw you were in uncertainty about me,” said Levin, smiling
+good-naturedly, “but I made haste to plunge into intellectual
+conversation to smooth over the defects of my attire.” Sergey
+Ivanovitch, while he kept up a conversation with their hostess, had one
+ear for his brother, and he glanced askance at him. “What is the matter
+with him today? (Length: 1237 characters)
+- He looked at her hair done up high, with the long white veil and
+white flowers and the high, stand-up, scalloped collar, that in such a
+maidenly fashion hid her long neck at the sides and only showed it in
+front, her strikingly slender figure, and it seemed to him that she
+looked better than ever—not because these flowers, this veil, this gown
+from Paris added anything to her beauty; but because, in spite of the
+elaborate sumptuousness of her attire, the expression of her sweet
+face, of her eyes, of her lips was still her own characteristic
+expression of guileless truthfulness.
+
+“I was beginning to think you meant to run away,” she said, and smiled
+to him.
+
+“It’s so stupid, what happened to me, I’m ashamed to speak of it!” he
+said, reddening, and he was obliged to turn to Sergey Ivanovitch, who
+came up to him.
+
+“This is a pretty story of yours about the shirt!” said Sergey
+Ivanovitch, shaking his head and smiling.
+
+“Yes, yes!” answered Levin, without an idea of what they were talking
+about.
+
+“Now, Kostya, you have to decide,” said Stepan Arkadyevitch with an air
+of mock dismay, “a weighty question. (Length: 1139 characters)
+- Now Alexey Alexandrovitch intended to demand: First,
+that a new commission should be formed which should be empowered to
+investigate the condition of the native tribes on the spot; secondly,
+if it should appear that the condition of the native tribes actually
+was such as it appeared to be from the official documents in the hands
+of the committee, that another new scientific commission should be
+appointed to investigate the deplorable condition of the native tribes
+from the—(1) political, (2) administrative, (3) economic, (4)
+ethnographical, (5) material, and (6) religious points of view;
+thirdly, that evidence should be required from the rival department of
+the measures that had been taken during the last ten years by that
+department for averting the disastrous conditions in which the native
+tribes were now placed; and fourthly and finally, that that department
+explain why it had, as appeared from the evidence before the committee,
+from No. 17,015 and 18,038, from December 5, 1863, and June 7, 1864,
+acted in direct contravention of the intent of the law T... (Length: 1089 characters)
+- Lidia
+Ivanovna rapidly ran her eyes over the note, and excusing herself,
+wrote an answer with extraordinary rapidity, handed it to the man, and
+came back to the table. “I have observed,” she went on, “that Moscow
+people, especially the men, are more indifferent to religion than
+anyone.”
+
+“Oh, no, countess, I thought Moscow people had the reputation of being
+the firmest in the faith,” answered Stepan Arkadyevitch.
+
+“But as far as I can make out, you are unfortunately one of the
+indifferent ones,” said Alexey Alexandrovitch, turning to him with a
+weary smile.
+
+“How anyone can be indifferent!” said Lidia Ivanovna.
+
+“I am not so much indifferent on that subject as I am waiting in
+suspense,” said Stepan Arkadyevitch, with his most deprecating smile.
+“I hardly think that the time for such questions has come yet for me.”
+
+Alexey Alexandrovitch and Lidia Ivanovna looked at each other.
+
+“We can never tell whether the time has come for us or not,” said
+Alexey Alexandrovitch severely. “We ought not to think whether we are
+ready or not ready. (Length: 1070 characters)
+- Then the architect.... _Une petite cour!_”
+
+
+Chapter 20
+
+“Here’s Dolly for you, princess, you were so anxious to see her,” said
+Anna, coming out with Darya Alexandrovna onto the stone terrace where
+Princess Varvara was sitting in the shade at an embroidery frame,
+working at a cover for Count Alexey Kirillovitch’s easy chair. “She
+says she doesn’t want anything before dinner, but please order some
+lunch for her, and I’ll go and look for Alexey and bring them all in.”
+
+Princess Varvara gave Dolly a cordial and rather patronizing reception,
+and began at once explaining to her that she was living with Anna
+because she had always cared more for her than her sister Katerina
+Pavlovna, the aunt that had brought Anna up, and that now, when
+everyone had abandoned Anna, she thought it her duty to help her in
+this most difficult period of transition.
+
+“Her husband will give her a divorce, and then I shall go back to my
+solitude; but now I can be of use, and I am doing my duty, however
+difficult it may be for me—not like some other people. (Length: 1063 characters)
+- Even Alexey
+Alexandrovitch smiled.
+
+“Yes, but a man can’t nurse a baby,” said Pestsov, “while a woman....”
+
+“No, there was an Englishman who did suckle his baby on board ship,”
+said the old prince, feeling this freedom in conversation permissible
+before his own daughters.
+
+“There are as many such Englishmen as there would be women officials,”
+said Sergey Ivanovitch.
+
+“Yes, but what is a girl to do who has no family?” put in Stepan
+Arkadyevitch, thinking of Masha Tchibisova, whom he had had in his mind
+all along, in sympathizing with Pestsov and supporting him.
+
+“If the story of such a girl were thoroughly sifted, you would find she
+had abandoned a family—her own or a sister’s, where she might have
+found a woman’s duties,” Darya Alexandrovna broke in unexpectedly in a
+tone of exasperation, probably suspecting what sort of girl Stepan
+Arkadyevitch was thinking of.
+
+“But we take our stand on principle as the ideal,” replied Pestsov in
+his mellow bass. “Woman desires to have rights, to be independent,
+educated. (Length: 1046 characters)

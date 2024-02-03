@@ -1,0 +1,478 @@
+Title: The Expedition of Humphry Clinker
+
+
+Top 10 Shortest Sentences:
+- Dropsy, indeed! (Words: 2)
+- ABERGAVENNY, Aug. 4. (Words: 3)
+- BRAMBLE GLOUCESTER, April 2. (Words: 4)
+- To Miss WILLIS at Gloucester. (Words: 5)
+- Why will you be so positive? (Words: 6)
+- My brother is little better than Noncompush. (Words: 7)
+- John Thomas is in good health, but sulky. (Words: 8)
+- To Sir WATKIN PHILLIPS, Bart. of Jesus college, Oxon. (Words: 9)
+- The people of the Well-house give her an excellent character. (Words: 10)
+- You may tell him civilly, that I beg to be excused. (Words: 11)
+
+Top 10 Longest Words:
+- Occacanastaogarora (Length: 18 characters)
+- leucophlegmatica (Length: 16 characters)
+- misunderstanding (Length: 16 characters)
+- incomprehensible (Length: 16 characters)
+- circumstantially (Length: 16 characters)
+- unenforceability (Length: 16 characters)
+- notwithstanding (Length: 15 characters)
+- instantaneously (Length: 15 characters)
+- leucophlegmatic (Length: 15 characters)
+- representations (Length: 15 characters)
+
+Top 10 Most Common Letters:
+- e (Occurrences: 83933)
+- t (Occurrences: 61325)
+- a (Occurrences: 54703)
+- o (Occurrences: 52302)
+- i (Occurrences: 49817)
+- n (Occurrences: 48074)
+- s (Occurrences: 42660)
+- h (Occurrences: 42561)
+- r (Occurrences: 41341)
+- d (Occurrences: 29075)
+
+Top 10 Most Common Words:
+- the (Occurrences: 8679)
+- of (Occurrences: 5685)
+- and (Occurrences: 5075)
+- to (Occurrences: 4445)
+- a (Occurrences: 3744)
+- in (Occurrences: 3227)
+- i (Occurrences: 2790)
+- he (Occurrences: 2168)
+- his (Occurrences: 2023)
+- that (Occurrences: 1901)
+Top 10 Longest Sentences:
+- Even Tabby's heart was melted; but our pity was warmed with indignation,
+when we learned, that in the course of two sanguinary wars, he had been
+wounded, maimed, mutilated, taken, and enslaved, without ever having
+attained a higher rank than that of lieutenant--My uncle's eyes gleamed,
+and his nether lip quivered, while he exclaimed, 'I vow to God, sir,
+your case is a reproach to the service--The injustice you have met
+with is so flagrant'--'I must crave your pardon, sir (cried the other,
+interrupting him), I complain of no injustice--I purchased an ensigncy
+thirty years ago; and, in the course of service rose to a lieutenant,
+according to my seniority'--'But in such a length of time (resumed the
+'squire), you must have seen a great many young officers put over your
+head'--'Nevertheless (said he), I have no cause to murmur--They bought
+their preferment with their money--I had no money to carry to market
+that was my misfortune; but no body was to blame'--'What! no friend
+to advance a sum of money?' (said Mr Bramble) 'Perhaps, I might have
+borrowed money for the purchase of a company (answered the other);
+but that loan must have been refunded; and I did not chuse to incumber
+myself with a debt of a thousand pounds, to be payed from an income
+of ten shillings a-day.' 'So you have spent the best part of your life
+(cried Mr Bramble), your youth, your blood, and your constitution,
+amidst the dangers, the difficulties, the horrors and hardships of
+a war, for the consideration of three or four shillings a-day a
+consideration--' 'Sir (replied the Scot, with great warmth), you are the
+man that does me injustice, if you say or think I have been actuated by
+any such paltry consideration--I am a gentleman; and entered the service
+as other gentlemen do, with such hopes and sentiments as honourable
+ambition inspires--If I have not been lucky in the lottery of life, so
+neither do I think myself unfortunate--I owe to no man a farthing; I can
+always command a clean shirt, a mutton-chop, and a truss of straw; and
+when I die, I shall leave effects sufficient to defray the expence of my
+burial.'
+
+My uncle assured him, he had no intention to give him the least offence,
+by the observations he had made; but, on the contrary, spoke from a
+sentiment of friendly regard to his interest--The lieutenant thanked
+him with a stiffness of civility, which nettled our old gentleman, who
+perceived that his moderation was all affected; for, whatsoever his
+tongue might declare, his whole appearance denoted dissatisfaction--In
+short, without pretending to judge of his military merit, I think I may
+affirm, that this Caledonian is a self-conceited pedant, aukward, rude,
+and disputacious--He has had the benefit of a school-education, seems
+to have read a good number of books, his memory is tenacious, and he
+pretends to speak several different languages; but he is so addicted to
+wrangling, that he will cavil at the clearest truths, and, in the pride
+of argumentation, attempt to reconcile contradictions--Whether his
+address and qualifications are really of that stamp which is agreeable
+to the taste of our aunt, Mrs Tabitha, or that indefatigable maiden is
+determined to shoot at every sort of game, certain it is she has begun
+to practice upon the heart of the lieutenant, who favoured us with his
+company to supper. (Length: 3378 characters)
+- It was
+on the morning after our arrival that, walking out with my friend, Mr
+Dennison, I could not help breaking forth into the warmest expressions
+of applause at the beauty of the scene, which is really inchanting; and
+I signified, in particular, how much I was pleased with the disposition
+of some detached groves, that afforded at once shelter and ornament to
+his habitation.
+
+'When I took possession of these lands, about two and twenty years ago
+(said he), there was not a tree standing within a mile of the house,
+except those of an old neglected orchard, which produced nothing
+but leaves and moss.--It was in the gloomy month of November, when I
+arrived, and found the house in such a condition, that it might have
+been justly stiled the tower of desolation.--The court-yard was covered
+with nettles and docks, and the garden exhibited such a rank plantation
+of weeds as I had never seen before;--the window-shutters were falling
+in pieces,--the sashes broken;--and owls and jack-daws had taken
+possession of the chimnies.--The prospect within was still more
+dreary--All was dark, and damp, and dirty beyond description;--the rain
+penetrated in several parts of the roof;--in some apartments the very
+floors had given way;--the hangings were parted from the walls, and
+shaking in mouldy remnants; the glasses were dropping out of their
+frames;--the family-pictures were covered with dust and all the chairs
+and tables worm-eaten and crazy.--There was not a bed in the house that
+could be used, except one old-fashioned machine, with a high gilt tester
+and fringed curtains of yellow mohair, which had been, for aught I know,
+two centuries in the family.--In short, there was no furniture but the
+utensils of the kitchen; and the cellar afforded nothing but a few empty
+butts and barrels, that stunk so abominably, that I would not suffer
+any body to enter it until I had flashed a considerable quantity of
+gunpowder to qualify the foul air within.
+
+'An old cottager and his wife, who were hired to lie in the house, had
+left it with precipitation, alledging, among other causes of retreat,
+that they could not sleep for frightful noises, and that my poor
+brother certainly walked after his death.--In a word, the house appeared
+uninhabitable; the barn, stable, and outhouses were in ruins; all the
+fences broken down, and the fields lying waste.
+
+'The farmer who kept the key never dreamed I had any intention to live
+upon the spot--He rented a farm of sixty pounds, and his lease was just
+expiring.--He had formed a scheme of being appointed bailiff to the
+estate, and of converting the house and the adjacent grounds to his own
+use.--A hint of his intention I received from the curate at my first
+arrival; I therefore did not pay much regard to what he said by way of
+discouraging me from coming to settle in the country; but I was a little
+startled when he gave me warning that he should quit the farm at the
+expiration of his lease, unless I could abate considerably in the rent.
+
+'At this period I accidentally became acquainted with a person, whose
+friendship laid the foundation of all my prosperity. (Length: 3165 characters)
+- But things were greatly
+altered--The selfish brutality of his behaviour on the stairs had
+steeled their hearts against all his arts and address--Not a soul
+offered to accommodate him with a chair, cushion, or footstool; so that
+he was obliged to sit down on a hard bench--In that position, he looked
+around with a rueful aspect, and, bowing very low, said in a
+whining tone, 'Your most humble servant, ladies--Fire is a dreadful
+calamity'--'Fire purifies gold, and it ties friendship,' cried Mrs
+Tabitha, bridling. 'Yea, madam (replied Micklewhimmen); and it trieth
+discretion also'--'If discretion consists in forsaking a friend in
+adversity, you are eminently possessed of that virtue' (resumed our
+aunt).--'Na, madam (rejoined the advocate), well I wot, I cannot claim
+any merit from the mode of my retreat--Ye'll please to observe, ladies,
+there are twa independent principles that actuate our nature--One is
+instinct, which we have in common with the brute creation, and the other
+is reason--Noo, in certain great emergencies, when the faculty of reason
+is suspended, instinct taks the lead, and when this predominates, having
+no affinity with reason, it pays no sort of regard to its connections;
+it only operates for the preservation of the individual, and that by the
+most expeditious and effectual means; therefore, begging your pardon,
+ladies, I'm no accountable in foro conscientioe for what I did, while
+under the influence of this irresistible pooer.'
+
+Here my uncle interposing, 'I should be glad to know (said he), whether
+it was instinct that prompted you to retreat with bag and baggage; for,
+I think, you had a portmanteau on your shoulder' The lawyer answered,
+without hesitation, 'Gif I might tell my mind freely, withoot incuring
+the suspicion of presumption, I should think it was something superior
+to either reason or instinct which suggested that measure, and this on
+a twafold accoont: in the first place, the portmanteau contained the
+writings of a worthy nobleman's estate; and their being burnt would have
+occasioned a loss that could not be repaired; secondly, my good angel
+seems to have laid the portmanteau on my shoulders, by way of defence,
+to sustain the violence of a most inhuman blow, from the crutch of a
+reverend clergyman, which, even in spite of that medium, hath wounded
+me sorely, even unto the pericranium.' 'By your own doctrine (cried the
+parson, who chanced to be present), I am not accountable for the blow,
+which was the effect of instinct.' 'I crave your pardon, reverend sir
+(said the other), instinct never acts but for the preservation of the
+individual; but your preservation was out of the case--you had already
+received the damage, and therefore the blow must be imputed to revenge,
+which is a sinful passion, that ill becomes any Christian, especially a
+protestant divine; and let me tell you, most reverend doctor, gin I had
+a mind to plea, the law would hauld my libel relevant.' 'Why, the damage
+is pretty equal on both sides (cried the parson); your head is broke,
+and my crutch is snapt in the middle. (Length: 3110 characters)
+- Be that as it may, they
+resolved to give a dinner and a ball at Leith, to which they formally
+invited all the young noblemen and gentlemen that were at the races; and
+this invitation was reinforced by an assurance that all the celebrated
+ladies of pleasure would grace the entertainment with their company.--I
+received a card on this occasion, and went thither with half a dozen of
+my acquaintance.--In a large hall the cloth was laid on a long range of
+tables joined together, and here the company seated themselves, to
+the number of about fourscore, lords, and lairds, and other gentlemen,
+courtezans and cawdies mingled together, as the slaves and their masters
+were in the time of the Saturnalia in ancient Rome.--The toast master,
+who sat at the upper end, was one Cawdie Fraser, a veteran pimp,
+distinguished for his humour and sagacity, well known and much respected
+in his profession by all the guests, male and female, that were here
+assembled.--He had bespoke the dinner and the wine: he had taken care
+that all his brethren should appear in decent apparel and clean
+linen; and he himself wore a periwig with three tails in honour of the
+festival.--I assure you the banquet was both elegant and plentiful,
+and seasoned with a thousand sallies, that promoted a general spirit
+of mirth and good humour.--After the desert, Mr Fraser proposed the
+following toasts, which I don't pretend to explain. 'The best in
+Christendom.'--'Gibbs' contract.'--'The beggar's benison,'--'King and
+kirk.'--'Great Britain and Ireland.' Then, filling a bumper, and turning
+to me, 'Mester Malford (said he), may a' unkindness cease betwixt John
+Bull and his sister Moggy.'--The next person he singled out, was a
+nobleman who had been long abroad.--'Ma lord (cried Fraser), here is a
+bumper to a' those noblemen who have virtue enough to spend their rents
+in their ain countray.'--He afterwards addressed himself to a member of
+parliament in these words:--'Meester--I'm sure ye'll ha' nae objection
+to my drinking, disgrace and dule to ilka Scot, that sells his
+conscience and his vote.'--He discharged a third sarcasm at a person
+very gaily dressed, who had risen from small beginnings, and made a
+considerable fortune at play.--Filling his glass, and calling him by
+name, 'Lang life (said he), to the wylie loon that gangs a-field with a
+toom poke at his lunzie, and comes hame with a sackful of siller.'--All
+these toasts being received with loud bursts of applause, Mr Fraser
+called for pint glasses, and filled his own to the brim: then standing
+up, and all his brethren following his example, 'Ma lords and gentlemen
+(cried he), here is a cup of thanks for the great and undeserved honour
+you have done your poor errand-boys this day.'--So saying, he and they
+drank off their glasses in a trice, and quitting their seats, took their
+station each behind one of the other guests; exclaiming, 'Noo we're your
+honours cawdies again.'
+
+The nobleman who had bore the first brunt of Mr Fraser's satire,
+objected to his abdication. (Length: 3060 characters)
+- He observed,
+that stink, or stench, meant no more than a strong impression on
+the olfactory nerves; and might be applied to substances of the most
+opposite qualities; that in the Dutch language, stinken signifies the
+most agreeable perfume, as well as the most fetid odour, as appears in
+Van Vloudel's translation of Horace, in that beautiful ode, Quis multa
+gracilis, &c.--The words fiquidis perfusus odoribus, he translates van
+civet & moschata gestinken: that individuals differed toto coelo in
+their opinion of smells, which, indeed, was altogether as arbitrary
+as the opinion of beauty; that the French were pleased with the putrid
+effluvia of animal food; and so were the Hottentots in Africa, and the
+Savages in Greenland; and that the Negroes on the coast of Senegal would
+not touch fish till it was rotten; strong presumptions in favour of what
+is generally called stink, as those nations are in a state of nature,
+undebauched by luxury, unseduced by whim and caprice: that he had reason
+to believe the stercoraceous flavour, condemned by prejudice as a stink,
+was, in fact, most agreeable to the organs of smelling; for, that every
+person who pretended to nauseate the smell of another's excretions,
+snuffed up his own with particular complacency; for the truth of which
+he appealed to all the ladies and gentlemen then present: he said, the
+inhabitants of Madrid and Edinburgh found particular satisfaction
+in breathing their own atmosphere, which was always impregnated with
+stercoraceous effluvia: that the learned Dr B--, in his treatise on the
+Four Digestions, explains in what manner the volatile effluvia from the
+intestines stimulate and promote the operations of the animal economy:
+he affirmed, the last Grand Duke of Tuscany, of the Medicis family,
+who refined upon sensuality with the spirit of a philosopher, was so
+delighted with that odour, that he caused the essence of ordure to be
+extracted, and used it as the most delicious perfume: that he himself
+(the doctor) when he happened to be low-spirited, or fatigued with
+business, found immediate relief and uncommon satisfaction from hanging
+over the stale contents of a close-stool, while his servant stirred it
+about under his nose; nor was this effect to be wondered at, when we
+consider that this substance abounds with the self-same volatile salts
+that are so greedily smelled to by the most delicate invalids, after
+they have been extracted and sublimed by the chemists.--By this time the
+company began to hold their noses; but the doctor, without taking
+the least notice of this signal, proceeded to shew, that many fetid
+substances were not only agreeable but salutary; such as assa foetida,
+and other medicinal gums, resins, roots, and vegetables, over and above
+burnt feathers, tan-pits, candle-snuffs, &c. (Length: 2832 characters)
+- The common
+people there, as in other countries, run into the absurdities of
+superstition; but sensible men pay adoration to a Supreme Being, who
+created and sustains the universe.' 'O! what pity (exclaimed the pious
+Tabby), that some holy man has not been inspired to go and convert these
+poor heathens!'
+
+The lieutenant told her, that while he resided among them, two French
+missionaries arrived, in order to convert them to the catholic religion;
+but when they talked of mysteries and revelations, which they could
+neither explain nor authenticate, and called in the evidence of miracles
+which they believed upon hearsay; when they taught that the Supreme
+Creator of Heaven and Earth had allowed his only Son, his own equal in
+power and glory, to enter the bowels of a woman, to be born as a
+human creature, to be insulted, flagellated, and even executed as a
+malefactor; when they pretended to create God himself, to swallow,
+digest, revive, and multiply him ad infinitum, by the help of a little
+flour and water, the Indians were shocked at the impiety of their
+presumption.--They were examined by the assembly of the sachems
+who desired them to prove the divinity of their mission by some
+miracle.--They answered, that it was not in their power.--'If you were
+really sent by Heaven for our conversion (said one of the sachems), you
+would certainly have some supernatural endowments, at least you would
+have the gift of tongues, in order to explain your doctrine to the
+different nations among which you are employed; but you are so ignorant
+of our language, that you cannot express yourselves even on the most
+trifling subjects.' In a word, the assembly were convinced of their
+being cheats, and even suspected them of being spies: they ordered them
+a bag of Indian corn apiece, and appointed a guide to conduct them to
+the frontiers; but the missionaries having more zeal than discretion,
+refused to quit the vineyard.--They persisted in saying mass, in
+preaching, baptizing, and squabbling with the conjurers, or priests
+of the country, till they had thrown the whole community into
+confusion.--Then the assembly proceeded to try them as impious
+impostors, who represented the Almighty as a trifling, weak, capricious
+being, and pretended to make, unmake, and reproduce him at pleasure;
+they were, therefore, convicted of blasphemy and sedition, and condemned
+to the stale, where they died singing Salve regina, in a rapture of joy,
+for the crown of martyrdom which they had thus obtained. (Length: 2534 characters)
+- DEAR MARY JONES,
+
+Miss Liddy is so good as to unclose me in a kiver as fur as Gloster,
+and the carrier will bring it to hand--God send us all safe to
+Monmouthshire, for I'm quite jaded with rambling--'Tis a true saying,
+live and learn--0 woman, what chuckling and changing have I seen!--Well,
+there's nothing sartain in this world--Who would have thought that
+mistriss, after all the pains taken for the good of her prusias sole,
+would go for to throw away her poor body? that she would cast the
+heys of infection upon such a carrying-crow as Lashmihago! as old
+as Mathewsullin, as dry as a red herring, and as poor as a starved
+veezel--0, Molly, hadst thou seen him come down the ladder, in a shurt
+so scanty, that it could not kiver his nakedness!--The young
+'squire called him Dunquickset; but he looked for all the world like
+Cradoc-ap-Morgan, the ould tinker, that suffered at Abergany for
+steeling of kettle--Then he's a profane scuffle, and, as Mr Clinker
+says, no better than an impfiddle, continually playing upon the pyebill
+and the new-burth--I doubt he has as little manners as money; for he
+can't say a civil word, much more make me a present of a pair of gloves
+for goodwill; but he looks as if he wanted to be very forewood and
+familiar O! that ever a gentlewoman of years and discretion should tare
+her air, and cry and disporridge herself for such a nubjack! as the song
+goes
+
+I vow she would fain have a burd That bids such a price for an owl.
+
+but, for sartain, he must have dealt with some Scotch musician to bring
+her to this pass--As for me, I put my trust in the Lord; and I have got
+a slice of witch elm sowed in the gathers of my under petticoat; and
+Mr Clinker assures me, that by the new light of grease, I may deify the
+devil and all his works--But I nose what I nose--If mistress should take
+up with Lashmyhago, this is no sarvice for me--Thank God, there's no
+want of places; and if it wan't for wan thing, I would--but, no matter
+Madam Baynar's woman has twenty good pounds a-year and parquisites; and
+dresses like a parson of distinkson--I dined with her and the valley
+de shambles, with bags and golden jackets; but there was nothing
+kimfittable to eat, being as how they lived upon board, and having
+nothing but a piss of could cuddling tart and some blamangey, I was
+tuck with the cullick, and a murcey it was that mistress had her viol of
+assings in the cox. (Length: 2433 characters)
+- Before I had time to make my uncle acquainted with this
+event, the Irishman burst into my chamber, without any introduction,
+exclaiming,--'By my soul, your sarvant has robbed me of five
+thousand pounds, and I'll have satisfaction, if I should be hanged
+tomorrow.'--When I asked him who he was, 'My name (said he) is Master
+Macloughlin but it should be Leighlin Oneale, for I am come from
+Tir-Owen the Great; and so I am as good a gentleman as any in Ireland;
+and that rogue, your sarvant, said I was a taylor, which was as big
+a lie as if he had called me the pope--I'm a man of fortune, and have
+spent all I had; and so being in distress, Mr Coshgrave, the fashioner
+in Shuffolk-street, tuck me out, and made me his own private shecretary:
+by the same token, I was the last he bailed; for his friends obliged him
+to tie himself up, that he would bail no more above ten pounds; for why,
+becaase as how, he could not refuse any body that asked, and therefore
+in time would have robbed himself of his whole fortune, and, if he had
+lived long at that rate, must have died bankrupt very soon and so I
+made my addresses to Miss Skinner, a young lady of five thousand pounds
+fortune, who agreed to take me for better nor worse; and, to be sure,
+this day would have put me in possession, if it had not been for that
+rogue, your sarvant, who came like a tief, and stole away my property,
+and made her believe I was a taylor; and that she was going to marry the
+ninth part of a man: but the devil burn my soul, if ever I catch him on
+the mountains of Tulloghobegly, if I don't shew him that I'm nine times
+as good a man as he, or e'er a bug of his country.'
+
+When he had rung out his first alarm, I told him I was sorry he had
+allowed himself to be so jockied; but it was no business of mine; and
+that the fellow who robbed him of his bride, had likewise robbed me of
+my servant--'Didn't I tell you then (cried he) that Rogue was his true
+Christian name.--Oh if I had but one fair trust with him upon the sod,
+I'd give him lave to brag all the rest of his life.'
+
+My uncle hearing the noise, came in, and being informed of this
+adventure, began to comfort Mr Oneale for the lady's elopement;
+observing that he seemed to have had a lucky escape, that it was better
+she should elope before, than after marriage--The Hibernian was of a
+very different opinion. (Length: 2383 characters)
+- Humphry owned he could not pretend to recollect where he had been on the
+day when the robbery was committed, much less prove a circumstance of
+that kind so far back as six months, though he knew he had been sick
+of the fever and ague, which, however, did not prevent him from going
+about--then, turning up his eyes, he ejaculated, 'The Lord's will be
+done! if it be my fate to suffer, I hope I shall not disgrace the faith
+of which, though unworthy, I make profession.'
+
+When I expressed my surprize that the accuser should persist in charging
+Clinker, without taking the least notice of the real robber who
+stood before him, and to whom, indeed, Humphry bore not the smallest
+resemblance; the constable (who was himself a thief-taker) gave me to
+understand, that Mr Martin was the best qualified for business of all
+the gentlemen on the road he had ever known; that he had always acted on
+his own bottom, without partner or correspondent, and never went to work
+but when he was cool and sober; that his courage and presence of mind
+never failed him; that his address was genteel, and his behaviour void
+of all cruelty and insolence; that he never encumbered himself with
+watches or trinkets, nor even with bank-notes, but always dealt for
+ready money, and that in the current coin of the kingdom; and that he
+could disguise himself and his horse in such a manner, that, after
+the action, it was impossible to recognize either the one or the
+other--'This great man (said he) has reigned paramount in all the roads
+within fifty miles of London above fifteen months, and has done more
+business in that time, than all the rest of the profession put together;
+for those who pass through his hands are so delicately dealt with, that
+they have no desire to give him the least disturbance; but for all that,
+his race is almost run--he is now fluttering about justice, like a moth
+about a candle--there are so many lime-twigs laid in his way, that I'll
+bet a cool hundred, he swings before Christmas.'
+
+Shall I own to you, that this portrait, drawn by a ruffian, heightened
+by what I myself had observed in his deportment, has interested me
+warmly in the fate of poor Martin, whom nature seems to have intended
+for a useful and honourable member of that community upon which he now
+preys for subsistence? (Length: 2331 characters)
+- The business
+at present, is to have the writings drawn; and I shall be obliged to
+you, if you will recommend a lawyer to me for that purpose'
+
+You may guess what an effect this overture had upon me; who, from the
+information of my nephew, expected that Barton was to make a formal
+declaration of his passion for Liddy; I could not help gazing in silent
+astonishment, alternately at Tabby, and her supposed admirer, who last
+hung his head in the most aukward confusion for a few minutes, and then
+retired on pretence of being suddenly seized with a vertigo--Mrs Tabitha
+affected much concern, and would have had him make use of a bed in the
+house; but he insisted upon going home, that he might have recourse
+of some drops, which he kept for such emergencies, and his innamorata
+acquiesced--In the mean time I was exceedingly puzzled at this adventure
+(though I suspected the truth) and did not know in what manner to demean
+myself towards Mrs Tabitha, when Jery came in and told me, he had just
+seen Mr Barton alight from his chariot at lady Griskin's door--This
+incident seemed to threaten a visit from her ladyship, with which we
+were honoured accordingly, in less than half an hour--'I find (said she)
+there has been a match of cross purposes among you good folks; and
+I'm come to set you to rights'--So saying, she presented me with the
+following billet
+
+'DEAR SIR,
+
+I no sooner recollected myself from the extreme confusion I was thrown
+into, by that unlucky mistake of your sister, than I thought it my duty
+to assure you, that my devoirs to Mrs Bramble never exceeded the bounds
+of ordinary civility; and that my heart is unalterably fixed upon Miss
+Liddy Melford, as I had the honour to declare to her brother, when he
+questioned me upon that subject--Lady Griskin has been so good as to
+charge herself, not only with the delivery of this note, but also with
+the task of undeceiving Mrs Bramble, for whom I have the most profound
+respect and veneration, though my affection being otherwise engaged is
+no longer in the power of
+
+Sir, Your very humble servant, RALPH BARTON.'
+
+Having cast my eyes over this billet, I told her ladyship, that I would
+no longer retard the friendly office she had undertaken: and I and
+Jery forthwith retired into another room. (Length: 2303 characters)

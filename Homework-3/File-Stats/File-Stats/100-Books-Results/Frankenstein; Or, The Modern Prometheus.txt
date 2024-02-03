@@ -1,0 +1,216 @@
+Title: Frankenstein; Or, The Modern Prometheus
+
+
+Top 10 Shortest Sentences:
+- Wherefore not? (Words: 2)
+- August 13th, 17—. (Words: 3)
+- Petersburgh, Dec. 11th, 17—. (Words: 4)
+- HTML version by Al Haines. (Words: 5)
+- But to return to dearer considerations. (Words: 6)
+- You would not if you saw him. (Words: 7)
+- I commenced by inuring my body to hardship. (Words: 8)
+- Yet a second step is taken towards my enterprise. (Words: 9)
+- This is the most favourable period for travelling in Russia. (Words: 10)
+- What may not be expected in a country of eternal light? (Words: 11)
+
+Top 10 Longest Words:
+- characteristically (Length: 18 characters)
+- indiscriminately (Length: 16 characters)
+- impracticability (Length: 16 characters)
+- perpendicularity (Length: 16 characters)
+- inextinguishable (Length: 16 characters)
+- unenforceability (Length: 16 characters)
+- considerateness (Length: 15 characters)
+- inquisitiveness (Length: 15 characters)
+- disappointments (Length: 15 characters)
+- impossibilities (Length: 15 characters)
+
+Top 10 Most Common Letters:
+- e (Occurrences: 46094)
+- t (Occurrences: 30379)
+- a (Occurrences: 26743)
+- o (Occurrences: 25254)
+- i (Occurrences: 24577)
+- n (Occurrences: 24359)
+- s (Occurrences: 21173)
+- r (Occurrences: 20876)
+- h (Occurrences: 19763)
+- d (Occurrences: 16858)
+
+Top 10 Most Common Words:
+- the (Occurrences: 4387)
+- and (Occurrences: 3043)
+- i (Occurrences: 2846)
+- of (Occurrences: 2764)
+- to (Occurrences: 2171)
+- my (Occurrences: 1776)
+- a (Occurrences: 1449)
+- in (Occurrences: 1188)
+- that (Occurrences: 1033)
+- was (Occurrences: 1023)
+Top 10 Longest Sentences:
+- Safie was always gay and happy; she and I improved rapidly in the
+knowledge of language, so that in two months I began to comprehend most
+of the words uttered by my protectors.
+
+“In the meanwhile also the black ground was covered with herbage, and
+the green banks interspersed with innumerable flowers, sweet to the
+scent and the eyes, stars of pale radiance among the moonlight woods;
+the sun became warmer, the nights clear and balmy; and my nocturnal
+rambles were an extreme pleasure to me, although they were considerably
+shortened by the late setting and early rising of the sun, for I never
+ventured abroad during daylight, fearful of meeting with the same
+treatment I had formerly endured in the first village which I entered.
+
+“My days were spent in close attention, that I might more speedily
+master the language; and I may boast that I improved more rapidly than
+the Arabian, who understood very little and conversed in broken
+accents, whilst I comprehended and could imitate almost every word that
+was spoken.
+
+“While I improved in speech, I also learned the science of letters as
+it was taught to the stranger, and this opened before me a wide field
+for wonder and delight.
+
+“The book from which Felix instructed Safie was Volney’s _Ruins
+of Empires_. (Length: 1287 characters)
+- He felt as if he had
+been transported to Fairy-land and enjoyed a happiness seldom tasted by
+man. “I have seen,” he said, “the most beautiful scenes
+of my own country; I have visited the lakes of Lucerne and Uri, where the
+snowy mountains descend almost perpendicularly to the water, casting black
+and impenetrable shades, which would cause a gloomy and mournful appearance
+were it not for the most verdant islands that relieve the eye by their gay
+appearance; I have seen this lake agitated by a tempest, when the wind tore
+up whirlwinds of water and gave you an idea of what the water-spout must be
+on the great ocean; and the waves dash with fury the base of the mountain,
+where the priest and his mistress were overwhelmed by an avalanche and
+where their dying voices are still said to be heard amid the pauses of the
+nightly wind; I have seen the mountains of La Valais, and the Pays de Vaud;
+but this country, Victor, pleases me more than all those wonders. (Length: 976 characters)
+- As it was, I merely remarked that they
+spoke English, and I therefore addressed them in that language. “My
+good friends,” said I, “will you be so kind as to tell me the name of
+this town and inform me where I am?”
+
+“You will know that soon enough,” replied a man with a hoarse voice.
+“Maybe you are come to a place that will not prove much to your taste,
+but you will not be consulted as to your quarters, I promise you.”
+
+I was exceedingly surprised on receiving so rude an answer from a
+stranger, and I was also disconcerted on perceiving the frowning and
+angry countenances of his companions. “Why do you answer me so
+roughly?” I replied. “Surely it is not the custom of Englishmen to
+receive strangers so inhospitably.”
+
+“I do not know,” said the man, “what the custom of the
+English may be, but it is the custom of the Irish to hate villains.”
+
+While this strange dialogue continued, I perceived the crowd rapidly
+increase. (Length: 947 characters)
+- Clerval continued talking for
+some time about our mutual friends and his own good fortune in being
+permitted to come to Ingolstadt. “You may easily believe,” said
+he, “how great was the difficulty to persuade my father that all
+necessary knowledge was not comprised in the noble art of book-keeping;
+and, indeed, I believe I left him incredulous to the last, for his constant
+answer to my unwearied entreaties was the same as that of the Dutch
+schoolmaster in The Vicar of Wakefield: ‘I have ten thousand florins
+a year without Greek, I eat heartily without Greek.’ But his
+affection for me at length overcame his dislike of learning, and he has
+permitted me to undertake a voyage of discovery to the land of
+knowledge.”
+
+“It gives me the greatest delight to see you; but tell me how you left
+my father, brothers, and Elizabeth.”
+
+“Very well, and very happy, only a little uneasy that they hear from
+you so seldom. (Length: 931 characters)
+- He had previously communicated his
+plan to the former, who aided the deceit by quitting his house, under
+the pretence of a journey and concealed himself, with his daughter, in
+an obscure part of Paris.
+
+“Felix conducted the fugitives through France to Lyons and across Mont
+Cenis to Leghorn, where the merchant had decided to wait a favourable
+opportunity of passing into some part of the Turkish dominions.
+
+“Safie resolved to remain with her father until the moment of his
+departure, before which time the Turk renewed his promise that she
+should be united to his deliverer; and Felix remained with them in
+expectation of that event; and in the meantime he enjoyed the society
+of the Arabian, who exhibited towards him the simplest and tenderest
+affection. (Length: 772 characters)
+- The fresh air revived
+me, and with renewed determination I approached the door of their
+cottage.
+
+“I knocked. ‘Who is there?’ said the old man. ‘Come in.’
+
+“I entered. ‘Pardon this intrusion,’ said I; ‘I am
+a traveller in want of a little rest; you would greatly oblige me if you
+would allow me to remain a few minutes before the fire.’
+
+“‘Enter,’ said De Lacey, ‘and I will try in what
+manner I can to relieve your wants; but, unfortunately, my children are
+from home, and as I am blind, I am afraid I shall find it difficult to
+procure food for you.’
+
+“‘Do not trouble yourself, my kind host; I have food; it is
+warmth and rest only that I need.’
+
+“I sat down, and a silence ensued. (Length: 702 characters)
+- INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause. (Length: 685 characters)
+- You dare not keep me.’
+
+“‘Frankenstein! you belong then to my enemy—to him towards whom I have
+sworn eternal revenge; you shall be my first victim.’
+
+“The child still struggled and loaded me with epithets which carried
+despair to my heart; I grasped his throat to silence him, and in a
+moment he lay dead at my feet.
+
+“I gazed on my victim, and my heart swelled with exultation and hellish
+triumph; clapping my hands, I exclaimed, ‘I too can create desolation;
+my enemy is not invulnerable; this death will carry despair to him, and
+a thousand other miseries shall torment and destroy him.’
+
+“As I fixed my eyes on the child, I saw something glittering on his
+breast. (Length: 682 characters)
+- I improved, however,
+sensibly in this science, but not sufficiently to follow up any kind of
+conversation, although I applied my whole mind to the endeavour, for I
+easily perceived that, although I eagerly longed to discover myself to
+the cottagers, I ought not to make the attempt until I had first become
+master of their language, which knowledge might enable me to make them
+overlook the deformity of my figure, for with this also the contrast
+perpetually presented to my eyes had made me acquainted.
+
+“I had admired the perfect forms of my cottagers—their grace, beauty,
+and delicate complexions; but how was I terrified when I viewed myself
+in a transparent pool! (Length: 679 characters)
+- You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. (Length: 620 characters)

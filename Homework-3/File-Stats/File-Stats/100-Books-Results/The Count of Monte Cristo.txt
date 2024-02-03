@@ -1,0 +1,735 @@
+Title: The Count of Monte Cristo
+
+
+Top 10 Shortest Sentences:
+- Chapter 37. (Words: 2)
+- Prove it, Danglars. (Words: 3)
+- The Carnival at Rome. (Words: 4)
+- But what ails you, father? (Words: 5)
+- Shall you never leave me again? (Words: 6)
+- This room was occupied by Dantès’ father. (Words: 7)
+- Dantès is a good fellow; I like Dantès. (Words: 8)
+- Ah, this letter gives me an idea—a capital idea! (Words: 9)
+- The most vague and wild thoughts passed through his mind. (Words: 10)
+- Mercédès has no fortune; I have none to settle on her. (Words: 11)
+
+Top 10 Longest Words:
+- _Constitutionnel_ (Length: 17 characters)
+- disinterestedness (Length: 17 characters)
+- incomprehensible (Length: 16 characters)
+- enthusiastically (Length: 16 characters)
+- indiscriminately (Length: 16 characters)
+- misunderstanding (Length: 16 characters)
+- Incomprehensible (Length: 16 characters)
+- unenforceability (Length: 16 characters)
+- unprepossessing (Length: 15 characters)
+- unceremoniously (Length: 15 characters)
+
+Top 10 Most Common Letters:
+- e (Occurrences: 259048)
+- t (Occurrences: 180456)
+- a (Occurrences: 165521)
+- o (Occurrences: 157058)
+- i (Occurrences: 142271)
+- n (Occurrences: 137528)
+- s (Occurrences: 126571)
+- h (Occurrences: 126370)
+- r (Occurrences: 121329)
+- d (Occurrences: 94077)
+
+Top 10 Most Common Words:
+- the (Occurrences: 28637)
+- of (Occurrences: 12920)
+- to (Occurrences: 12899)
+- and (Occurrences: 12568)
+- a (Occurrences: 9468)
+- i (Occurrences: 8388)
+- you (Occurrences: 8288)
+- he (Occurrences: 6946)
+- in (Occurrences: 6622)
+- his (Occurrences: 5908)
+Top 10 Longest Sentences:
+- Danglars, said:
+
+“Baron, I have the honor of asking of you the hand of Mademoiselle
+Eugénie Danglars for my son, the Vicomte Albert de Morcerf.”
+
+But Danglars, instead of receiving this address in the favorable manner
+which Morcerf had expected, knit his brow, and without inviting the
+count, who was still standing, to take a seat, he said:
+
+“Monsieur, it will be necessary to reflect before I give you an
+answer.”
+
+“To reflect?” said Morcerf, more and more astonished; “have you not had
+enough time for reflection during the eight years which have elapsed
+since this marriage was first discussed between us?”
+
+“Count,” said the banker, “things are constantly occurring in the world
+to induce us to lay aside our most established opinions, or at all
+events to cause us to remodel them according to the change of
+circumstances, which may have placed affairs in a totally different
+light to that in which we at first viewed them.”
+
+“I do not understand you, baron,” said Morcerf.
+
+“What I mean to say is this, sir,—that during the last fortnight
+unforeseen circumstances have occurred——”
+
+“Excuse me,” said Morcerf, “but is it a play we are acting?”
+
+“A play?”
+
+“Yes, for it is like one; pray let us come more to the point, and
+endeavor thoroughly to understand each other.”
+
+“That is quite my desire.”
+
+“You have seen M. de Monte Cristo have you not?”
+
+“I see him very often,” said Danglars, drawing himself up; “he is a
+particular friend of mine.”
+
+“Well, in one of your late conversations with him, you said that I
+appeared to be forgetful and irresolute concerning this marriage, did
+you not?”
+
+“I did say so.”
+
+“Well, here I am, proving at once that I am really neither the one nor
+the other, by entreating you to keep your promise on that score.”
+
+Danglars did not answer.
+
+“Have you so soon changed your mind,” added Morcerf, “or have you only
+provoked my request that you may have the pleasure of seeing me
+humbled?”
+
+Danglars, seeing that if he continued the conversation in the same tone
+in which he had begun it, the whole thing might turn out to his own
+disadvantage, turned to Morcerf, and said:
+
+“Count, you must doubtless be surprised at my reserve, and I assure you
+it costs me much to act in such a manner towards you; but, believe me
+when I say that imperative necessity has imposed the painful task upon
+me.”
+
+“These are all so many empty words, my dear sir,” said Morcerf: “they
+might satisfy a new acquaintance, but the Comte de Morcerf does not
+rank in that list; and when a man like him comes to another, recalls to
+him his plighted word, and this man fails to redeem the pledge, he has
+at least a right to exact from him a good reason for so doing.”
+
+Danglars was a coward, but did not wish to appear so; he was piqued at
+the tone which Morcerf had just assumed.
+
+“I am not without a good reason for my conduct,” replied the banker.
+
+“What do you mean to say?”
+
+“I mean to say that I have a good reason, but that it is difficult to
+explain.”
+
+“You must be aware, at all events, that it is impossible for me to
+understand motives before they are explained to me; but one thing at
+least is clear, which is, that you decline allying yourself with my
+family.”
+
+“No, sir,” said Danglars; “I merely suspend my decision, that is all.”
+
+“And do you really flatter yourself that I shall yield to all your
+caprices, and quietly and humbly await the time of again being received
+into your good graces?”
+
+“Then, count, if you will not wait, we must look upon these projects as
+if they had never been entertained.”
+
+The count bit his lips till the blood almost started, to prevent the
+ebullition of anger which his proud and irritable temper scarcely
+allowed him to restrain; understanding, however, that in the present
+state of things the laugh would decidedly be against him, he turned
+from the door, towards which he had been directing his steps, and again
+confronted the banker. (Length: 3992 characters)
+- There, seated before a walnut table he had brought with him from
+Hartwell, and to which, from one of those fancies not uncommon to great
+people, he was particularly attached, the king, Louis XVIII., was
+carelessly listening to a man of fifty or fifty-two years of age, with
+gray hair, aristocratic bearing, and exceedingly gentlemanly attire,
+and meanwhile making a marginal note in a volume of Gryphius’s rather
+inaccurate, but much sought-after, edition of Horace—a work which was
+much indebted to the sagacious observations of the philosophical
+monarch.
+
+“You say, sir——” said the king.
+
+“That I am exceedingly disquieted, sire.”
+
+“Really, have you had a vision of the seven fat kine and the seven lean
+kine?”
+
+“No, sire, for that would only betoken for us seven years of plenty and
+seven years of scarcity; and with a king as full of foresight as your
+majesty, scarcity is not a thing to be feared.”
+
+“Then of what other scourge are you afraid, my dear Blacas?”
+
+“Sire, I have every reason to believe that a storm is brewing in the
+south.”
+
+“Well, my dear duke,” replied Louis XVIII., “I think you are wrongly
+informed, and know positively that, on the contrary, it is very fine
+weather in that direction.” Man of ability as he was, Louis XVIII.
+liked a pleasant jest.
+
+“Sire,” continued M. de Blacas, “if it only be to reassure a faithful
+servant, will your majesty send into Languedoc, Provence, and Dauphiné,
+trusty men, who will bring you back a faithful report as to the feeling
+in these three provinces?”
+
+“_Canimus surdis_,” replied the king, continuing the annotations in his
+Horace.
+
+“Sire,” replied the courtier, laughing, in order that he might seem to
+comprehend the quotation, “your majesty may be perfectly right in
+relying on the good feeling of France, but I fear I am not altogether
+wrong in dreading some desperate attempt.”
+
+“By whom?”
+
+“By Bonaparte, or, at least, by his adherents.”
+
+“My dear Blacas,” said the king, “you with your alarms prevent me from
+working.”
+
+“And you, sire, prevent me from sleeping with your security.”
+
+“Wait, my dear sir, wait a moment; for I have such a delightful note on
+the _Pastor quum traheret_—wait, and I will listen to you afterwards.”
+
+There was a brief pause, during which Louis XVIII. wrote, in a hand as
+small as possible, another note on the margin of his Horace, and then
+looking at the duke with the air of a man who thinks he has an idea of
+his own, while he is only commenting upon the idea of another, said:
+
+“Go on, my dear duke, go on—I listen.”
+
+“Sire,” said Blacas, who had for a moment the hope of sacrificing
+Villefort to his own profit, “I am compelled to tell you that these are
+not mere rumors destitute of foundation which thus disquiet me; but a
+serious-minded man, deserving all my confidence, and charged by me to
+watch over the south” (the duke hesitated as he pronounced these
+words), “has arrived by post to tell me that a great peril threatens
+the king, and so I hastened to you, sire.”
+
+“_Mala ducis avi domum_,” continued Louis XVIII., still annotating.
+
+“Does your majesty wish me to drop the subject?”
+
+“By no means, my dear duke; but just stretch out your hand.”
+
+“Which?”
+
+“Whichever you please—there to the left.”
+
+“Here, sire?”
+
+“I tell you to the left, and you are looking to the right; I mean on my
+left—yes, there. (Length: 3397 characters)
+- The silence became almost painful
+when, by a violent effort, tearing himself from his pleasing reverie:
+
+“Madame,” said he at length, “I pray you to excuse my emotion, which
+must astonish you who are only accustomed to the happiness I meet here;
+but contentment is so new a sight to me, that I could never be weary of
+looking at yourself and your husband.”
+
+“We are very happy, monsieur,” replied Julie; “but we have also known
+unhappiness, and few have ever undergone more bitter sufferings than
+ourselves.”
+
+The count’s features displayed an expression of the most intense
+curiosity.
+
+“Oh, all this is a family history, as Château-Renaud told you the other
+day,” observed Maximilian. “This humble picture would have but little
+interest for you, accustomed as you are to behold the pleasures and the
+misfortunes of the wealthy and industrious; but such as we are, we have
+experienced bitter sorrows.”
+
+“And God has poured balm into your wounds, as he does into those of all
+who are in affliction?” said Monte Cristo inquiringly.
+
+“Yes, count,” returned Julie, “we may indeed say he has, for he has
+done for us what he grants only to his chosen; he sent us one of his
+angels.”
+
+The count’s cheeks became scarlet, and he coughed, in order to have an
+excuse for putting his handkerchief to his mouth.
+
+“Those born to wealth, and who have the means of gratifying every
+wish,” said Emmanuel, “know not what is the real happiness of life,
+just as those who have been tossed on the stormy waters of the ocean on
+a few frail planks can alone realize the blessings of fair weather.”
+
+Monte Cristo rose, and without making any answer (for the tremulousness
+of his voice would have betrayed his emotion) walked up and down the
+apartment with a slow step.
+
+“Our magnificence makes you smile, count,” said Maximilian, who had
+followed him with his eyes.
+
+“No, no,” returned Monte Cristo, pale as death, pressing one hand on
+his heart to still its throbbings, while with the other he pointed to a
+crystal cover, beneath which a silken purse lay on a black velvet
+cushion. “I was wondering what could be the significance of this purse,
+with the paper at one end and the large diamond at the other.”
+
+“Count,” replied Maximilian, with an air of gravity, “those are our
+most precious family treasures.”
+
+“The stone seems very brilliant,” answered the count.
+
+“Oh, my brother does not allude to its value, although it has been
+estimated at 100,000 francs; he means, that the articles contained in
+this purse are the relics of the angel I spoke of just now.”
+
+“This I do not comprehend; and yet I may not ask for an explanation,
+madame,” replied Monte Cristo bowing. “Pardon me, I had no intention of
+committing an indiscretion.”
+
+“Indiscretion,—oh, you make us happy by giving us an excuse for
+expatiating on this subject. (Length: 2868 characters)
+- But now we are
+alone,—although it is immaterial to me,—where are we going?”
+
+“Into Normandy, if you like.”
+
+“Delightful; shall we be quite retired? have no society, no neighbors?”
+
+“Our companions will be riding-horses, dogs to hunt with, and a
+fishing-boat.”
+
+“Exactly what I wish for; I will apprise my mother of my intention, and
+return to you.”
+
+“But shall you be allowed to go into Normandy?”
+
+“I may go where I please.”
+
+“Yes, I am aware you may go alone, since I once met you in Italy—but to
+accompany the mysterious Monte Cristo?”
+
+“You forget, count, that I have often told you of the deep interest my
+mother takes in you.”
+
+“‘Woman is fickle.’ said Francis I.; ‘woman is like a wave of the sea,’
+said Shakespeare; both the great king and the great poet ought to have
+known woman’s nature well.”
+
+“Woman’s, yes; my mother is not woman, but _a_ woman.”
+
+“As I am only a humble foreigner, you must pardon me if I do not
+understand all the subtle refinements of your language.”
+
+“What I mean to say is, that my mother is not quick to give her
+confidence, but when she does she never changes.”
+
+“Ah, yes, indeed,” said Monte Cristo with a sigh; “and do you think she
+is in the least interested in me?”
+
+“I repeat it, you must really be a very strange and superior man, for
+my mother is so absorbed by the interest you have excited, that when I
+am with her she speaks of no one else.”
+
+“And does she try to make you dislike me?”
+
+“On the contrary, she often says, ‘Morcerf, I believe the count has a
+noble nature; try to gain his esteem.’”
+
+“Indeed?” said Monte Cristo, sighing.
+
+“You see, then,” said Albert, “that instead of opposing, she will
+encourage me.”
+
+“Adieu, then, until five o’clock; be punctual, and we shall arrive at
+twelve or one.”
+
+“At Tréport?”
+
+“Yes; or in the neighborhood.”
+
+“But can we travel forty-eight leagues in eight hours?”
+
+“Easily,” said Monte Cristo.
+
+“You are certainly a prodigy; you will soon not only surpass the
+railway, which would not be very difficult in France, but even the
+telegraph.”
+
+“But, viscount, since we cannot perform the journey in less than seven
+or eight hours, do not keep me waiting.”
+
+“Do not fear, I have little to prepare.”
+
+Monte Cristo smiled as he nodded to Albert, then remained a moment
+absorbed in deep meditation. (Length: 2355 characters)
+- Upon issuing forth from his subterranean retreat at the expiration of
+five minutes, he found the abbé seated upon a wooden stool, leaning his
+elbow on a table, while Margotin, whose animosity seemed appeased by
+the unusual command of the traveller for refreshments, had crept up to
+him, and had established himself very comfortably between his knees,
+his long, skinny neck resting on his lap, while his dim eye was fixed
+earnestly on the traveller’s face.
+
+“Are you quite alone?” inquired the guest, as Caderousse placed before
+him the bottle of wine and a glass.
+
+“Quite, quite alone,” replied the man—“or, at least, practically so,
+for my poor wife, who is the only person in the house besides myself,
+is laid up with illness, and unable to render me the least assistance,
+poor thing!”
+
+“You are married, then?” said the priest, with a show of interest,
+glancing round as he spoke at the scanty furnishings of the apartment.
+
+“Ah, sir,” said Caderousse with a sigh, “it is easy to perceive I am
+not a rich man; but in this world a man does not thrive the better for
+being honest.” The abbé fixed on him a searching, penetrating glance.
+
+“Yes, honest—I can certainly say that much for myself,” continued the
+innkeeper, fairly sustaining the scrutiny of the abbé’s gaze; “I can
+boast with truth of being an honest man; and,” continued he
+significantly, with a hand on his breast and shaking his head, “that is
+more than everyone can say nowadays.”
+
+0327m
+
+
+
+“So much the better for you, if what you assert be true,” said the
+abbé; “for I am firmly persuaded that, sooner or later, the good will
+be rewarded, and the wicked punished.”
+
+“Such words as those belong to your profession,” answered Caderousse,
+“and you do well to repeat them; but,” added he, with a bitter
+expression of countenance, “one is free to believe them or not, as one
+pleases.”
+
+“You are wrong to speak thus,” said the abbé; “and perhaps I may, in my
+own person, be able to prove to you how completely you are in error.”
+
+“What mean you?” inquired Caderousse with a look of surprise.
+
+“In the first place, I must be satisfied that you are the person I am
+in search of.”
+
+“What proofs do you require?”
+
+“Did you, in the year 1814 or 1815, know anything of a young sailor
+named Dantès?”
+
+“Dantès? (Length: 2320 characters)
+- One thing I was sorry
+for; when I bade him have the horns of the oxen gilded, he told me
+there would not be time, as it would require three days to do that; so
+you see we must do without this little superfluity.”
+
+“And where is he now?”
+
+“Who?”
+
+“Our host.”
+
+“Gone out in search of our equipage, by tomorrow it might be too late.”
+
+“Then he will be able to give us an answer tonight.”
+
+“Oh, I expect him every minute.”
+
+At this instant the door opened, and the head of Signor Pastrini
+appeared. “_Permesso_?” inquired he.
+
+“Certainly—certainly,” cried Franz. “Come in, my host.”
+
+“Now, then,” asked Albert eagerly, “have you found the desired cart and
+oxen?”
+
+“Better than that!” replied Signor Pastrini, with the air of a man
+perfectly well satisfied with himself.
+
+“Take care, my worthy host,” said Albert, “_better_ is a sure enemy to
+_well_.”
+
+“Let your excellencies only leave the matter to me,” returned Signor
+Pastrini in a tone indicative of unbounded self-confidence.
+
+“But what _have_ you done?” asked Franz. “Speak out, there’s a worthy
+fellow.”
+
+“Your excellencies are aware,” responded the landlord, swelling with
+importance, “that the Count of Monte Cristo is living on the same floor
+with yourselves!”
+
+“I should think we did know it,” exclaimed Albert, “since it is owing
+to that circumstance that we are packed into these small rooms, like
+two poor students in the back streets of Paris.”
+
+“When, then, the Count of Monte Cristo, hearing of the dilemma in which
+you are placed, has sent to offer you seats in his carriage and two
+places at his windows in the Palazzo Rospoli.” The friends looked at
+each other with unutterable surprise.
+
+“But do you think,” asked Albert, “that we ought to accept such offers
+from a perfect stranger?”
+
+“What sort of person is this Count of Monte Cristo?” asked Franz of his
+host.
+
+“A very great nobleman, but whether Maltese or Sicilian I cannot
+exactly say; but this I know, that he is noble as a Borghese and rich
+as a gold mine.”
+
+“It seems to me,” said Franz, speaking in an undertone to Albert, “that
+if this person merited the high panegyrics of our landlord, he would
+have conveyed his invitation through another channel, and not permitted
+it to be brought to us in this unceremonious way. (Length: 2310 characters)
+- I wrote to Franz—and were he
+here he would confirm every word—I wrote then to Franz that if he did
+not come with the four thousand crowns before six, at ten minutes past
+I should have gone to join the blessed saints and glorious martyrs in
+whose company I had the honor of being; and Signor Luigi Vampa, such
+was the name of the chief of these bandits, would have scrupulously
+kept his word.”
+
+“But Franz did come with the four thousand crowns,” said
+Château-Renaud. “A man whose name is Franz d’Épinay or Albert de
+Morcerf has not much difficulty in procuring them.”
+
+“No, he arrived accompanied simply by the guest I am going to present
+to you.”
+
+“Ah, this gentleman is a Hercules killing Cacus, a Perseus freeing
+Andromeda.”
+
+“No, he is a man about my own size.”
+
+“Armed to the teeth?”
+
+“He had not even a knitting-needle.”
+
+“But he paid your ransom?”
+
+“He said two words to the chief and I was free.”
+
+“And they apologized to him for having carried you off?” said
+Beauchamp.
+
+“Just so.”
+
+“Why, he is a second Ariosto.”
+
+“No, his name is the Count of Monte Cristo.”
+
+“There is no Count of Monte Cristo” said Debray.
+
+“I do not think so,” added Château-Renaud, with the air of a man who
+knows the whole of the European nobility perfectly.
+
+“Does anyone know anything of a Count of Monte Cristo?”
+
+“He comes possibly from the Holy Land, and one of his ancestors
+possessed Calvary, as the Mortemarts did the Dead Sea.”
+
+“I think I can assist your researches,” said Maximilian. “Monte Cristo
+is a little island I have often heard spoken of by the old sailors my
+father employed—a grain of sand in the centre of the Mediterranean, an
+atom in the infinite.”
+
+“Precisely!” cried Albert. “Well, he of whom I speak is the lord and
+master of this grain of sand, of this atom; he has purchased the title
+of count somewhere in Tuscany.”
+
+“He is rich, then?”
+
+“I believe so.”
+
+“But that ought to be visible.”
+
+“That is what deceives you, Debray.”
+
+“I do not understand you.”
+
+“Have you read the _Arabian Nights_?”
+
+“What a question!”
+
+“Well, do you know if the persons you see there are rich or poor, if
+their sacks of wheat are not rubies or diamonds? (Length: 2213 characters)
+- But as
+regards your wish to visit our fine city, my dear count, I can only say
+that you may command me and mine to any extent you please.”
+
+“Then it is settled,” said the count, “and I give you my solemn
+assurance that I only waited an opportunity like the present to realize
+plans that I have long meditated.”
+
+Franz did not doubt that these plans were the same concerning which the
+count had dropped a few words in the grotto of Monte Cristo, and while
+the count was speaking the young man watched him closely, hoping to
+read something of his purpose in his face, but his countenance was
+inscrutable especially when, as in the present case, it was veiled in a
+sphinx-like smile.
+
+“But tell me now, count,” exclaimed Albert, delighted at the idea of
+having to chaperon so distinguished a person as Monte Cristo; “tell me
+truly whether you are in earnest, or if this project of visiting Paris
+is merely one of the chimerical and uncertain air castles of which we
+make so many in the course of our lives, but which, like a house built
+on the sand, is liable to be blown over by the first puff of wind?”
+
+“I pledge you my honor,” returned the count, “that I mean to do as I
+have said; both inclination and positive necessity compel me to visit
+Paris.”
+
+“When do you propose going thither?”
+
+“Have you made up your mind when you shall be there yourself?”
+
+“Certainly I have; in a fortnight or three weeks’ time, that is to say,
+as fast as I can get there!”
+
+“Nay,” said the Count; “I will give you three months ere I join you;
+you see I make an ample allowance for all delays and difficulties.
+
+“And in three months’ time,” said Albert, “you will be at my house?”
+
+“Shall we make a positive appointment for a particular day and hour?”
+inquired the count; “only let me warn you that I am proverbial for my
+punctilious exactitude in keeping my engagements.”
+
+“Day for day, hour for hour,” said Albert; “that will suit me to a
+dot.”
+
+“So be it, then,” replied the count, and extending his hand towards a
+calendar, suspended near the chimney-piece, he said, “today is the 21st
+of February;” and drawing out his watch, added, “it is exactly
+half-past ten o’clock. (Length: 2203 characters)
+- His dress will procure him the means of approaching the
+scaffold itself, and he will deliver the official order to the officer,
+who, in his turn, will hand it to the executioner; in the meantime, it
+will be as well to acquaint Peppino with what we have determined on, if
+it be only to prevent his dying of fear or losing his senses, because
+in either case a very useless expense will have been incurred.”
+
+“Your excellency,” said the man, “you are fully persuaded of my entire
+devotion to you, are you not?”
+
+“Nay, I flatter myself that there can be no doubt of it,” replied the
+cavalier in the cloak.
+
+“Well, then, only fulfil your promise of rescuing Peppino, and
+henceforward you shall receive not only devotion, but the most absolute
+obedience from myself and those under me that one human being can
+render to another.”
+
+“Have a care how far you pledge yourself, my good friend, for I may
+remind you of your promise at some, perhaps, not very distant period,
+when I, in my turn, may require your aid and influence.”
+
+“Let that day come sooner or later, your excellency will find me what I
+have found you in this my heavy trouble; and if from the other end of
+the world you but write me word to do such or such a thing, you may
+regard it as done, for done it shall be, on the word and faith of——”
+
+“Hush!” interrupted the stranger; “I hear a noise.”
+
+“’Tis some travellers, who are visiting the Colosseum by torchlight.”
+
+“’Twere better we should not be seen together; those guides are nothing
+but spies, and might possibly recognize you; and, however I may be
+honored by your friendship, my worthy friend, if once the extent of our
+intimacy were known, I am sadly afraid both my reputation and credit
+would suffer thereby.”
+
+“Well, then, if you obtain the reprieve?”
+
+“The middle window at the Café Rospoli will be hung with white damask,
+bearing a red cross.”
+
+“And if you fail?”
+
+“Then all three windows will have yellow draperies.”
+
+“And then?”
+
+“And then, my good fellow, use your daggers in any way you please, and
+I further promise you to be there as a spectator of your prowess.”
+
+“We understand each other perfectly, then. (Length: 2185 characters)
+- Two open...
+
+     in these caves; the treasure is in the furthest a...
+
+     which treasure I bequeath and leave en...
+
+     as my sole heir.
+
+     “25th April, 1498.
+
+     “Cæs...
+
+
+“And now,” said the abbé, “read this other paper;” and he presented to
+Dantès a second leaf with fragments of lines written on it, which
+Edmond read as follows:
+
+           “...ing invited to dine by his Holiness
+
+        ...content with making me pay for my hat,
+
+   ...serves for me the fate of Cardinals Caprara
+
+           ...I declare to my nephew, Guido Spada
+
+                      ...ried in a place he knows
+
+                        ...the caves of the small
+
+                 ...essed of ingots, gold, money,
+
+ ...know of the existence of this treasure, which
+
+           ...lions of Roman crowns, and which he
+
+                             ...ck from the small
+
+                           ...ings have been made
+
+                           ...ngle in the second;
+
+                                   ...tire to him
+
+                                    ...ar † Spada.”
+
+
+Faria followed him with an excited look.
+
+“And now,” he said, when he saw that Dantès had read the last line,
+“put the two fragments together, and judge for yourself.” Dantès
+obeyed, and the conjointed pieces gave the following:
+
+0245m
+
+
+
+“This 25th day of April, 1498, be...ing invited to dine by his Holiness
+Alexander VI., and fearing that not...content with making me pay for my
+hat, he may desire to become my heir, and re...serves for me the fate
+of Cardinals Caprara and Bentivoglio, who were poisoned,...I declare to
+my nephew, Guido Spada, my sole heir, that I have bu...ried in a place
+he knows and has visited with me, that is, in...the caves of the small
+Island of Monte Cristo, all I poss...essed of ingots, gold, money,
+jewels, diamonds, gems; that I alone...know of the existence of this
+treasure, which may amount to nearly two mil...lions of Roman crowns,
+and which he will find on raising the twentieth ro...ck from the small
+creek to the east in a right line. (Length: 2107 characters)

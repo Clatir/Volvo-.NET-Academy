@@ -1,0 +1,318 @@
+Title: Candide
+
+
+Top 10 Shortest Sentences:
+- Oh, Pangloss! (Words: 2)
+- Peter's at Rome. (Words: 3)
+- He bore this twice. (Words: 4)
+- Look at his procedure again. (Words: 5)
+- The snow fell in large flakes. (Words: 6)
+- Ah, best of worlds, where art thou? (Words: 7)
+- The whole might amount to thirty thousand souls. (Words: 8)
+- Either hatred will serve as a motive to satire. (Words: 9)
+- A modern could not go about it after this fashion. (Words: 10)
+- A modern assailant of optimism would arm himself with social pity. (Words: 11)
+
+Top 10 Longest Words:
+- Waldberghofftrarbk (Length: 18 characters)
+- incompatibilities (Length: 17 characters)
+- unenforceability (Length: 16 characters)
+- parenthetically (Length: 15 characters)
+- notwithstanding (Length: 15 characters)
+- interchangeably (Length: 15 characters)
+- characteristics (Length: 15 characters)
+- metaphysicotheo (Length: 15 characters)
+- representations (Length: 15 characters)
+- MERCHANTABILITY (Length: 15 characters)
+
+Top 10 Most Common Letters:
+- e (Occurrences: 21621)
+- t (Occurrences: 15293)
+- a (Occurrences: 14525)
+- o (Occurrences: 13014)
+- i (Occurrences: 12089)
+- n (Occurrences: 11767)
+- s (Occurrences: 10917)
+- h (Occurrences: 10401)
+- r (Occurrences: 10214)
+- d (Occurrences: 8234)
+
+Top 10 Most Common Words:
+- the (Occurrences: 2216)
+- of (Occurrences: 1237)
+- and (Occurrences: 1163)
+- to (Occurrences: 1156)
+- a (Occurrences: 873)
+- in (Occurrences: 641)
+- i (Occurrences: 558)
+- he (Occurrences: 463)
+- that (Occurrences: 456)
+- was (Occurrences: 440)
+Top 10 Longest Sentences:
+- There are very few good tragedies; some
+are idylls in dialogue, well written and well rhymed, others political
+reasonings which lull to sleep, or amplifications which repel; others
+demoniac dreams in barbarous style, interrupted in sequence, with long
+apostrophes to the gods, because they do not know how to speak to men,
+with false maxims, with bombastic commonplaces!"
+
+Candide listened with attention to this discourse, and conceived a great
+idea of the speaker, and as the Marchioness had taken care to place him
+beside her, he leaned towards her and took the liberty of asking who was
+the man who had spoken so well.
+
+"He is a scholar," said the lady, "who does not play, whom the Abbé
+sometimes brings to supper; he is perfectly at home among tragedies and
+books, and he has written a tragedy which was hissed, and a book of
+which nothing has ever been seen outside his bookseller's shop
+excepting the copy which he dedicated to me."
+
+"The great man!" said Candide. "He is another Pangloss!"
+
+Then, turning towards him, he said:
+
+"Sir, you think doubtless that all is for the best in the moral and
+physical world, and that nothing could be otherwise than it is?"
+
+"I, sir!" answered the scholar, "I know nothing of all that; I find that
+all goes awry with me; that no one knows either what is his rank, nor
+what is his condition, what he does nor what he ought to do; and that
+except supper, which is always gay, and where there appears to be enough
+concord, all the rest of the time is passed in impertinent quarrels;
+Jansenist against Molinist, Parliament against the Church, men of
+letters against men of letters, courtesans against courtesans,
+financiers against the people, wives against husbands, relatives against
+relatives--it is eternal war."
+
+"I have seen the worst," Candide replied. "But a wise man, who since has
+had the misfortune to be hanged, taught me that all is marvellously
+well; these are but the shadows on a beautiful picture."
+
+"Your hanged man mocked the world," said Martin. "The shadows are
+horrible blots."
+
+"They are men who make the blots," said Candide, "and they cannot be
+dispensed with."
+
+"It is not their fault then," said Martin. (Length: 2217 characters)
+- He carried me to a neighbouring house, put me to bed, gave me food,
+waited upon me, consoled me, flattered me; he told me that he had never
+seen any one so beautiful as I, and that he never so much regretted the
+loss of what it was impossible to recover.
+
+"'I was born at Naples,' said he, 'there they geld two or three thousand
+children every year; some die of the operation, others acquire a voice
+more beautiful than that of women, and others are raised to offices of
+state.[13] This operation was performed on me with great success and I
+was chapel musician to madam, the Princess of Palestrina.'
+
+"'To my mother!' cried I.
+
+"'Your mother!' cried he, weeping. 'What! can you be that young
+princess whom I brought up until the age of six years, and who promised
+so early to be as beautiful as you?'
+
+"'It is I, indeed; but my mother lies four hundred yards hence, torn in
+quarters, under a heap of dead bodies.'
+
+"I told him all my adventures, and he made me acquainted with his;
+telling me that he had been sent to the Emperor of Morocco by a
+Christian power, to conclude a treaty with that prince, in consequence
+of which he was to be furnished with military stores and ships to help
+to demolish the commerce of other Christian Governments.
+
+"'My mission is done,' said this honest eunuch; 'I go to embark for
+Ceuta, and will take you to Italy. _Ma che sciagura d'essere senza
+coglioni!_'
+
+"I thanked him with tears of commiseration; and instead of taking me to
+Italy he conducted me to Algiers, where he sold me to the Dey. (Length: 1560 characters)
+- François Leopold Ragotsky (1676-1735).
+
+       *       *       *       *       *
+
+    +------------------------------------------------------------+
+    | Typographical errors corrected in text:                    |
+    |                                                            |
+    | Page xiv: Chapter XIII heading in Table of Contents        |
+    | amended to match chapter heading on page 54.               |
+    | Page 2: metaphysicotheo-logico-cosmolo-nigology            |
+    | amended to metaphysico-theologico-cosmolo-nigology.        |
+    | Page 158: Liebnitz amended to Leibnitz.                    |
+    | Page 168: perserved amended to preserved.                  |
+    | Page 172: rougish amended to roguish; crows amended to     |
+    | crowns.                                                    |
+    |                                                            |
+    | Where there is an equal number of instances of a word      |
+    | being hyphenated and unhyphenated, both versions           |
+    | of the word have been retained: dung-hill/dunghill;        |
+    | and new-comers/newcomers.                                  |
+    |                                                            |
+    | A single footnote on page 90 has been moved                |
+    | to the endnotes, and the notes numbers re-indexed. (Length: 1366 characters)
+- Was it not for grief, upon seeing her father kick
+me out of his magnificent castle?"
+
+"No," said Pangloss, "she was ripped open by the Bulgarian soldiers,
+after having been violated by many; they broke the Baron's head for
+attempting to defend her; my lady, her mother, was cut in pieces; my
+poor pupil was served just in the same manner as his sister; and as for
+the castle, they have not left one stone upon another, not a barn, nor a
+sheep, nor a duck, nor a tree; but we have had our revenge, for the
+Abares have done the very same thing to a neighbouring barony, which
+belonged to a Bulgarian lord."
+
+At this discourse Candide fainted again; but coming to himself, and
+having said all that it became him to say, inquired into the cause and
+effect, as well as into the _sufficient reason_ that had reduced
+Pangloss to so miserable a plight.
+
+"Alas!" said the other, "it was love; love, the comfort of the human
+species, the preserver of the universe, the soul of all sensible beings,
+love, tender love."
+
+"Alas!" said Candide, "I know this love, that sovereign of hearts, that
+soul of our souls; yet it never cost me more than a kiss and twenty
+kicks on the backside. (Length: 1194 characters)
+- Ah! sir, if
+you could only imagine what it is to be obliged to caress indifferently
+an old merchant, a lawyer, a monk, a gondolier, an abbé, to be exposed
+to abuse and insults; to be often reduced to borrowing a petticoat, only
+to go and have it raised by a disagreeable man; to be robbed by one of
+what one has earned from another; to be subject to the extortions of the
+officers of justice; and to have in prospect only a frightful old age, a
+hospital, and a dung-hill; you would conclude that I am one of the most
+unhappy creatures in the world."[33]
+
+Paquette thus opened her heart to honest Candide, in the presence of
+Martin, who said to his friend:
+
+"You see that already I have won half the wager."
+
+Friar Giroflée stayed in the dining-room, and drank a glass or two of
+wine while he was waiting for dinner.
+
+"But," said Candide to Paquette, "you looked so gay and content when I
+met you; you sang and you behaved so lovingly to the Theatin, that you
+seemed to me as happy as you pretend to be now the reverse."
+
+"Ah! sir," answered Paquette, "this is one of the miseries of the trade. (Length: 1115 characters)
+- A sergeant told them they must wait, that
+the Commandant could not speak to them, and that the reverend Father
+Provincial does not suffer any Spaniard to open his mouth but in his
+presence, or to stay above three hours in the province.
+
+"And where is the reverend Father Provincial?" said Cacambo.
+
+"He is upon the parade just after celebrating mass," answered the
+sergeant, "and you cannot kiss his spurs till three hours hence."
+
+"However," said Cacambo, "the captain is not a Spaniard, but a German,
+he is ready to perish with hunger as well as myself; cannot we have
+something for breakfast, while we wait for his reverence?"
+
+The sergeant went immediately to acquaint the Commandant with what he
+had heard.
+
+"God be praised!" said the reverend Commandant, "since he is a German, I
+may speak to him; take him to my arbour."
+
+Candide was at once conducted to a beautiful summer-house, ornamented
+with a very pretty colonnade of green and gold marble, and with
+trellises, enclosing parraquets, humming-birds, fly-birds, guinea-hens,
+and all other rare birds. (Length: 1083 characters)
+- I have
+been confined in prison; I am going to Rome, to pay a visit to the King,
+my father, who was dethroned as well as myself and my grandfather, and I
+am come to spend the Carnival at Venice."
+
+The fourth spoke thus in his turn:
+
+"I am the King of Poland; the fortune of war has stripped me of my
+hereditary dominions; my father underwent the same vicissitudes; I
+resign myself to Providence in the same manner as Sultan Achmet, the
+Emperor Ivan, and King Charles Edward, whom God long preserve; and I am
+come to the Carnival at Venice."
+
+The fifth said:
+
+"I am King of Poland also; I have been twice dethroned; but Providence
+has given me another country, where I have done more good than all the
+Sarmatian kings were ever capable of doing on the banks of the Vistula;
+I resign myself likewise to Providence, and am come to pass the Carnival
+at Venice."
+
+It was now the sixth monarch's turn to speak:
+
+"Gentlemen," said he, "I am not so great a prince as any of you;
+however, I am a king. (Length: 1015 characters)
+- I find you again in
+Portugal? then you have not been ravished? then they did not rip open
+your belly as Doctor Pangloss informed me?"
+
+"Yes, they did," said the beautiful Cunegonde; "but those two accidents
+are not always mortal."
+
+"But were your father and mother killed?"
+
+"It is but too true," answered Cunegonde, in tears.
+
+"And your brother?"
+
+"My brother also was killed."
+
+"And why are you in Portugal? and how did you know of my being here? and
+by what strange adventure did you contrive to bring me to this house?"
+
+"I will tell you all that," replied the lady, "but first of all let me
+know your history, since the innocent kiss you gave me and the kicks
+which you received."
+
+Candide respectfully obeyed her, and though he was still in a surprise,
+though his voice was feeble and trembling, though his back still pained
+him, yet he gave her a most ingenuous account of everything that had
+befallen him since the moment of their separation. (Length: 975 characters)
+- However, the Abbé whispered to the Marchioness, who half rose, honoured
+Candide with a gracious smile, and Martin with a condescending nod; she
+gave a seat and a pack of cards to Candide, who lost fifty thousand
+francs in two deals, after which they supped very gaily, and every one
+was astonished that Candide was not moved by his loss; the servants said
+among themselves, in the language of servants:--
+
+"Some English lord is here this evening."
+
+The supper passed at first like most Parisian suppers, in silence,
+followed by a noise of words which could not be distinguished, then with
+pleasantries of which most were insipid, with false news, with bad
+reasoning, a little politics, and much evil speaking; they also
+discussed new books.
+
+"Have you seen," said the Perigordian Abbé, "the romance of Sieur
+Gauchat, doctor of divinity?"[26]
+
+"Yes," answered one of the guests, "but I have not been able to finish
+it. (Length: 936 characters)
+- He hates whatever succeeds,
+as the eunuchs hate those who enjoy; he is one of the serpents of
+literature who nourish themselves on dirt and spite; he is a
+_folliculaire_."
+
+"What is a _folliculaire_?" said Candide.
+
+"It is," said the Abbé, "a pamphleteer--a Fréron."[25]
+
+Thus Candide, Martin, and the Perigordian conversed on the staircase,
+while watching every one go out after the performance.
+
+"Although I am eager to see Cunegonde again," said Candide, "I should
+like to sup with Miss Clairon, for she appears to me admirable."
+
+The Abbé was not the man to approach Miss Clairon, who saw only good
+company.
+
+"She is engaged for this evening," he said, "but I shall have the honour
+to take you to the house of a lady of quality, and there you will know
+Paris as if you had lived in it for years."
+
+Candide, who was naturally curious, let himself be taken to this lady's
+house, at the end of the Faubourg St. (Length: 934 characters)

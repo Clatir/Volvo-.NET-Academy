@@ -1,0 +1,158 @@
+Title: A Modest Proposal
+
+
+Top 10 Shortest Sentences:
+- Section 1. (Words: 2)
+- Many other advantages might be enumerated. (Words: 6)
+- U.S. laws alone swamp our small staff. (Words: 8)
+- I have too long digressed, and therefore shall return to my subject. (Words: 12)
+
+Top 10 Longest Words:
+- unenforceability (Length: 16 characters)
+- representations (Length: 15 characters)
+- MERCHANTABILITY (Length: 15 characters)
+- Redistribution (Length: 14 characters)
+- redistribution (Length: 14 characters)
+- Redistributing (Length: 14 characters)
+- redistributing (Length: 14 characters)
+- nonproprietary (Length: 14 characters)
+- electronically (Length: 14 characters)
+- identification (Length: 14 characters)
+
+Top 10 Most Common Letters:
+- e (Occurrences: 3765)
+- t (Occurrences: 2903)
+- o (Occurrences: 2624)
+- a (Occurrences: 2201)
+- r (Occurrences: 2196)
+- n (Occurrences: 2189)
+- i (Occurrences: 2119)
+- s (Occurrences: 1645)
+- h (Occurrences: 1379)
+- d (Occurrences: 1121)
+
+Top 10 Most Common Words:
+- the (Occurrences: 357)
+- of (Occurrences: 259)
+- to (Occurrences: 189)
+- and (Occurrences: 181)
+- a (Occurrences: 152)
+- in (Occurrences: 130)
+- or (Occurrences: 111)
+- gutenberg (Occurrences: 97)
+- project (Occurrences: 89)
+- you (Occurrences: 75)
+Top 10 Longest Sentences:
+- And secondly,
+There being a round million of creatures in humane figure throughout
+this kingdom, whose whole subsistence put into a common stock, would
+leave them in debt two million of pounds sterling, adding those who are
+beggars by profession, to the bulk of farmers, cottagers and labourers,
+with their wives and children, who are beggars in effect; I desire
+those politicians who dislike my overture, and may perhaps be so bold
+to attempt an answer, that they will first ask the parents of these
+mortals, whether they would not at this day think it a great happiness
+to have been sold for food at a year old, in the manner I prescribe,
+and thereby have avoided such a perpetual scene of misfortunes, as they
+have since gone through, by the oppression of landlords, the
+impossibility of paying rent without money or trade, the want of common
+sustenance, with neither house nor clothes to cover them from the
+inclemencies of the weather, and the most inevitable prospect of
+intailing the like, or greater miseries, upon their breed for ever. (Length: 1059 characters)
+- Therefore let no man talk to me of
+other expedients: Of taxing our absentees at five shillings a pound: Of
+using neither clothes, nor houshold furniture, except what is of our
+own growth and manufacture: Of utterly rejecting the materials and
+instruments that promote foreign luxury: Of curing the expensiveness of
+pride, vanity, idleness, and gaming in our women: Of introducing a vein
+of parsimony, prudence and temperance: Of learning to love our country,
+wherein we differ even from Laplanders, and the inhabitants of
+Topinamboo: Of quitting our animosities and factions, nor acting any
+longer like the Jews, who were murdering one another at the very moment
+their city was taken: Of being a little cautious not to sell our
+country and consciences for nothing: Of teaching landlords to have at
+least one degree of mercy towards their tenants. (Length: 858 characters)
+- INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause. (Length: 685 characters)
+- But in order to justify my friend, he confessed, that this expedient
+was put into his head by the famous Psalmanaazor, a native of the
+island Formosa, who came from thence to London, above twenty years ago,
+and in conversation told my friend, that in his country, when any young
+person happened to be put to death, the executioner sold the carcass to
+persons of quality, as a prime dainty; and that, in his time, the body
+of a plump girl of fifteen, who was crucified for an attempt to poison
+the Emperor, was sold to his imperial majesty’s prime minister of
+state, and other great mandarins of the court in joints from the
+gibbet, at four hundred crowns. (Length: 664 characters)
+- For we can neither
+employ them in handicraft or agriculture; they neither build houses, (I
+mean in the country) nor cultivate land: they can very seldom pick up a
+livelihood by stealing till they arrive at six years old; except where
+they are of towardly parts, although I confess they learn the rudiments
+much earlier; during which time they can however be properly looked
+upon only as probationers; as I have been informed by a principal
+gentleman in the county of Cavan, who protested to me, that he never
+knew above one or two instances under the age of six, even in a part of
+the kingdom so renowned for the quickest proficiency in that art. (Length: 655 characters)
+- You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. (Length: 620 characters)
+- Infant’s flesh will be in season throughout the year, but more
+plentiful in March, and a little before and after; for we are told by a
+grave author, an eminent French physician, that fish being a prolifick
+dyet, there are more children born in Roman Catholick countries about
+nine months after Lent, than at any other season; therefore, reckoning
+a year after Lent, the markets will be more glutted than usual, because
+the number of Popish infants, is at least three to one in this kingdom,
+and therefore it will have one other collateral advantage, by lessening
+the number of Papists among us. (Length: 602 characters)
+- It is true, a child just dropt from its dam, may be
+supported by her milk, for a solar year, with little other nourishment:
+at most not above the value of two shillings, which the mother may
+certainly get, or the value in scraps, by her lawful occupation of
+begging; and it is exactly at one year old that I propose to provide
+for them in such a manner, as, instead of being a charge upon their
+parents, or the parish, or wanting food and raiment for the rest of
+their lives, they shall, on the contrary, contribute to the feeding,
+and partly to the clothing of many thousands. (Length: 585 characters)
+- The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. (Length: 544 characters)
+- Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. (Length: 511 characters)

@@ -1,0 +1,545 @@
+Title: Beowulf: An Anglo-Saxon Epic Poem
+
+
+Top 10 Shortest Sentences:
+- Epopée Anglo-Saxonne. (Words: 2)
+- Joy is boundless. (Words: 3)
+- March and James A. (Words: 4)
+- Then he advances towards Beowulf. (Words: 5)
+- There he sees Grendel lying dead. (Words: 6)
+- A fierce and desperate hand-to-hand struggle ensues. (Words: 7)
+- U.S. laws alone swamp our small staff. (Words: 8)
+- The Heyne-Socin text and glossary have been closely followed. (Words: 9)
+- Goes to the help of Hrothgar against the monster Grendel. (Words: 10)
+- The joy of king and retainers is, however, of short duration. (Words: 11)
+
+Top 10 Longest Words:
+- unenforceability (Length: 16 characters)
+- _Approximately_ (Length: 15 characters)
+- characteristics (Length: 15 characters)
+- Congratulations (Length: 15 characters)
+- interpretations (Length: 15 characters)
+- eaforhéafodsegn (Length: 15 characters)
+- notwithstanding (Length: 15 characters)
+- representations (Length: 15 characters)
+- MERCHANTABILITY (Length: 15 characters)
+- scientifically (Length: 14 characters)
+
+Top 10 Most Common Letters:
+- e (Occurrences: 26661)
+- t (Occurrences: 16900)
+- o (Occurrences: 14593)
+- a (Occurrences: 13952)
+- r (Occurrences: 13279)
+- h (Occurrences: 13200)
+- n (Occurrences: 12970)
+- s (Occurrences: 12175)
+- i (Occurrences: 11827)
+- d (Occurrences: 9003)
+
+Top 10 Most Common Words:
+- the (Occurrences: 3309)
+- of (Occurrences: 1640)
+- to (Occurrences: 1087)
+- and (Occurrences: 875)
+- in (Occurrences: 717)
+- a (Occurrences: 584)
+- he (Occurrences: 567)
+- his (Occurrences: 555)
+- with (Occurrences: 443)
+- s (Occurrences: 440)
+Top 10 Longest Sentences:
+- PAGE
+
+      Preface                                                   vii
+
+      Bibliography of Translations                               xi
+
+      Glossary of Proper Names                                 xiii
+
+      List of Words and Phrases not in General Use            xviii
+
+      The Life and Death of Scyld (I.)                            1
+
+      Scyld's Successors
+                                 } (II.)                          3
+      Hrothgar's Great Mead-Hall
+
+      Grendel, the Murderer (III.)                                5
+
+      Beowulf Goes to Hrothgar's Assistance (IV.)                 8
+
+      The Geats Reach Heorot (V.)                                10
+
+      Beowulf Introduces Himself at the Palace (VI.)             12
+
+      Hrothgar and Beowulf (VII.)                                14
+
+      Hrothgar and Beowulf (continued) (VIII.)                   17
+
+      Unferth Taunts Beowulf (IX.)                               19
+
+      Beowulf Silences Unferth
+                               } (X.)                            21
+      Glee is High
+
+      All Sleep save One (XI.)                                   24
+
+      Grendel and Beowulf (XII.)                                 26
+
+      Grendel is Vanquished (XIII.)                              28
+
+      Rejoicing of the Danes (XIV.)                              30
+
+      Hrothgar's Gratitude (XV.)                                 33
+
+      Hrothgar Lavishes Gifts upon his Deliverer (XVI.)          35
+
+      Banquet (continued)
+                                       } (XVII.)                 37
+      The Scop's Song of Finn and Hnæf
+
+      The Finn Episode (continued)
+                                   } (XVIII.)                    39
+      The Banquet Continues
+
+      Beowulf Receives Further Honor (XIX.)                      41
+
+      The Mother of Grendel (XX.)                                44
+
+      Hrothgar's Account of the Monsters (XXI.)                  46
+
+      Beowulf Seeks Grendel's Mother (XXII.)                     48
+
+      Beowulf's Fight with Grendel's Mother (XXIII.)             51
+
+      Beowulf is Double-Conqueror (XXIV.)                        53
+
+[vi]  Beowulf Brings his Trophies
+                                  } (XXV.)                       57
+      Hrothgar's Gratitude
+
+      Hrothgar Moralizes
+                         } (XXVI.)                               60
+      Rest after Labor
+
+      Sorrow at Parting (XXVII.)                                 62
+
+      The Homeward Journey
+                           } (XXVIII.)                           64
+      The Two Queens
+
+      Beowulf and Higelac (XXIX.)                                67
+
+      Beowulf Narrates his Adventures to Higelac (XXX.)          69
+
+      Gift-Giving is Mutual (XXXI.)                              73
+
+      The Hoard and the Dragon (XXXII.)                          75
+
+      Brave Though Aged
+                        } (XXXIII.)                              78
+      Reminiscences
+
+      Beowulf Seeks the Dragon
+                               } (XXXIV.)                        81
+      Beowulf's Reminiscences
+
+      Reminiscences (continued)
+                                } (XXXV.)                        83
+      Beowulf's Last Battle
+
+      Wiglaf the Trusty
+                                                  } (XXXVI.)     88
+      Beowulf is Deserted by Friends and by Sword
+
+      The Fatal Struggle
+                             } (XXXVII.)                         91
+      Beowulf's Last Moments
+
+      Wiglaf Plunders the Dragon's Den
+                                       } (XXXVIII.)              93
+      Beowulf's Death
+
+      The Dead Foes
+                             } (XXXIX.)                          95
+      Wiglaf's Bitter Taunts
+
+      The Messenger of Death (XL.)                               97
+
+      The Messenger's Retrospect (XLI.)                          99
+
+      Wiglaf's Sad Story
+                            } (XLII.)                           103
+      The Hoard Carried Off
+
+      The Burning of Beowulf (XLIII.)                           106
+
+      Addenda                                                   109
+
+[vii]
+
+
+
+
+PREFACE. (Length: 4318 characters)
+- No lot then decided
+          Who that hoard should havoc, when hero-earls saw it
+          Lying in the cavern uncared-for entirely,
+          Rusting to ruin: they rued then but little
+       70 That they hastily hence hauled out the treasure,
+
+{They push the dragon over the wall.}
+
+          The dear-valued jewels; the dragon eke pushed they,
+          The worm o'er the wall, let the wave-currents take him,
+[106]     The waters enwind the ward of the treasures.
+
+{The hoard is laid on a wain.}
+
+          There wounden gold on a wain was uploaded,
+       75 A mass unmeasured, the men-leader off then,
+          The hero hoary, to Whale's-Ness was carried.
+
+    [1] For 'gehýdde,' B. suggests 'gehýðde': the passage would stand as
+    above except the change of 'hidden' (v. 2) to 'plundered.' The
+    reference, however, would be to the thief, not to the dragon.
+
+    [2] The passage 'Wundur ... búan' (3063-3066), M. took to be a
+    question asking whether it was strange that a man should die when his
+    appointed time had come.--B. sees a corruption, and makes emendations
+    introducing the idea that a brave man should not die from sickness or
+    from old age, but should find death in the performance of some deed of
+    daring.--S. sees an indirect question introduced by 'hwár' and
+    dependent upon 'wundur': _A secret is it when the hero is to die,
+    etc_.--Why may the two clauses not be parallel, and the whole passage
+    an Old English cry of '_How wonderful is death!'?_--S.'s is the best
+    yet offered, if 'wundor' means 'mystery.'
+
+    [3] For 'strude' in H.-So., S. suggests 'stride.' This would require
+    'ravage' (v. 16) to be changed to 'tread.'
+
+    [4] 'He cared ... sight of' (17, 18), S. emends so as to read as
+    follows: _He (Beowulf) had not before seen the favor of the avaricious
+    possessor._
+
+    [5] B. renders: _That which drew the king thither_ (i.e. _the
+    treasure_) _was granted us, but in such a way that it overcomes us._
+
+    [6] 'Folc-ágende' (3114) B. takes as dat. sing. with 'gódum,' and
+    refers it to Beowulf; that is, _Should bring fire-wood to the place
+    where the good folk-ruler lay_.
+
+    [7] C. proposes to take 'weaxan' = L. 'vescor,' and translate
+    _devour_. (Length: 2295 characters)
+- Clomb to the prow then
+          Well-equipped warriors: the wave-currents twisted
+          The sea on the sand; soldiers then carried
+       25 On the breast of the vessel bright-shining jewels,
+          Handsome war-armor; heroes outshoved then,
+          Warmen the wood-ship, on its wished-for adventure.
+
+[9]
+
+{The vessel sails like a bird}
+
+          The foamy-necked floater fanned by the breeze,
+          Likest a bird, glided the waters,
+
+{In twenty four hours they reach the shores of Hrothgar's dominions}
+
+       30 Till twenty and four hours thereafter
+          The twist-stemmed vessel had traveled such distance
+          That the sailing-men saw the sloping embankments,
+          The sea cliffs gleaming, precipitous mountains,
+          Nesses enormous: they were nearing the limits
+       35 At the end of the ocean.[2] Up thence quickly
+          The men of the Weders clomb to the mainland,
+          Fastened their vessel (battle weeds rattled,
+          War burnies clattered), the Wielder they thanked
+          That the ways o'er the waters had waxen so gentle.
+
+{They are hailed by the Danish coast guard}
+
+       40 Then well from the cliff edge the guard of the Scyldings
+          Who the sea-cliffs should see to, saw o'er the gangway
+          Brave ones bearing beauteous targets,
+          Armor all ready, anxiously thought he,
+          Musing and wondering what men were approaching.
+       45 High on his horse then Hrothgar's retainer
+          Turned him to coastward, mightily brandished
+          His lance in his hands, questioned with boldness.
+
+{His challenge}
+
+          "Who are ye men here, mail-covered warriors
+          Clad in your corslets, come thus a-driving
+       50 A high riding ship o'er the shoals of the waters,
+          [3]And hither 'neath helmets have hied o'er the ocean?
+[10]      I have been strand-guard, standing as warden,
+          Lest enemies ever anywise ravage
+          Danish dominions with army of war-ships.
+       55 More boldly never have warriors ventured
+          Hither to come; of kinsmen's approval,
+          Word-leave of warriors, I ween that ye surely
+
+{He is struck by Beowulf's appearance.}
+
+          Nothing have known. (Length: 2272 characters)
+- There stood round about him beakers and vessels,
+          Dishes were lying and dear-valued weapons,
+      105 With iron-rust eaten, as in earth's mighty bosom
+          A thousand of winters there they had rested:
+
+{The hoard was under a magic spell.}
+
+          That mighty bequest then with magic was guarded,
+          Gold of the ancients, that earlman not any
+          The ring-hall could touch, save Ruling-God only,
+[103] 110 Sooth-king of Vict'ries gave whom He wished to
+
+{God alone could give access to it.}
+
+          [6](He is earth-folk's protector) to open the treasure,
+          E'en to such among mortals as seemed to Him proper.
+
+    [1] For 'góda,' which seems a surprising epithet for a Geat to apply
+    to the "terrible" Ongentheow, B. suggests 'gomela.' The passage would
+    then stand: '_The old one went then,' etc._
+
+    [2] For 'segn Higeláce,' K., Th., and B. propose 'segn Higeláces,'
+    meaning: _Higelac's banner followed the Swedes (in pursuit)._--S.
+    suggests 'sæcc Higeláces,' and renders: _Higelac's pursuit._--The
+    H.-So. reading, as translated in our text, means that the banner of
+    the enemy was captured and brought to Higelac as a trophy.
+
+    [3] The rendering given in this translation represents the king as
+    being generous beyond the possibility of reproach; but some
+    authorities construe 'him' (2996) as plu., and understand the passage
+    to mean that no one reproached the two brothers with having received
+    more reward than they were entitled to.
+
+    [4] The name 'Scyldingas' here (3006) has caused much discussion, and
+    given rise to several theories, the most important of which are as
+    follows: (1) After the downfall of Hrothgar's family, Beowulf was king
+    of the Danes, or Scyldings. (2) For 'Scyldingas' read
+    'Scylfingas'--that is, after killing Eadgils, the Scylfing prince,
+    Beowulf conquered his land, and held it in subjection. (3) M.
+    considers 3006 a thoughtless repetition of 2053. (Cf. (Length: 2032 characters)
+- Thy life thou shalt save, mighty in actions,
+          Atheling undaunted, with all of thy vigor;
+
+{The monster advances on them.}
+
+          I'll give thee assistance." The dragon came raging,
+       65 Wild-mooded stranger, when these words had been uttered
+          ('Twas the second occasion), seeking his enemies,
+          Men that were hated, with hot-gleaming fire-waves;
+          With blaze-billows burned the board to its edges:
+          The fight-armor failed then to furnish assistance
+       70 To the youthful spear-hero: but the young-agèd stripling
+          Quickly advanced 'neath his kinsman's war-target,
+          Since his own had been ground in the grip of the fire.
+
+{Beowulf strikes at the dragon.}
+
+          Then the warrior-king was careful of glory,
+          He soundly smote with sword-for-the-battle,
+       75 That it stood in the head by hatred driven;
+          Nægling was shivered, the old and iron-made
+
+{His sword fails him.}
+
+          Brand of Beowulf in battle deceived him.
+          'Twas denied him that edges of irons were able
+          To help in the battle; the hand was too mighty
+       80 [2]Which every weapon, as I heard on inquiry,
+          Outstruck in its stroke, when to struggle he carried
+          The wonderful war-sword: it waxed him no better.
+
+{The dragon advances on Beowulf again.}
+
+          Then the people-despoiler--third of his onsets--
+          Fierce-raging fire-drake, of feud-hate was mindful,
+       85 Charged on the strong one, when chance was afforded,
+          Heated and war-grim, seized on his neck
+          With teeth that were bitter; he bloody did wax with
+          Soul-gore seething; sword-blood in waves boiled.
+
+    [1] The passage '_Brand ... burnie_,' is much disputed. (Length: 1809 characters)
+- Yet safety regarding
+       45 He suffered his hand behind him to linger,
+          His arm and shoulder, to act as watcher;
+
+{He left his hand and arm behind.}
+
+          No shadow of solace the woe-begone creature
+          Found him there nathless: the hated destroyer
+          Liveth no longer, lashed for his evils,
+       50 But sorrow hath seized him, in snare-meshes hath him
+          Close in its clutches, keepeth him writhing
+          In baleful bonds: there banished for evil
+          The man shall wait for the mighty tribunal,
+
+{God will give him his deserts.}
+
+          How the God of glory shall give him his earnings."
+       55 Then the soldier kept silent, son of old Ecglaf,
+
+{Unferth has nothing more to say, for Beowulf's actions speak louder than
+words.}
+
+          From boasting and bragging of battle-achievements,
+          Since the princes beheld there the hand that depended
+          'Neath the lofty hall-timbers by the might of the nobleman,
+          Each one before him, the enemy's fingers;
+       60 Each finger-nail strong steel most resembled,
+          The heathen one's hand-spur, the hero-in-battle's
+          Claw most uncanny; quoth they agreeing,
+
+[35]
+
+{No sword will harm the monster.}
+
+          That not any excellent edges of brave ones
+          Was willing to touch him, the terrible creature's
+       65 Battle-hand bloody to bear away from him.
+
+    [1] B. and t.B. read 'staþole,' and translate _stood on the floor_.
+
+    [2] For 'snaring from Grendel,' 'sorrows at Grendel's hands' has been
+    suggested. (Length: 1607 characters)
+- I then make thee this promise,
+
+{Heorot is freed from monsters.}
+
+          Thou'lt be able in Heorot careless to slumber
+          With thy throng of heroes and the thanes of thy people
+          Every and each, of greater and lesser,
+          And thou needest not fear for them from the selfsame direction
+       25 As thou formerly fearedst, oh, folk-lord of Scyldings,
+[58]     End-day for earlmen." To the age-hoary man then,
+
+{The famous sword is presented to Hrothgar.}
+
+          The gray-haired chieftain, the gold-fashioned sword-hilt,
+          Old-work of giants, was thereupon given;
+          Since the fall of the fiends, it fell to the keeping
+       30 Of the wielder of Danemen, the wonder-smith's labor,
+          And the bad-mooded being abandoned this world then,
+          Opponent of God, victim of murder,
+          And also his mother; it went to the keeping
+          Of the best of the world-kings, where waters encircle,
+       35 Who the scot divided in Scylding dominion.
+
+{Hrothgar looks closely at the old sword.}
+
+          Hrothgar discoursed, the hilt he regarded,
+          The ancient heirloom where an old-time contention's
+          Beginning was graven: the gurgling currents,
+          The flood slew thereafter the race of the giants,
+       40 They had proved themselves daring: that people was loth to
+
+{It had belonged to a race hateful to God.}
+
+          The Lord everlasting, through lash of the billows
+          The Father gave them final requital. (Length: 1533 characters)
+- Ohthere's son then
+          Went with a war-troop o'er the wide-stretching currents
+        5 With warriors and weapons: with woe-journeys cold he
+          After avenged him, the king's life he took.
+
+{Beowulf has been preserved through many perils.}
+
+          So he came off uninjured from all of his battles,
+          Perilous fights, offspring of Ecgtheow,
+          From his deeds of daring, till that day most momentous
+       10 When he fate-driven fared to fight with the dragon.
+
+{With eleven comrades, he seeks the dragon.}
+
+          With eleven companions the prince of the Geatmen
+          Went lowering with fury to look at the fire-drake:
+          Inquiring he'd found how the feud had arisen,
+          Hate to his heroes; the highly-famed gem-vessel
+       15 Was brought to his keeping through the hand of th' informer.
+
+{A guide leads the way, but}
+
+          That in the throng was thirteenth of heroes,
+          That caused the beginning of conflict so bitter,
+          Captive and wretched, must sad-mooded thenceward
+
+{very reluctantly.}
+
+          Point out the place: he passed then unwillingly
+       20 To the spot where he knew of the notable cavern,
+          The cave under earth, not far from the ocean,
+          The anger of eddies, which inward was full of
+          Jewels and wires: a warden uncanny,
+[82]      Warrior weaponed, wardered the treasure,
+       25 Old under earth; no easy possession
+          For any of earth-folk access to get to. (Length: 1525 characters)
+- BRAVE THOUGH AGED.--REMINISCENCES.
+
+
+{The dragon spits fire.}
+
+          The stranger began then to vomit forth fire,
+          To burn the great manor; the blaze then glimmered
+          For anguish to earlmen, not anything living
+[79]      Was the hateful air-goer willing to leave there.
+        5 The war of the worm widely was noticed,
+          The feud of the foeman afar and anear,
+          How the enemy injured the earls of the Geatmen,
+          Harried with hatred: back he hied to the treasure,
+          To the well-hidden cavern ere the coming of daylight.
+       10 He had circled with fire the folk of those regions,
+          With brand and burning; in the barrow he trusted,
+          In the wall and his war-might: the weening deceived him.
+
+{Beowulf hears of the havoc wrought by the dragon.}
+
+          Then straight was the horror to Beowulf published,
+          Early forsooth, that his own native homestead,[1]
+       15 The best of buildings, was burning and melting,
+          Gift-seat of Geatmen. 'Twas a grief to the spirit
+          Of the good-mooded hero, the greatest of sorrows:
+
+{He fears that Heaven is punishing him for some crime.}
+
+          The wise one weened then that wielding his kingdom
+          'Gainst the ancient commandments, he had bitterly angered
+       20 The Lord everlasting: with lorn meditations
+          His bosom welled inward, as was nowise his custom. (Length: 1447 characters)
+- As, however, this book may fall
+into the hands of some who have no copy of the American edition, it seems
+best to notice all the principal oversights of the German editors.
+
+~From hám~ (194).--Notes and glossary conflict; the latter not having been
+altered to suit the conclusions accepted in the former.
+
+~Þær gelýfan sceal dryhtnes dóme~ (440).--Under 'dóm' H. says 'the might
+of the Lord'; while under 'gelýfan' he says 'the judgment of the Lord.'
+
+~Eal bencþelu~ (486).--Under 'benc-þelu' H. says _nom. plu._; while under
+'eal' he says _nom. sing._
+
+~Heatho-ræmas~ (519).--Under 'ætberan' H. translates 'to the Heathoremes';
+while under 'Heatho-ræmas' he says 'Heathoræmas reaches Breca in the
+swimming-match with Beowulf.' Harrison and Sharp (3d edition, 1888) avoid
+the discrepancy.
+
+~Fáh féond-scaða~ (554).--Under 'féond-scaða' H. says 'a gleaming
+sea-monster'; under 'fáh' he says 'hostile.'
+
+~Onfeng hraðe inwit-þancum~ (749).--Under 'onfón' H. says 'he _received_
+the maliciously-disposed one'; under 'inwit-þanc' he says 'he _grasped_,'
+etc.
+
+~Níð-wundor séon~ (1366).--Under 'níð-wundor' H. calls this word itself
+_nom. sing._; under 'séon' he translates it as accus. sing., understanding
+'man' as subject of 'séon.' H. and S. (3d edition) make the correction.
+
+~Forgeaf hilde-bille~ (1521).--H., under the second word, calls it instr.
+dat.; while under 'forgifan' he makes it the dat. of indir. obj. (Length: 1443 characters)
