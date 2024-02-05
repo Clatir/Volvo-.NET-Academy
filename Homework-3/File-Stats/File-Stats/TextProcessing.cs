@@ -2,12 +2,13 @@
 using System.Collections.Concurrent;
 using System.IO;
 using System.Linq;
+using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 internal static class TextProcessing
 {
-    
+   
     private static ConcurrentDictionary<string, int> GlobalLongestSentences = new ConcurrentDictionary<string, int>();
     private static ConcurrentDictionary<string, int> GlobalShortestSentences = new ConcurrentDictionary<string, int>();
     private static ConcurrentDictionary<string, int> GlobalLongestWords = new ConcurrentDictionary<string, int>();
@@ -18,7 +19,7 @@ internal static class TextProcessing
 
     private static void UpdateGlobalStats(Book book)
     {
-        
+       
         UpdateGlobalLongestSentences(new ConcurrentDictionary<string, int>(book.LongestSentences));
         UpdateGlobalShortestSentences(new ConcurrentDictionary<string, int>(book.ShortestSentences));
         UpdateGlobalLongestWords(new ConcurrentDictionary<string, int>(book.LongestWords));
@@ -82,19 +83,19 @@ internal static class TextProcessing
 
     private static void ProcessGlobalStats()
     {
-        
+       
         var sortedLongestWords = GlobalLongestWords.OrderByDescending(pair => pair.Value)
             .Take(10)
             .ToDictionary(pair => pair.Key, pair => pair.Value);
         GlobalLongestWords = new ConcurrentDictionary<string, int>(sortedLongestWords);
 
-        
+       
         var sortedMostCommonLetters = GlobalMostCommonLetters.OrderByDescending(pair => pair.Value)
             .Take(10)
             .ToDictionary(pair => pair.Key, pair => pair.Value);
         GlobalMostCommonLetters = new ConcurrentDictionary<string, int>(sortedMostCommonLetters);
 
-        
+       
         var sortedMostCommonWords = GlobalMostCommonWords.OrderByDescending(pair => pair.Value)
             .Take(10)
             .ToDictionary(pair => pair.Key, pair => pair.Value);
@@ -106,7 +107,7 @@ internal static class TextProcessing
             .ToDictionary(pair => pair.Key, pair => pair.Value);
         GlobalShortestSentences = new ConcurrentDictionary<string, int>(sortedShortestSentences);
 
-        
+       
         var sortedLongestSentences = GlobalLongestSentences.OrderByDescending(pair => pair.Value)
             .Take(10)
             .ToDictionary(pair => pair.Key, pair => pair.Value);
@@ -116,7 +117,8 @@ internal static class TextProcessing
 
     class Book
     {
-        private string content { get; set; }
+        private StringBuilder content { get; set; }
+
 
         private String path { get; set; }
 
@@ -138,7 +140,7 @@ internal static class TextProcessing
 
         public Book(string path)
         {
-            content = "";
+            content = new StringBuilder();
             title = "";
             BytesProcessed = 0;
             SentencesProcessed = 0;
@@ -162,14 +164,19 @@ internal static class TextProcessing
             WordsProcessed = Words.Count;
         }
 
+        public string GetProcessingStats()
+        {
+            return $"Processed: {BytesProcessed} bytes, {WordsProcessed} words, {SentencesProcessed} sentences.";
+        }
+
         private void ParseWords()
         {
-            Words.AddRange(Regex.Split(content, @"\W+").Where(word => !string.IsNullOrEmpty(word)));
+            Words.AddRange(Regex.Split(content.ToString(), @"\W+").Where(word => !string.IsNullOrEmpty(word)));
         }
 
         private void ParsePunctuation()
         {
-            Punctuation.AddRange(Regex.Matches(content, @"[^\w\s]|_")
+            Punctuation.AddRange(Regex.Matches(content.ToString(), @"[^\w\s]|_")
                                  .Cast<Match>()
                                  .Select(match => match.Value)
                                  .Where(punctuation => !string.IsNullOrEmpty(punctuation)));
@@ -181,14 +188,14 @@ internal static class TextProcessing
             foreach (var sentence in Sentences)
             {
                 int length = sentence.Length;
-                
+               
                 if (!LongestSentences.ContainsKey(sentence))
                 {
                     LongestSentences.Add(sentence, length);
                 }
             }
 
-            
+           
             LongestSentences = LongestSentences.OrderByDescending(pair => pair.Value)
                                                .ToDictionary(pair => pair.Key, pair => pair.Value);
         }
@@ -214,7 +221,7 @@ internal static class TextProcessing
                 }
             }
 
-
+           
             ShortestSentences = ShortestSentences.OrderBy(pair => pair.Value)
                                                  .ToDictionary(pair => pair.Key, pair => pair.Value);
         }
@@ -224,7 +231,7 @@ internal static class TextProcessing
 
         private void AddAndSortLongestWords()
         {
-
+           
             foreach (var word in Words)
             {
                 int length = word.Length;
@@ -234,16 +241,17 @@ internal static class TextProcessing
                 }
             }
 
+           
             LongestWords = LongestWords.OrderByDescending(pair => pair.Value)
                                        .ToDictionary(pair => pair.Key, pair => pair.Value);
         }
 
         private void ParseLettersAndSort()
         {
-  
-            foreach (char c in content.ToLower()) 
+           
+            foreach (char c in content.ToString().ToLower()) 
             {
-                if (char.IsLetter(c)) 
+                if (char.IsLetter(c))
                 {
                     if (MostCommonLetters.ContainsKey(c.ToString()))
                     {
@@ -256,7 +264,7 @@ internal static class TextProcessing
                 }
             }
 
-
+           
             MostCommonLetters = MostCommonLetters.OrderByDescending(pair => pair.Value)
                                                  .ToDictionary(pair => pair.Key, pair => pair.Value);
         }
@@ -277,19 +285,25 @@ internal static class TextProcessing
                 }
             }
 
+          
             MostCommonWords = MostCommonWords.OrderByDescending(pair => pair.Value)
                                              .ToDictionary(pair => pair.Key, pair => pair.Value);
         }
-  
+
         public async Task ParseAsync()
         {
-            content = await File.ReadAllTextAsync(path);
+            var fileContent = await File.ReadAllTextAsync(path);
+            content.Clear();
+            content.Append(fileContent);
+
 
 
             ExtractTitle(); 
 
-            Sentences = Regex.Split(content, @"(?<=[\.!\?])\s+(?=[A-Z])").ToList();
+            
+            Sentences = Regex.Split(content.ToString(), @"(?<=[\.!\?])\s+(?=[A-Z])").ToList();
 
+           
             ParseWords();
             ParsePunctuation();
             ParseLettersAndSort();
@@ -301,7 +315,7 @@ internal static class TextProcessing
         }
         public string ExtractTitle()
         {
-            var titleLine = content.Split(new[] { "\r\n", "\r", "\n" }, StringSplitOptions.None)
+            var titleLine = content.ToString().Split(new[] { "\r\n", "\r", "\n" }, StringSplitOptions.None)
                                     .FirstOrDefault(line => line.Contains("The Project Gutenberg eBook of"));
 
             if (titleLine != null)
@@ -311,7 +325,7 @@ internal static class TextProcessing
                 return title;
             }
 
-            title = "Unknown Title";
+            title = "Unknown Title"; 
             return title;
         }
 
@@ -320,7 +334,7 @@ internal static class TextProcessing
 
         public void SaveStatisticsToFile(string resultFolderPath)
         {
-
+            
             string safeTitle = title.Replace(':', '-').Replace('?', '-').Replace('/', '-').Replace('\\', '-')
                                     .Replace('|', '-').Replace('*', '-').Replace('"', '-').Replace('<', '-')
                                     .Replace('>', '-').Replace('\n', '-').Replace('\r', '-').Trim();
@@ -333,7 +347,6 @@ internal static class TextProcessing
                 Directory.CreateDirectory(resultFolderPath);
             }
 
-            
             using (StreamWriter writer = new StreamWriter(filePath))
             {
                 writer.WriteLine($"Title: {title}\n");
@@ -376,14 +389,13 @@ internal static class TextProcessing
     public static async Task SaveGlobalStatisticsToFile()
     {
         
-        string baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
-
-        
+        string baseDirectory = AppDomain.CurrentDomain.BaseDirectory;               
         var projectDirectoryInfo = Directory.GetParent(baseDirectory); 
+
         for (int i = 0; i < 3; i++) 
         {
             if (projectDirectoryInfo != null) projectDirectoryInfo = projectDirectoryInfo.Parent;
-            else break;
+            else break; 
         }
 
         if (projectDirectoryInfo == null)
@@ -392,10 +404,7 @@ internal static class TextProcessing
             return;
         }
 
-        
-        string filePath = Path.Combine(projectDirectoryInfo.FullName, "GlobalStatistics.txt");
-
-        
+        string filePath = Path.Combine(projectDirectoryInfo.FullName, "GlobalStatistics.txt");        
         using (StreamWriter writer = new StreamWriter(filePath, false))
         {
             await writer.WriteLineAsync("\nGlobal Top 10 Longest Words:");
@@ -434,13 +443,14 @@ internal static class TextProcessing
 
 
 
+
     public static void AggregateGlobalResults()
     {
         
         Func<ConcurrentDictionary<string, int>, IEnumerable<KeyValuePair<string, int>>> sortAndTakeTop10 =
             (source) => source.OrderByDescending(pair => pair.Value).Take(10);
 
-        
+       
         GlobalLongestSentences = new ConcurrentDictionary<string, int>(sortAndTakeTop10(GlobalLongestSentences).ToDictionary(kv => kv.Key, kv => kv.Value));
         GlobalShortestSentences = new ConcurrentDictionary<string, int>(sortAndTakeTop10(GlobalShortestSentences).ToDictionary(kv => kv.Key, kv => kv.Value));
         GlobalLongestWords = new ConcurrentDictionary<string, int>(sortAndTakeTop10(GlobalLongestWords).ToDictionary(kv => kv.Key, kv => kv.Value));
@@ -451,7 +461,7 @@ internal static class TextProcessing
     {
         string baseDirectory = AppDomain.CurrentDomain.BaseDirectory;
         var projectDirectoryInfo = Directory.GetParent(baseDirectory);
-        for (int i = 0; i < 3; i++) 
+        for (int i = 0; i < 3; i++)
         {
             projectDirectoryInfo = projectDirectoryInfo?.Parent;
         }
@@ -478,13 +488,31 @@ internal static class TextProcessing
         await Task.WhenAll(processingTasks);
     }
 
+
+
+
+
+
     private static async Task ProcessBook(string filePath, string resultFolderPath)
     {
+        Console.WriteLine();
         Console.WriteLine($"Starting processing: {filePath}");
+        Console.WriteLine();
         Book book = new Book(filePath);
         await book.ParseAsync();
+
+        string stats = book.GetProcessingStats(); 
+        string output = $"Completed processing of file: {filePath}\n{stats}";
+        
+        Console.WriteLine(output);
+        Console.WriteLine();
+
         UpdateGlobalStats(book);
         book.SaveStatisticsToFile(resultFolderPath);
-        Console.WriteLine($"Completed processing of file:  {filePath}");
     }
+
+
+
+
+
 }
