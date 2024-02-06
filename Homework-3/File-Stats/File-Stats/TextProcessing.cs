@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-internal static class TextProcessing
+static class TextProcessing
 {
    
     private static ConcurrentDictionary<string, int> GlobalLongestSentences = new ConcurrentDictionary<string, int>();
